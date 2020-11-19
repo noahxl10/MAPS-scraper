@@ -1,0 +1,3 @@
+﻿name,varname,type,timeline,terms
+Change tuition (>),st_change_tuition_(>),REDUCTION,SHORT ,"""Increase tuition”, ""raise tuition”, ""Percent increase in tuition”, ""raise cost of attendance”, ""raise fees”, ""add fees”, ""increase fees”"
+Change tuition (<=),st_change_tuition_(<=),REDUCTION,SHORT ,"""Reduce tuition”, ""freeze tuition”, ""differ tuition”, ""decrease tuition”, ""lower tuition”, ""discount tuition”, ""offer tuition discount”"

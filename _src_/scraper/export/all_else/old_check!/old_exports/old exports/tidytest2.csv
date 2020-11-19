@@ -1,0 +1,21 @@
+,school,grouping_var,term,url,present_absent,context
+0,University of Wyoming,st_change_tuition_(>), increase tuition ,https://www.collegefactual.com/colleges/university-of-wyoming/paying-for-college/tuition-and-fees/,0,NaN
+0,University of Wyoming,st_change_tuition_(>), increase tuition ,https://admissions.uni.edu/costs,0,NaN
+0,University of Wyoming,st_change_tuition_(>), increase tuition ,https://www.hubspot.com/case-studies/university-of-wyoming,0,NaN
+0,University of Wyoming,st_change_tuition_(>), increase tuition ,https://www.collegetuitioncompare.com/edu/240727/university-of-wyoming/tuition/,0,NaN
+0,University of Wyoming,st_change_tuition_(>), increase tuition ,https://tuition.uni.edu/,0,NaN
+0,University of Wyoming,st_change_tuition_(>), raise tuition ,https://www.uwyo.edu/uw/news/2019/07/uw-trustees-approve-new-financial-aid-for-wyoming-students.html,0,NaN
+0,University of Wyoming,st_change_tuition_(>), raise tuition ,https://oilcity.news/community/2019/07/22/with-tuition-hikes-uw-to-provide-new-financial-aid/,0,NaN
+0,University of Wyoming,st_change_tuition_(>), raise tuition ,https://www.raise.me/edu/university-of-wyoming,0,NaN
+0,University of Wyoming,st_change_tuition_(>), raise tuition ,https://admissions.uni.edu/costs,0,NaN
+0,University of Wyoming,st_change_tuition_(>), raise tuition ,https://tuition.uni.edu/,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), reduce tuition ,http://www.uwyo.edu/sfa/cost-of-attendance/,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), reduce tuition ,https://admissions.uni.edu/costs,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), reduce tuition ,https://tuition.uni.edu/,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), reduce tuition ,https://registrar.uni.edu/tuition-and-fees,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), reduce tuition ,https://continuinged.uni.edu/distance/tuition,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), freeze tuition ,https://admissions.uni.edu/costs,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), freeze tuition ,https://tuition.uni.edu/,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), freeze tuition ,https://registrar.uni.edu/tuition-and-fees,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), freeze tuition ,https://continuinged.uni.edu/distance/tuition,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), freeze tuition ,https://www.usnews.com/education/best-colleges/the-short-list-college/articles/10-most-least-expensive-private-colleges,0,NaN

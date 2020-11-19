@@ -1,0 +1,3 @@
+,unit_ID,school,term,variable,url,status_code,metadata_date,date_originally_scraped,count,context
+432,102298,Western Carolina University,postpone maintenance,st_deferred_infrastructure_improvement,https://news-test.wcu.edu/category/news/page/449/,timeout,No_meta_date,2020-11-09 19:49:45.207129,0,NoContext
+9,102553,St. Mary's College of Maryland,open positions,st_reduce_hiring,N,timeout,No_meta_date,2020-11-09 19:49:45.206753,0,NoContext

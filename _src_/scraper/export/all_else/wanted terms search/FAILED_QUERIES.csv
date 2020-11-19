@@ -1,0 +1,118 @@
+,unit_ID,school,variable,term,url,metadata_date
+1971,100812,University of Southern Indiana,lt_inter_institutional_collaboration_co,share resources,S,S
+1976,100812,University of Southern Indiana,lt_inter_institutional_collaboration_co,share location,S,S
+1980,100812,University of Southern Indiana,lt_inter_institutional_collaboration_co,partner with another institution,S,S
+1989,100812,University of Southern Indiana,lt_inter_institutional_collaboration_co,offer degree through another institution,S,S
+1990,100812,University of Southern Indiana,lt_inter_institutional_collaboration_co,university partnership,S,S
+1991,100858,Albany State University,st_change_tuition_(>),raise tuition,S,S
+1992,100858,Albany State University,st_change_tuition_(>),add fees,S,S
+1994,100858,Albany State University,st_change_tuition_(>),increase fees,S,S
+1995,100858,Albany State University,st_change_tuition_(>),tuition increase,S,S
+1999,100858,Albany State University,st_change_tuition_(<=),freeze tuition,S,S
+2000,100858,Albany State University,st_change_tuition_(<=),reduce tuition,S,S
+2001,100858,Albany State University,st_change_tuition_(<=),decrease tuition,S,S
+2002,100858,Albany State University,st_reduce_hiring,deferred hiring deferred hiring of vacant positions,S,S
+2003,100858,Albany State University,st_change_tuition_(<=),lower tuition,S,S
+2004,100858,Albany State University,st_reduce_hiring,hiring chill,S,S
+2005,100858,Albany State University,st_reduce_hiring,hiring freeze,S,S
+2007,100858,Albany State University,st_reduce_hiring,open positions,S,S
+2008,100858,Albany State University,st_reduce_hiring,vacancies open,S,S
+2009,100858,Albany State University,st_reduce_hiring,leave positions unfilled,S,S
+2010,100858,Albany State University,st_salary_promotion_freeze,freeze salary increases,S,S
+2011,100858,Albany State University,st_salary_promotion_freeze,reduce payroll,S,S
+2012,100858,Albany State University,st_reduce_staff_and_faculty_support,salary reductions,S,S
+2013,100858,Albany State University,st_reduce_staff_and_faculty_support,pay cuts,S,S
+2014,100858,Albany State University,st_reduce_staff_and_faculty_support,reduce benefits,S,S
+2015,100858,Albany State University,st_reduce_staff_and_faculty_support,reduction of benefits,S,S
+2016,100858,Albany State University,st_reduce_staff_and_faculty_support,suspend retirement contributions,S,S
+2017,100858,Albany State University,st_voluntary_incentivized_staff_faculty_reduction,retirement incentives,S,S
+2018,100858,Albany State University,st_voluntary_incentivized_staff_faculty_reduction,voluntary furlough,S,S
+2019,100858,Albany State University,st_voluntary_incentivized_staff_faculty_reduction,buyouts,S,S
+2020,100858,Albany State University,st_voluntary_incentivized_staff_faculty_reduction,early retirement,S,S
+2021,100858,Albany State University,st_furlough_staff_faculty,staff furlough,S,S
+2022,100858,Albany State University,st_furlough_staff_faculty,faculty furlough,S,S
+2023,100858,Albany State University,st_furlough_staff_faculty,furlough,S,S
+2024,100858,Albany State University,st_deferred_infrastructure_improvement,deferred maintenance,S,S
+2025,100858,Albany State University,st_furlough_staff_faculty,furlough days,S,S
+2026,100858,Albany State University,st_deferred_infrastructure_improvement,postpone maintenance,S,S
+2027,100858,Albany State University,st_deferred_infrastructure_improvement,deferred capital projects,S,S
+2032,100858,Albany State University,st_reduce_operational_spending,operational spending reductions,S,S
+2033,100858,Albany State University,st_reduce_operational_spending,reduce travel spending,S,S
+2034,100858,Albany State University,st_reduce_operational_spending,reduce unnecessary spending,S,S
+2035,100858,Albany State University,st_reduce_operational_spending,streamline operations,S,S
+2036,100858,Albany State University,st_reduce_operational_spending,operational inefficiencies,S,S
+2037,100858,Albany State University,st_reduce_operational_spending,reduce purchases,S,S
+2038,100858,Albany State University,st_reduce_operational_spending,cut travel,S,S
+2039,100858,Albany State University,st_reduction_of_financial_aid,stop scholarships,S,S
+2040,100858,Albany State University,st_reduction_of_financial_aid,cut scholarships,S,S
+2041,100858,Albany State University,lt_reduction_or_elimination_of_student_support_programs,cut student programs,S,S
+2042,100858,Albany State University,st_reduction_of_financial_aid,scholarship funding decrease,S,S
+2043,100858,Albany State University,lt_reduction_or_elimination_of_student_support_programs,reduce student assistance,S,S
+2044,100858,Albany State University,lt_reduction_or_elimination_of_student_support_programs,eliminate advising,S,S
+2045,100858,Albany State University,lt_reduction_or_elimination_of_student_support_programs,reduce academic advising,S,S
+2046,100858,Albany State University,lt_reduction_or_elimination_of_student_support_programs,suspend appointments,S,S
+2047,100858,Albany State University,lt_reduction_or_elimination_of_student_support_programs,reduce international support,S,S
+2048,100858,Albany State University,lt_reduction_or_elimination_of_academic_departments_programs,degrees dropped,S,S
+2049,100858,Albany State University,lt_reduction_or_elimination_of_academic_departments_programs,program cuts,S,S
+2050,100858,Albany State University,lt_reduction_or_elimination_of_academic_departments_programs,reduced courses,S,S
+2051,100858,Albany State University,lt_reduction_or_elimination_of_academic_departments_programs,cut programs,S,S
+2052,100858,Albany State University,lt_reduction_or_elimination_of_academic_departments_programs,reduce degree programs,S,S
+2053,100858,Albany State University,lt_reduction_or_elimination_of_academic_departments_programs,no longer offer,S,S
+2054,100858,Albany State University,lt_reduction_of_athletic_spending_programs,cut athletics,S,S
+2055,100858,Albany State University,lt_reduction_of_athletic_spending_programs,athletics spending cuts,S,S
+2056,100858,Albany State University,lt_reduction_of_athletic_spending_programs,cut sports,S,S
+2057,100858,Albany State University,lt_reduction_of_institution_staff,cut staff,S,S
+2058,100858,Albany State University,lt_reduction_of_institution_staff,staff cuts,S,S
+2059,100858,Albany State University,lt_reduction_of_athletic_spending_programs,cut athletics budget,S,S
+2060,100858,Albany State University,lt_reduction_of_institution_faculty,layoff faculty,S,S
+2061,100858,Albany State University,lt_reduction_of_institution_staff,layoff staff,S,S
+2062,100858,Albany State University,lt_reduction_of_institution_faculty,faculty laid off,S,S
+2063,100858,Albany State University,lt_reduction_of_institution_faculty,cut faculty,S,S
+2064,100858,Albany State University,lt_reduction_of_institution_faculty,reduce faculty,S,S
+2065,100858,Albany State University,lt_reduction_of_institution_faculty,faculty cuts,S,S
+2066,100858,Albany State University,lt_reduction_or_elimination_of_administrative_departments,eliminate administrative departments,S,S
+2067,100858,Albany State University,lt_liquidate_fixed_assets,sell buildings,S,S
+2068,100858,Albany State University,lt_liquidate_fixed_assets,close buildings,S,S
+2069,100858,Albany State University,lt_reduction_or_elimination_of_administrative_departments,administrative budget cuts,S,S
+2072,100858,Albany State University,st_expand_unconventional_programs_gr,online courses,S,S
+2073,100858,Albany State University,lt_liquidate_fixed_assets,consolidate locations,S,S
+2074,100858,Albany State University,st_expand_unconventional_programs_gr,online programs,S,S
+2075,100858,Albany State University,st_expand_unconventional_programs_gr,partner with corporate entity,S,S
+2076,100858,Albany State University,st_expand_unconventional_programs_gr,offer program to company employees,S,S
+2077,100858,Albany State University,st_expand_unconventional_programs_gr,unconventional student programs,S,S
+2078,100858,Albany State University,st_expand_unconventional_programs_gr,expand to veterans,S,S
+2079,100858,Albany State University,st_expand_athletic_spending_programs_gr,increase athletics spending,S,S
+2080,100858,Albany State University,st_expand_unconventional_programs_gr,expand to minorities,S,S
+2081,100858,Albany State University,st_expand_athletic_spending_programs_gr,add new athletic programs,S,S
+2082,100858,Albany State University,st_expand_athletic_spending_programs_gr,add sport,S,S
+2083,100858,Albany State University,st_expand_unconventional_programs_gr,expand to adults,S,S
+2084,100858,Albany State University,st_expand_financial_aid_gr,new scholarships,S,S
+2085,100858,Albany State University,st_expand_financial_aid_gr,increase student financial aid,S,S
+2086,100858,Albany State University,lt_improve_infrastructure_gr,improve utilities,S,S
+2087,100858,Albany State University,lt_improve_infrastructure_gr,building improvement,S,S
+2088,100858,Albany State University,st_expand_financial_aid_gr,expand financial aid,S,S
+2089,100858,Albany State University,lt_improve_infrastructure_gr,new building,S,S
+2090,100858,Albany State University,lt_improve_student_experience_gr,counselling services’ student wellness,S,S
+2091,100858,Albany State University,lt_improve_student_experience_gr,student support,S,S
+2092,100858,Albany State University,lt_improve_student_experience_gr,offer amenities,S,S
+2093,100858,Albany State University,lt_improve_student_experience_gr,campus climate,S,S
+2094,100858,Albany State University,lt_improve_student_experience_gr,career center,S,S
+2095,100858,Albany State University,lt_improve_student_experience_gr,on-time graduation,S,S
+2098,100858,Albany State University,lt_improve_student_experience_gr,academic advising,S,S
+2099,100858,Albany State University,lt_improve_staff_faculty_support_gr,staff support programs,S,S
+2100,100858,Albany State University,lt_improve_student_experience_gr,campus life,S,S
+2101,100858,Albany State University,lt_improve_staff_faculty_support_gr,promotions,S,S
+2102,100858,Albany State University,lt_improve_staff_faculty_support_gr,tenure,S,S
+2103,100858,Albany State University,lt_improve_staff_faculty_support_gr,increase benefits,S,S
+2105,100858,Albany State University,lt_improve_student_experience_gr,food pantry,S,S
+2106,100858,Albany State University,lt_improve_staff_faculty_support_gr,increase pay,S,S
+2107,100858,Albany State University,lt_inter_institutional_collaboration_co,share program,S,S
+2108,100858,Albany State University,lt_improve_staff_faculty_support_gr,salary increase,S,S
+2109,100858,Albany State University,lt_improve_staff_faculty_support_gr,faculty advancements,S,S
+2110,100858,Albany State University,lt_inter_institutional_collaboration_co,share resources,S,S
+2111,100858,Albany State University,lt_inter_institutional_collaboration_co,share location,S,S
+2112,100858,Albany State University,lt_inter_institutional_collaboration_co,partner with another institution,S,S
+2113,100858,Albany State University,lt_inter_institutional_collaboration_co,offer courses at another location,S,S
+2114,100858,Albany State University,lt_inter_institutional_collaboration_co,consolidate campuses,S,S
+2115,100858,Albany State University,lt_inter_institutional_collaboration_co,offer degree through another institution,S,S
+2116,100858,Albany State University,lt_inter_institutional_collaboration_co,university partnership,S,S

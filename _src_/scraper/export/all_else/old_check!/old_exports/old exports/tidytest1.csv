@@ -1,0 +1,9 @@
+,school,grouping_var,term,url
+0,University of Wyoming,st_change_tuition_(>),increase tuition,https://www.collegefactual.com/colleges/university-of-wyoming/paying-for-college/tuition-and-fees/
+0,University of Wyoming,st_change_tuition_(>),increase tuition,https://admissions.uni.edu/costs
+0,University of Wyoming,st_change_tuition_(>),raise tuition,https://www.uwyo.edu/uw/news/2019/07/uw-trustees-approve-new-financial-aid-for-wyoming-students.html
+0,University of Wyoming,st_change_tuition_(>),raise tuition,https://oilcity.news/community/2019/07/22/with-tuition-hikes-uw-to-provide-new-financial-aid/
+0,University of Wyoming,st_change_tuition_(<=),reduce tuition,http://www.uwyo.edu/sfa/cost-of-attendance/
+0,University of Wyoming,st_change_tuition_(<=),reduce tuition,https://admissions.uni.edu/costs
+0,University of Wyoming,st_change_tuition_(<=),freeze tuition,https://admissions.uni.edu/costs
+0,University of Wyoming,st_change_tuition_(<=),freeze tuition,https://tuition.uni.edu/

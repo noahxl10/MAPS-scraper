@@ -1,0 +1,37 @@
+,unitID,school,grouping_var,term,url,present_absent,context
+0,240727,University of Wyoming,st_change_tuition_(>), increase tuition ,https://www.collegefactual.com/colleges/university-of-wyoming/paying-for-college/tuition-and-fees/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(>), increase tuition ,https://admissions.uni.edu/costs failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(>), raise tuition ,https://www.uwyo.edu/uw/news/2019/07/uw-trustees-approve-new-financial-aid-for-wyoming-students.html failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(>), raise tuition ,https://oilcity.news/community/2019/07/22/with-tuition-hikes-uw-to-provide-new-financial-aid/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), reduce tuition ,http://www.uwyo.edu/sfa/cost-of-attendance/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), reduce tuition ,https://admissions.uni.edu/costs failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), freeze tuition ,https://admissions.uni.edu/costs failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), freeze tuition ,https://tuition.uni.edu/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), differ tuition ,https://admissions.uni.edu/costs failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), differ tuition ,https://tuition.uni.edu/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), decrease tuition ,https://www.uwyo.edu/uw/news/2019/07/uw-trustees-approve-new-financial-aid-for-wyoming-students.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Wyoming_Guide+%28Wyoming_Guide%29 failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), decrease tuition ,https://trib.com/news/state-and-regional/university-of-wyoming-expects-20-enrollment-drop/article_82dd1e94-9185-564f-adc7-0c159644c31b.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), increase tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), increase tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), raise tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), raise tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), reduce tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), reduce tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), freeze tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), freeze tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), differ tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), differ tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), decrease tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), decrease tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(>), increase tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(>), increase tuition ,https://concordacademy.org/admissions/financial-aid/ failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(>), raise tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(>), raise tuition ,https://concordacademy.org/admissions/financial-aid/ failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), reduce tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), reduce tuition ,https://concordacademy.org/admissions/financial-aid/ failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), freeze tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), freeze tuition ,https://concordacademy.org/admissions/financial-aid/ failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), differ tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), differ tuition ,https://concordacademy.org/admissions/financial-aid/ failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), decrease tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), decrease tuition ,https://concordacademy.org/admissions/financial-aid/ failed,NaN,NaN

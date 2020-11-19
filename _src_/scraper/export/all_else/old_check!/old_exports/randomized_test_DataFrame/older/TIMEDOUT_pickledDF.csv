@@ -1,0 +1,43 @@
+,unit_ID,school,term,url,status_code,metadata_date,date_originally_scraped,count,context
+214,100663,California State University-Sacramento,cut scholarships,https://www.kcra.com/article/why-the-middle-class-scholarship-could-get-cut-this-year/8956490,timeout,['2017-02-21T03:05:00Z'],2020-10-16 10:34:38.363823,0,NoContext
+127,100663,California State University-Sacramento,voluntary furlough,https://www.csueu.org/news/archive/csueu-e-news-march-25-2010,timeout,No_meta_date,2020-10-16 10:34:38.363744,0,NoContext
+128,100663,California State University-Sacramento,voluntary furlough,http://www.capradio.org/articles/2020/04/06/coronavirus-left-him-furloughed-now-this-software-engineer-is-3-d-printing-medical-shields/,timeout,No_meta_date,2020-10-16 10:34:38.363759,0,NoContext
+222,100663,California State University-Sacramento,increase pay,http://www.capradio.org/articles/2016/04/07/csu-faculty-union-reaches-tentative-agreement-to-avoid-strike/,timeout,No_meta_date,2020-10-16 10:34:38.363846,0,NoContext
+28,100663,California State University-Sacramento,increase benefits,https://www.capradio.org/articles/2020/09/14/california-coronavirus-updates,timeout,No_meta_date,2020-10-16 10:34:38.363753,0,NoContext
+72,100663,California State University-Sacramento,career center,https://career.ecs.csus.edu/,timeout,No_meta_date,2020-10-16 10:34:38.363718,0,NoContext
+56,100663,California State University-Sacramento,eliminate advising,http://www.capradio.org/articles/2020/10/05/california-coronavirus-updates/,timeout,No_meta_date,2020-10-16 10:34:38.363764,0,NoContext
+47,100663,California State University-Sacramento,suspend appointments,http://www.capradio.org/articles/2020/06/13/california-coronavirus-live-updates/,timeout,['2020-03-18T23:05+00:00'],2020-10-16 10:34:38.363756,0,NoContext
+50,100663,California State University-Sacramento,staff support programs,https://www.capradio.org/articles/2020/09/21/california-coronavirus-updates/,timeout,No_meta_date,2020-10-16 10:34:38.363750,0,NoContext
+198,102298,Winston-Salem State University,retirement incentives,https://www.wssurams.com/,timeout,No_meta_date,2020-10-16 10:34:38.363824,0,NoContext
+199,102298,Winston-Salem State University,retirement incentives,https://www.wssu.edu/,timeout,No_meta_date,2020-10-16 10:34:38.363798,0,NoContext
+205,102298,Winston-Salem State University,increase benefits,https://www.wssu.edu/administration/human-resources/benefits/index.html,timeout,No_meta_date,2020-10-16 10:34:38.363801,0,NoContext
+175,102553,University of Pittsburgh-Pittsburgh Campus,reduce academic advising,https://www.johnstown.pitt.edu/campus-sustainability,timeout,No_meta_date,2020-10-16 10:34:38.363749,0,NoContext
+173,102553,University of Pittsburgh-Pittsburgh Campus,buyouts,https://www.hr.pitt.edu/current-employees/benefits,timeout,No_meta_date,2020-10-16 10:34:38.363733,0,NoContext
+189,102553,University of Pittsburgh-Pittsburgh Campus,retirement incentives,https://www.pittwire.pitt.edu/announcements/university-creates-voluntary-retirement-incentive-programs-faculty-and-staff,timeout,No_meta_date,2020-10-16 10:34:38.363772,0,NoContext
+171,102553,University of Pittsburgh-Pittsburgh Campus,buyouts,https://www.hr.pitt.edu/,timeout,No_meta_date,2020-10-16 10:34:38.363732,0,NoContext
+257,102553,University of Pittsburgh-Pittsburgh Campus,food pantry,https://www.studentaffairs.pitt.edu/pittserves/the-pitt-pantry/,timeout,No_meta_date,2020-10-16 10:34:38.363845,0,NoContext
+170,102553,University of Pittsburgh-Pittsburgh Campus,buyouts,http://www.hotelnewsnow.com/articles/303974/university-buyout-fills-rooms-brings-back-employees,timeout,No_meta_date,2020-10-16 10:34:38.363721,0,NoContext
+0,102553,University of Pittsburgh-Pittsburgh Campus,scholarship funding decrease,S,timeout,S,2020-10-16 10:34:38.363705,0,NoContext
+51,102553,University of Pittsburgh-Pittsburgh Campus,suspend appointments,https://www.dental.pitt.edu/,timeout,No_meta_date,2020-10-16 10:34:38.363755,0,NoContext
+52,102553,University of Pittsburgh-Pittsburgh Campus,suspend appointments,https://www.hr.pitt.edu/clearances-training/form-i9,timeout,No_meta_date,2020-10-16 10:34:38.363735,0,NoContext
+86,102553,University of Pittsburgh-Pittsburgh Campus,voluntary furlough,https://www.hr.pitt.edu/current-employees/benefits/leaves,timeout,No_meta_date,2020-10-16 10:34:38.363741,0,NoContext
+87,102553,University of Pittsburgh-Pittsburgh Campus,voluntary furlough,https://eab.com/insights/expert-insight/business-affairs/furloughing-staff-during-covid-19-how-leaders-are-supporting-employees-through-difficult-budget-decisions/,timeout,['2020-05-06T14:42:35-04:00'],2020-10-16 10:34:38.363757,0,NoContext
+88,102553,University of Pittsburgh-Pittsburgh Campus,voluntary furlough,https://www.hr.pitt.edu/covid-19,timeout,No_meta_date,2020-10-16 10:34:38.363730,0,NoContext
+142,102553,University of Pittsburgh-Pittsburgh Campus,early retirement,https://www.hr.pitt.edu/news/university-implements-staff-early-retirement-program-serp,timeout,No_meta_date,2020-10-16 10:34:38.363736,0,NoContext
+3,102553,University of Pittsburgh-Pittsburgh Campus,cut scholarships,https://www.abroad.pitt.edu/500k,timeout,No_meta_date,2020-10-16 10:34:38.363714,0,NoContext
+4,102553,University of Pittsburgh-Pittsburgh Campus,faculty advancements,https://www.hr.pitt.edu/careers-pitt,timeout,No_meta_date,2020-10-16 10:34:38.363740,0,NoContext
+5,102553,University of Pittsburgh-Pittsburgh Campus,faculty advancements,https://www.giveto.pitt.edu/,timeout,No_meta_date,2020-10-16 10:34:38.363877,0,NoContext
+6,102553,University of Pittsburgh-Pittsburgh Campus,faculty advancements,https://www.engineering.pitt.edu/bioengineering/,timeout,No_meta_date,2020-10-16 10:34:38.363746,0,NoContext
+8,102553,University of Pittsburgh-Pittsburgh Campus,faculty advancements,https://www.law.pitt.edu/faculty,timeout,No_meta_date,2020-10-16 10:34:38.363791,0,NoContext
+166,102614,The University of Texas at Arlington,academic advising,https://www.uta.edu/student-success/advising/uac,timeout,No_meta_date,2020-10-16 10:34:38.363729,0,NoContext
+165,102614,The University of Texas at Arlington,academic advising,https://www.uta.edu/student-success/advising/departmental,timeout,No_meta_date,2020-10-16 10:34:38.363743,0,NoContext
+179,102614,The University of Texas at Arlington,staff support programs,https://www.uta.edu/student-success/course-assistance/trio-sss,timeout,No_meta_date,2020-10-16 10:34:38.363738,0,NoContext
+202,102632,East Georgia State College-Statesboro,suspend appointments,http://www.ega.edu/dualenrollment,timeout,No_meta_date,2020-10-16 10:34:38.363800,0,NoContext
+204,102632,East Georgia State College-Statesboro,increase pay,http://www.ega.edu/pages/general-pages/monthly_payment_plan,timeout,No_meta_date,2020-10-16 10:34:38.363803,0,NoContext
+200,102632,East Georgia State College-Statesboro,campus climate,http://www.ega.edu/,timeout,No_meta_date,2020-10-16 10:34:38.363804,0,NoContext
+30,100663,California State University-Sacramento,campus climate,https://www.gvsu.edu/mygvsu/2015-project-leads-consultants-33.htm,timeout,No_meta_date,2020-10-16 10:35:14.907460,0,NoContext
+27,102553,University of Pittsburgh-Pittsburgh Campus,campus climate,https://www.sustainable.pitt.edu/,timeout,No_meta_date,2020-10-16 10:35:14.907447,0,NoContext
+133,102553,University of Pittsburgh-Pittsburgh Campus,offer amenities,https://www.apartmentlist.com/off-campus-housing/pa/pitt-apartments-for-rent,timeout,No_meta_date,2020-10-16 10:35:14.907470,0,NoContext
+2,102553,University of Pittsburgh-Pittsburgh Campus,cut scholarships,https://www.collegefactual.com/colleges/university-of-pittsburgh-pittsburgh-campus/paying-for-college/financial-aid/,timeout,['2013-02-20'],2020-10-16 10:35:14.907429,0,NoContext
+133,100663,California State University-Sacramento,voluntary furlough,https://www.capradio.org/news/npr/story?storyid=908854837,timeout,No_meta_date,2020-10-16 10:36:27.450800,0,NoContext
+186,102614,The University of Texas at Arlington,staff support programs,https://www.uta.edu/hr/employee-tuition-assistance-plan/program-details.php,timeout,No_meta_date,2020-10-16 10:36:27.450794,0,NoContext

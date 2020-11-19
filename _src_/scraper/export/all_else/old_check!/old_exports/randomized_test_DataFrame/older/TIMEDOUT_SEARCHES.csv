@@ -1,0 +1,794 @@
+,unit_ID,school,term,url,status_code,metadata_date,date_originally_scraped,count,context
+82,100663,Bluefield State College,pay cuts,https://www.wvnstv.com/sports/nascar-orders-pay-cuts-for-employees-of-the-racing-series/,timeout,['2020-03-24T21:42:55+00:00'],2020-10-16 14:50:38.237760,0,NoContext
+98,100663,Bluefield State College,suspend retirement contributions,https://insidehighered.com/news/2020/03/24?page=847,timeout,No_meta_date,2020-10-16 14:50:38.237752,0,NoContext
+99,100663,Bluefield State College,suspend retirement contributions,https://obituaries.bdtonline.com/obituary/james-lewis-1071958744,timeout,No_meta_date,2020-10-16 14:50:38.237791,0,NoContext
+100,100663,Bluefield State College,expand to adults,http://www.wvhepc.edu/tag/adult-learners/,timeout,No_meta_date,2020-10-16 14:50:38.237762,0,NoContext
+73,102298,Louisiana State University-Eunice,expand to veterans,http://catalog.lsue.edu/content.php?catoid=6&navoid=661&filter%5bitem_type%5d=3&filter%5bonly_active%5d=1&filter%5b3%5d=1&filter%5bcpage%5d=4&print=&expand=1,timeout,No_meta_date,2020-10-16 14:50:38.237754,0,NoContext
+49,102298,Louisiana State University-Eunice,online courses,https://www.ed2go.com/lsue/,timeout,No_meta_date,2020-10-16 14:50:38.237749,0,NoContext
+163,102298,Louisiana State University-Eunice,improve utilities,https://athletics.lsue.edu/sports/softball,timeout,No_meta_date,2020-10-16 14:50:38.237857,0,NoContext
+21,102298,Louisiana State University-Eunice,pay cuts,https://athletics.lsue.edu/news/2017/10/29/baseball-freshmen-help-gold-team-cut-series-defict.aspx,timeout,No_meta_date,2020-10-16 14:50:38.237746,0,NoContext
+0,102553,SUNY College at Old Westbury,salary reductions,S,timeout,S,2020-10-16 14:50:38.237715,0,NoContext
+96,102553,SUNY College at Old Westbury,partner with corporate entity,https://fdpclearinghouse.org/organizations/189,timeout,No_meta_date,2020-10-16 14:50:38.237821,0,NoContext
+14,102553,SUNY College at Old Westbury,program cuts,https://www.nytimes.com/1995/12/03/nyregion/arts-cut-at-old-westbury-revives-a-battle.html,timeout,No_meta_date,2020-10-16 14:50:38.237739,0,NoContext
+7,102553,SUNY College at Old Westbury,cut programs,https://www.oldwestbury.edu/news/4649,timeout,No_meta_date,2020-10-16 14:50:38.237745,0,NoContext
+6,102553,SUNY College at Old Westbury,cut programs,https://www.nytimes.com/1993/03/22/nyregion/college-falters-in-its-mission-amid-charges-of-neglect.html,timeout,No_meta_date,2020-10-16 14:50:38.237740,0,NoContext
+1,102553,SUNY College at Old Westbury,courses dropped,https://www.sagegators.com/sports/wsoc/2012-13/releases/20120929xnbb4g,timeout,No_meta_date,2020-10-16 14:50:38.237743,0,NoContext
+36,102553,SUNY College at Old Westbury,unconventional student programs,https://www.usnews.com/best-colleges/suny-old-westbury-7109,timeout,No_meta_date,2020-10-16 14:50:38.237759,0,NoContext
+56,102553,SUNY College at Old Westbury,pay cuts,https://www.newsday.com/long-island/education/college-costs-this-fall-1.48145482,timeout,No_meta_date,2020-10-16 14:50:38.237763,0,NoContext
+60,102553,SUNY College at Old Westbury,tenure,https://theislandnow.com/roslyn-109/old-westbury-president-celebrates-20-year-tenure-at-event/,timeout,['2019-11-12T20:51:36+00:00'],2020-10-16 14:50:38.237767,0,NoContext
+48,102553,SUNY College at Old Westbury,building improvement,https://patch.com/new-york/glencove/suny-college-at-old-westbury-gets-the-gold_e401afad,timeout,No_meta_date,2020-10-16 14:50:38.237756,0,NoContext
+159,102614,Missouri Western State University,partner with corporate entity,https://csb-cfe.missouriwestern.edu/,timeout,No_meta_date,2020-10-16 14:50:38.237846,0,NoContext
+158,102614,Missouri Western State University,partner with corporate entity,https://www.missouriwestern.edu/strategicplan/,timeout,No_meta_date,2020-10-16 14:50:38.237837,0,NoContext
+140,102614,Missouri Western State University,expand to veterans,https://www.missouriwestern.edu/military/certifying-official-for-the-va/,timeout,No_meta_date,2020-10-16 14:50:38.237822,0,NoContext
+138,102614,Missouri Western State University,increase pay,https://intranet.missouriwestern.edu/griffonweekly/2019/01/30/minimum-wage-for-student-employees/,timeout,['2020-08-27T00:00:00-08:00'],2020-10-16 14:50:38.237810,0,NoContext
+161,102614,Missouri Western State University,partner with corporate entity,https://csb-cfe.missouriwestern.edu/entrepreneurship-ecosystem/,timeout,['2019-10-16T21:06:40-05:00'],2020-10-16 14:50:38.237848,0,NoContext
+105,102614,Missouri Western State University,tenure,https://www.missouriwestern.edu/ir/,timeout,No_meta_date,2020-10-16 14:50:38.237774,0,NoContext
+51,102614,Missouri Western State University,program cuts,https://www.insidehighered.com/news/2020/05/14/missouri-western-cuts-quarter-faculty-along-programs-history-and-more,timeout,No_meta_date,2020-10-16 14:50:38.237753,0,NoContext
+88,102614,Missouri Western State University,degrees dropped,https://www.missouriwestern.edu/eca/,timeout,No_meta_date,2020-10-16 14:50:38.237765,0,NoContext
+103,102614,Missouri Western State University,tenure,https://www.missouriwestern.edu/acadaff/,timeout,No_meta_date,2020-10-16 14:50:38.237766,0,NoContext
+53,102614,Missouri Western State University,program cuts,http://dailynous.com/2020/05/15/missouri-western-phase-philosophy-many-majors/,timeout,['2020-05-15T05:00:43-04:00'],2020-10-16 14:50:38.237747,0,NoContext
+104,102614,Missouri Western State University,tenure,https://intranet.missouriwestern.edu/eml/promotion-tenure-guidelines/,timeout,No_meta_date,2020-10-16 14:50:38.237770,0,NoContext
+106,102614,Missouri Western State University,reduce benefits,https://www.missouriwestern.edu/hr/benefits/,timeout,No_meta_date,2020-10-16 14:50:38.237775,0,NoContext
+109,102614,Missouri Western State University,cut programs,https://www.missouriwestern.edu/,timeout,No_meta_date,2020-10-16 14:50:38.237782,0,NoContext
+111,102614,Missouri Western State University,no longer offer,https://www.missouriwestern.edu/mwsu-testing-centers/act-r/,timeout,No_meta_date,2020-10-16 14:50:38.237787,0,NoContext
+112,102614,Missouri Western State University,increase benefits,https://foundation.missouriwestern.edu/ambassadors/,timeout,No_meta_date,2020-10-16 14:50:38.237788,0,NoContext
+147,102632,George Mason University,improve utilities,https://masonfamily.gmu.edu/mason-alert-update-your-information/,timeout,No_meta_date,2020-10-16 14:50:38.237803,0,NoContext
+167,102632,George Mason University,suspend retirement contributions,http://www.bu.edu/articles/2020/bu-to-suspend-employee-retirement-contributions/,timeout,No_meta_date,2020-10-16 14:50:38.237845,0,NoContext
+0,102553,Minot State University,building improvement,f,timeout,f,2020-10-20 02:09:37.973452,0,NoContext
+1,102553,Minot State University,building improvement,a,timeout,a,2020-10-20 02:09:37.973464,0,NoContext
+2,102553,Minot State University,building improvement,i,timeout,i,2020-10-20 02:09:37.973472,0,NoContext
+3,102553,Minot State University,building improvement,l,timeout,l,2020-10-20 02:09:37.973469,0,NoContext
+4,102553,Minot State University,building improvement,e,timeout,e,2020-10-20 02:09:37.973467,0,NoContext
+5,102553,Minot State University,building improvement,d,timeout,d,2020-10-20 02:09:37.973474,0,NoContext
+116,100663,University of Alabama at Birmingham,postpone maintenance,https://uafacilities.ua.edu/maintenance-departments/,timeout,No_meta_date,2020-10-20 02:52:05.109091,0,NoContext
+111,100663,University of Alabama at Birmingham,deferred maintenance,https://uafacilities.ua.edu/grounds/,timeout,No_meta_date,2020-10-20 02:52:05.109092,0,NoContext
+109,100663,University of Alabama at Birmingham,expand financial aid,https://www.collegefactual.com/colleges/university-of-alabama-at-birmingham/paying-for-college/financial-aid/,timeout,['2013-02-20'],2020-10-20 02:52:05.109088,0,NoContext
+98,100663,University of Alabama at Birmingham,cut staff,https://www.cbs42.com/news/health/coronavirus/uab-to-furlough-university-staff-reduce-hospital-staff-salaries-due-to-covid-19-pandemic/,timeout,['2020-05-04T18:32:02+00:00'],2020-10-20 02:52:05.109038,0,NoContext
+146,100663,University of Alabama at Birmingham,deferred hiring deferred hiring of vacant positions,https://www.al.com/news/2020/04/applying-for-unemployment-finding-a-job-and-other-work-related-questions-answered.html,timeout,No_meta_date,2020-10-20 02:52:05.109118,0,NoContext
+145,100663,University of Alabama at Birmingham,leave positions unfilled,https://eng.ua.edu/,timeout,No_meta_date,2020-10-20 02:52:05.109113,0,NoContext
+143,100663,University of Alabama at Birmingham,leave positions unfilled,https://www.crookstontimes.com/article/20130701/news/130709990,timeout,No_meta_date,2020-10-20 02:52:05.109110,0,NoContext
+120,100663,University of Alabama at Birmingham,suspend capital projects,https://buildingbama.ua.edu/,timeout,No_meta_date,2020-10-20 02:52:05.109099,0,NoContext
+122,100663,University of Alabama at Birmingham,suspend capital projects,https://constructionadministration.ua.edu/projects/,timeout,No_meta_date,2020-10-20 02:52:05.109100,0,NoContext
+78,102298,University of Alaska Anchorage,hiring freeze,https://uaa.alaska.edu/news/archive/2019/09/update-campus-diversity-initiatives/,timeout,No_meta_date,2020-10-20 02:52:05.109036,0,NoContext
+79,102298,University of Alaska Anchorage,hiring freeze,https://www.uaa.alaska.edu/news/archive/2019/11/grassroots-campaign-ensures-uaas-geomatics-students-courses-fall-semester.cshtml,timeout,No_meta_date,2020-10-20 02:52:05.109005,0,NoContext
+82,102298,University of Alaska Anchorage,hiring chill,https://www.uaa.alaska.edu/students/career,timeout,No_meta_date,2020-10-20 02:52:05.109007,0,NoContext
+84,102298,University of Alaska Anchorage,hiring chill,https://careers.alaska.edu/cw/en-us/listing/?jobnotfound=true,timeout,No_meta_date,2020-10-20 02:52:05.108991,0,NoContext
+77,102298,University of Alaska Anchorage,deferred maintenance,https://www.uaa.alaska.edu/news/archive/2017/07/fy18-capital-budget-passes.cshtml,timeout,No_meta_date,2020-10-20 02:52:05.108999,0,NoContext
+91,102298,University of Alaska Anchorage,administrative budget cuts,https://www.uaa.alaska.edu/news/archive/2020/03/uaa-budget-reduction-update.cshtml,timeout,No_meta_date,2020-10-20 02:52:05.109019,0,NoContext
+92,102298,University of Alaska Anchorage,open positions,https://www.uaa.alaska.edu/,timeout,No_meta_date,2020-10-20 02:52:05.109034,0,NoContext
+83,102298,University of Alaska Anchorage,hiring chill,https://www.uaa.alaska.edu/students/career/on-campus-jobs.cshtml,timeout,No_meta_date,2020-10-20 02:52:05.109003,0,NoContext
+64,102298,University of Alaska Anchorage,staff layoffs,https://www.uaa.alaska.edu/news/archive/2020/04/chancellor-update-furloughs.cshtml,timeout,No_meta_date,2020-10-20 02:52:05.108985,0,NoContext
+67,102298,University of Alaska Anchorage,layoff staff,https://www.thelayoff.com/uaa,timeout,No_meta_date,2020-10-20 02:52:05.108973,0,NoContext
+71,102298,University of Alaska Anchorage,new scholarships,https://www.uaa.alaska.edu/students/financial-aid/,timeout,No_meta_date,2020-10-20 02:52:05.108989,0,NoContext
+73,102298,University of Alaska Anchorage,new scholarships,https://www.uaa.alaska.edu/news/archive/2020/05/49th-finishers-scholarship-uaa.cshtml,timeout,No_meta_date,2020-10-20 02:52:05.108993,0,NoContext
+69,102298,University of Alaska Anchorage,new scholarships,https://www.uaa.alaska.edu/academics/college-of-health/departments/justice-center/academics/scholarships.cshtml,timeout,No_meta_date,2020-10-20 02:52:05.108987,0,NoContext
+36,102553,University of Alaska Fairbanks,offer scholarship,https://ecampus.uaf.edu/scholarships/,timeout,No_meta_date,2020-10-20 02:52:05.108935,0,NoContext
+21,102553,University of Alaska Fairbanks,hiring freeze,https://news.uaf.edu/amendment-of-hiring-travel-procurement-freezes/,timeout,['2019-08-20T19:41:52+00:00'],2020-10-20 02:52:05.108926,0,NoContext
+24,102553,University of Alaska Fairbanks,hiring freeze,https://uaf.edu/career/covid-19.php,timeout,No_meta_date,2020-10-20 02:52:05.108975,0,NoContext
+4,102553,University of Alaska Fairbanks,layoff staff,https://www.insidehighered.com/news/2019/07/01/imminent-massive-cuts-could-force-faculty-staff-layoffs-university-alaska-system,timeout,No_meta_date,2020-10-20 02:52:05.108898,0,NoContext
+2,102553,University of Alaska Fairbanks,layoff staff,https://news.uaf.edu/staff-employees-who-receive-a-layoff-notice-will-not-be-paid-out-of-their-sick-leave-balance/,timeout,No_meta_date,2020-10-20 02:52:05.108922,0,NoContext
+26,102553,University of Alaska Fairbanks,open positions,https://careers.alaska.edu/,timeout,No_meta_date,2020-10-20 02:52:05.108945,0,NoContext
+43,102553,University of Alaska Fairbanks,new scholarships,https://news.uaf.edu/uaf-launches-nanook-pledge-4-year-scholarship-program/,timeout,['2019-12-18T01:03:56+00:00'],2020-10-20 02:52:05.108920,0,NoContext
+62,102614,University of Alaska Fairbanks,eliminate administrative departments,https://news.uaf.edu/cso-program-elimination/,timeout,['2016-07-11T19:10:30+00:00'],2020-10-20 02:52:05.108967,0,NoContext
+63,102614,University of Alaska Fairbanks,eliminate administrative departments,https://news.uaf.edu/budget-update-jan-8-2020/,timeout,['2020-01-08T23:45:20+00:00'],2020-10-20 02:52:05.108971,0,NoContext
+9,102614,University of Alaska Fairbanks,deferred maintenance,https://news.uaf.edu/ua-budget-underscores-advising-deferred-maintenance/,timeout,['2011-11-03T18:16:19+00:00'],2020-10-20 02:52:05.108915,0,NoContext
+8,102614,University of Alaska Fairbanks,cut staff,http://library.uaf.edu/db-news-database-cuts-additions,timeout,No_meta_date,2020-10-20 02:52:05.108904,0,NoContext
+58,102614,University of Alaska Fairbanks,administrative budget cuts,https://news.uaf.edu/78072-2/,timeout,['2017-08-11T21:34:07+00:00'],2020-10-20 02:52:05.108928,0,NoContext
+40,102614,University of Alaska Fairbanks,expand financial aid,https://news.uaf.edu/1-3-million-grant-will-expand-support-for-stem-students/,timeout,No_meta_date,2020-10-20 02:52:05.108924,0,NoContext
+55,102614,University of Alaska Fairbanks,leave positions unfilled,https://news.uaf.edu/budget-update-april-1-2016/,timeout,['2016-04-02T00:27:15+00:00'],2020-10-20 02:52:05.108917,0,NoContext
+123,102553,University of Alaska Anchorage,student support,https://www.uaa.alaska.edu/students/native-student-services/,timeout,No_meta_date,2020-10-20 03:03:55.134163,0,NoContext
+128,102553,University of Alaska Anchorage,campus climate,https://uaa.alaska.edu/news/archive/2007/02/climate-change-by-begich/,timeout,No_meta_date,2020-10-20 03:03:55.134180,0,NoContext
+129,102553,University of Alaska Anchorage,campus climate,https://uaa.alaska.edu/news/archive/2011/04/podcast-with-jp-leous-climate-change-means-green-jobsjust-not-the-ones-you-imagined/,timeout,No_meta_date,2020-10-20 03:03:55.134181,0,NoContext
+136,102553,University of Alaska Anchorage,career center,https://www.uaa.alaska.edu/students/career/employers.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134166,0,NoContext
+137,102553,University of Alaska Anchorage,career center,https://www.uaa.alaska.edu/students/career/events/anchorage-ak-college-career-fair.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134169,0,NoContext
+138,102553,University of Alaska Anchorage,counselling services’ student wellness,https://www.uaa.alaska.edu/students/health-safety/health-counseling-center/,timeout,No_meta_date,2020-10-20 03:03:55.134170,0,NoContext
+140,102553,University of Alaska Anchorage,counselling services’ student wellness,https://www.uaa.alaska.edu/students/health-safety/health-counseling-center/promotion-wellness.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134174,0,NoContext
+97,102553,University of Alaska Anchorage,partner with corporate entity,https://www.uaa.alaska.edu/academics/business-enterprise-institute/,timeout,No_meta_date,2020-10-20 03:03:55.134118,0,NoContext
+100,102553,University of Alaska Anchorage,close buildings,https://www.uaa.alaska.edu/map/,timeout,No_meta_date,2020-10-20 03:03:55.134121,0,NoContext
+101,102553,University of Alaska Anchorage,close buildings,https://kpc.alaska.edu/,timeout,No_meta_date,2020-10-20 03:03:55.134126,0,NoContext
+102,102553,University of Alaska Anchorage,close buildings,https://www.uaa.alaska.edu/students/union/,timeout,No_meta_date,2020-10-20 03:03:55.134122,0,NoContext
+103,102553,University of Alaska Anchorage,unconventional student programs,https://www.uaa.alaska.edu/students/transfer/,timeout,No_meta_date,2020-10-20 03:03:55.134123,0,NoContext
+104,102553,University of Alaska Anchorage,unconventional student programs,https://www.uaa.alaska.edu/students/organizations/,timeout,No_meta_date,2020-10-20 03:03:55.134125,0,NoContext
+108,102553,University of Alaska Anchorage,expand to minorities,https://dailynurse.com/university-of-alaska-anchorage-expands-school-of-nursing-to-meet-increasing-demand/,timeout,No_meta_date,2020-10-20 03:03:55.134127,0,NoContext
+109,102553,University of Alaska Anchorage,expand to veterans,https://uaa.alaska.edu/news/archive/2019/10/uaas-college-health-awarded-1-77-m-premera-blue-cross-blue-shield-alaska/,timeout,No_meta_date,2020-10-20 03:03:55.134155,0,NoContext
+110,102553,University of Alaska Anchorage,expand to veterans,https://www.uaa.alaska.edu/students/veterans/,timeout,No_meta_date,2020-10-20 03:03:55.134134,0,NoContext
+111,102553,University of Alaska Anchorage,expand to veterans,https://uaa.alaska.edu/news/archive/2014/07/catching-uaa-veterans-advocate-nichole-grunwald/,timeout,No_meta_date,2020-10-20 03:03:55.134154,0,NoContext
+112,102553,University of Alaska Anchorage,expand to adults,https://www.uaa.alaska.edu/academics/continuing-education/index.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134137,0,NoContext
+113,102553,University of Alaska Anchorage,expand to adults,https://pwsc.alaska.edu/pwsc-news/george.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134138,0,NoContext
+114,102553,University of Alaska Anchorage,expand to adults,https://www.uaa.alaska.edu/news/archive/2014/11/lifelong-learning-uaa.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134141,0,NoContext
+96,102553,University of Alaska Anchorage,online courses,https://www.uaa.alaska.edu/academics/institutional-effectiveness/departments/academic-innovations-elearning/elearning/,timeout,No_meta_date,2020-10-20 03:03:55.134119,0,NoContext
+142,102553,University of Alaska Anchorage,new building,https://uaa.alaska.edu/news/archive/2015/09/slideshow-uaa-opens-new-engineering-industry-building/,timeout,No_meta_date,2020-10-20 03:03:55.134192,0,NoContext
+145,102553,University of Alaska Anchorage,on-time graduation,https://www.uaa.alaska.edu/academics/graduate-school/graduating-and-beyond.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134182,0,NoContext
+172,102553,University of Alaska Anchorage,faculty advancements,https://uaa.alaska.edu/news/archive/2008/06/megan-olson-vice-chancellor-for-university-advancement-announces-personnel-moves-in-university-advancement/,timeout,No_meta_date,2020-10-20 03:03:55.134236,0,NoContext
+173,102553,University of Alaska Anchorage,faculty advancements,https://uaa.alaska.edu/news/archive/2009/12/anchorage-foundations-advancement-services-department-will-relocate-on-dec-21,timeout,No_meta_date,2020-10-20 03:03:55.134235,0,NoContext
+175,102553,University of Alaska Anchorage,share program,https://www.uaa.alaska.edu/academics/college-of-arts-and-sciences/programs/seawolf-debate/,timeout,No_meta_date,2020-10-20 03:03:55.134220,0,NoContext
+176,102553,University of Alaska Anchorage,share program,http://greenandgold.uaa.alaska.edu/blog/29742/alaska-business-leaders-sharing-knowledge-uaa-proteges/,timeout,No_meta_date,2020-10-20 03:03:55.134213,0,NoContext
+177,102553,University of Alaska Anchorage,staff support programs,https://koc.alaska.edu/,timeout,No_meta_date,2020-10-20 03:03:55.134222,0,NoContext
+178,102553,University of Alaska Anchorage,staff support programs,https://www.uaa.alaska.edu/students/disability-support-services/,timeout,No_meta_date,2020-10-20 03:03:55.134227,0,NoContext
+169,102553,University of Alaska Anchorage,promotions,https://uaa.alaska.edu/news/archive/2019/09/uaa-facilities-news-promotions-location-updates/,timeout,No_meta_date,2020-10-20 03:03:55.134233,0,NoContext
+179,102553,University of Alaska Anchorage,staff support programs,https://uaa.alaska.edu/news/archive/2014/01/staff-spotlight-libby-roderick-2/,timeout,No_meta_date,2020-10-20 03:03:55.134238,0,NoContext
+181,102553,University of Alaska Anchorage,share resources,https://www.uaa.alaska.edu/news/archive/2020/09/chancellor-update-shared-services-decision.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134223,0,NoContext
+182,102553,University of Alaska Anchorage,share resources,https://www.uaa.alaska.edu/academics/college-of-arts-and-sciences/programs/environment-and-natural-resources-institute/,timeout,No_meta_date,2020-10-20 03:03:55.134228,0,NoContext
+183,102553,University of Alaska Anchorage,share location,https://uaa.alaska.edu/news/archive/2011/12/weekly-indigenous-values-series-topic-share-with-others-dec-8/?a,timeout,No_meta_date,2020-10-20 03:03:55.134246,0,NoContext
+186,102553,University of Alaska Anchorage,consolidate campuses,https://mustreadalaska.com/ua-looks-at-consolidating-uas-as-funds-grow-scarce/,timeout,['2020-05-27T18:55:25+00:00'],2020-10-20 03:03:55.134226,0,NoContext
+193,102553,University of Alaska Anchorage,university partnership,https://www.uaa.alaska.edu/academics/college-of-arts-and-sciences/programs/planetarium/partners.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134241,0,NoContext
+194,102553,University of Alaska Anchorage,university partnership,https://uaa.alaska.edu/news/archive/2014/11/uaa-university-washington-school-law-partner-offer-accelerated-admission-program/,timeout,No_meta_date,2020-10-20 03:03:55.134257,0,NoContext
+195,102553,University of Alaska Anchorage,partner with another institution,https://www.uaa.alaska.edu/academics/business-enterprise-institute/center-for-economic-development/,timeout,No_meta_date,2020-10-20 03:03:55.134242,0,NoContext
+180,102553,University of Alaska Anchorage,staff support programs,https://www.uaa.alaska.edu/news/archive/2020/02/staff-support-listening-sessions.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134224,0,NoContext
+146,102553,University of Alaska Anchorage,on-time graduation,https://koc.alaska.edu/programs/academics/departments/applied-technology-department.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134187,0,NoContext
+147,102553,University of Alaska Anchorage,offer amenities,https://pwsc.alaska.edu/student-life/residence-life/guest-and-conference-housing/guest-housing-rooms.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134184,0,NoContext
+148,102553,University of Alaska Anchorage,academic advising,https://www.uaa.alaska.edu/academics/college-of-health/departments/school-of-allied-health/students/advising/advisingappointments.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134185,0,NoContext
+150,102553,University of Alaska Anchorage,academic advising,https://www.uaa.alaska.edu/academics/,timeout,No_meta_date,2020-10-20 03:03:55.134195,0,NoContext
+151,102553,University of Alaska Anchorage,campus life,https://www.uaa.alaska.edu/campus-life/,timeout,No_meta_date,2020-10-20 03:03:55.134196,0,NoContext
+158,102553,University of Alaska Anchorage,food pantry,https://www.uaa.alaska.edu/students/health-safety/health-counseling-center/food-cache.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134200,0,NoContext
+159,102553,University of Alaska Anchorage,food pantry,https://uaa.alaska.edu/news/archive/2017/12/career-community-service-school-social-work-professor-tracey-burke-tackles-food-security-anchorage/?a,timeout,No_meta_date,2020-10-20 03:03:55.134215,0,NoContext
+160,102553,University of Alaska Anchorage,food pantry,http://greenandgold.uaa.alaska.edu/alumni-spirit/1700/problem-solvers-uaa-researchers-tackle-issues-alaska-beyond/,timeout,No_meta_date,2020-10-20 03:03:55.134189,0,NoContext
+162,102553,University of Alaska Anchorage,tenure,https://www.uaa.alaska.edu/academics/faculty-services/faculty-evaluation/,timeout,No_meta_date,2020-10-20 03:03:55.134207,0,NoContext
+163,102553,University of Alaska Anchorage,tenure,https://www.uaa.alaska.edu/academics/faculty-services/faculty-evaluation/electronic-filing.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134209,0,NoContext
+164,102553,University of Alaska Anchorage,tenure,https://www.uaa.alaska.edu/academics/faculty-services/,timeout,No_meta_date,2020-10-20 03:03:55.134211,0,NoContext
+156,102553,University of Alaska Anchorage,campus life,https://www.uaa.alaska.edu/students/organizations/fraternity-sorority-life.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134197,0,NoContext
+26,102553,University of Alaska Anchorage,freeze tuition,https://uaa.alaska.edu/news/archive/2014/11/lifelong-learning-uaa/,timeout,No_meta_date,2020-10-20 03:03:55.134063,0,NoContext
+30,102553,University of Alaska Anchorage,staff furlough,https://www.uaa.alaska.edu/news/archive/2014/07/send-questions-comments-staff-furlough-policy-apt-classified-councils-july-25/,timeout,['2020-04-30T01:03:16+00:00'],2020-10-20 03:03:55.134048,0,NoContext
+40,102553,University of Alaska Anchorage,buyouts,https://www.uaa.alaska.edu/on-campus-living/explore/housing-rates.cshtml,timeout,['2019-07-22T18:02:58.024Z'],2020-10-20 03:03:55.134055,0,NoContext
+41,102553,University of Alaska Anchorage,buyouts,http://www.uaa.alaska.edu/athletics/,timeout,No_meta_date,2020-10-20 03:03:55.134074,0,NoContext
+44,102553,University of Alaska Anchorage,streamline operations,https://www.uaa.alaska.edu/academics/graduate-school/,timeout,No_meta_date,2020-10-20 03:03:55.134050,0,NoContext
+45,102553,University of Alaska Anchorage,streamline operations,https://uaa.alaska.edu/news/archive/2009/06/ua-system-streamlines-with-some-centralized-advancement-services/,timeout,No_meta_date,2020-10-20 03:03:55.134065,0,NoContext
+1,102553,University of Alaska Anchorage,increase fees,https://www.uaa.alaska.edu/students/costs,timeout,No_meta_date,2020-10-20 03:03:55.134033,0,NoContext
+2,102553,University of Alaska Anchorage,raise tuition,https://mustreadalaska.com/surprise-university-budget-is-not-being-cut-by-50-percent/,timeout,['2019-02-18T01:40:14+00:00'],2020-10-20 03:03:55.134027,0,NoContext
+3,102553,University of Alaska Anchorage,raise tuition,https://www.uaa.alaska.edu/news/archive/2020/01/bor-approves-tuition-increase.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134034,0,NoContext
+8,102553,University of Alaska Anchorage,decrease tuition,https://www.alaskapublic.org/2020/01/29/uaa-enrollment-drops-10-this-fall-after-summer-of-tense-budget-battles/,timeout,No_meta_date,2020-10-20 03:03:55.134024,0,NoContext
+10,102553,University of Alaska Anchorage,tuition increase,https://uaa.alaska.edu/news/archive/2015/02/ua-regents-approve-five-percent-tuition-increase/?a,timeout,No_meta_date,2020-10-20 03:03:55.134061,0,NoContext
+13,102553,University of Alaska Anchorage,reduce benefits,https://scholarworks.alaska.edu/handle/11122/7659,timeout,No_meta_date,2020-10-20 03:03:55.134072,0,NoContext
+14,102553,University of Alaska Anchorage,reduce benefits,https://mustreadalaska.com/university-enrollment-dropping-salaries-through-the-roof/,timeout,No_meta_date,2020-10-20 03:03:55.134029,0,NoContext
+15,102553,University of Alaska Anchorage,pay cuts,https://www.alaskapublic.org/2020/04/29/ua-to-furlough-senior-administrators-including-president-and-chancellors/,timeout,['2020-04-30T01:03:16+00:00'],2020-10-20 03:03:55.134026,0,NoContext
+46,102553,University of Alaska Anchorage,reduce unnecessary spending,https://uaa.alaska.edu/news/archive/2014/11/students-collaborate-subway-campus-reduce-plastic-bags/,timeout,No_meta_date,2020-10-20 03:03:55.134066,0,NoContext
+72,102553,University of Alaska Anchorage,reduce international support,https://www.uaa.alaska.edu/students/international-student-services/,timeout,No_meta_date,2020-10-20 03:03:55.134097,0,NoContext
+76,102553,University of Alaska Anchorage,reduced courses,https://pwsc.alaska.edu/4teachers/v4t/index.cshtml,timeout,['2020-06-05T23:55:31.261Z'],2020-10-20 03:03:55.134102,0,NoContext
+78,102553,University of Alaska Anchorage,cut athletics,https://www.uaa.alaska.edu/news/archive/2020/08/reconfiguration-athletics-programs.cshtml?utm_source=seawolfweekly&utm_medium=email&utm_content=sw_20200819&utm_campaign=green+and+gold+news,timeout,No_meta_date,2020-10-20 03:03:55.134099,0,NoContext
+81,102553,University of Alaska Anchorage,layoff faculty,https://www.uaa.alaska.edu/academics/institutional-effectiveness/departments/center-for-advancing-faculty-excellence,timeout,No_meta_date,2020-10-20 03:03:55.134100,0,NoContext
+84,102553,University of Alaska Anchorage,reduce faculty,https://www.uaa.alaska.edu/academics/college-of-arts-and-sciences/departments/theatre-and-dance/,timeout,['2020-06-05T23:55:31.261Z'],2020-10-20 03:03:55.134101,0,NoContext
+85,102553,University of Alaska Anchorage,reduce faculty,https://uaa.alaska.edu/news/archive/2014/10/interlibrary-loan-department-significantly-reduces-expenses-becoming-green-department-certified/,timeout,No_meta_date,2020-10-20 03:03:55.134114,0,NoContext
+90,102553,University of Alaska Anchorage,consolidate locations,https://uaa.alaska.edu/news/archive/2019/07/regents-direct-university-administration-consolidate-seek-single-accreditation/,timeout,No_meta_date,2020-10-20 03:03:55.134115,0,NoContext
+91,102553,University of Alaska Anchorage,sell buildings,https://www.uaa.alaska.edu/academics/college-of-arts-and-sciences/departments/art/,timeout,No_meta_date,2020-10-20 03:03:55.134108,0,NoContext
+92,102553,University of Alaska Anchorage,sell buildings,https://www.uaa.alaska.edu/academics/college-of-arts-and-sciences/departments/music/,timeout,No_meta_date,2020-10-20 03:03:55.134113,0,NoContext
+70,102553,University of Alaska Anchorage,degrees dropped,https://www.uaa.alaska.edu/students/progress/change-program.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134096,0,NoContext
+68,102553,University of Alaska Anchorage,suspend appointments,https://www.uaa.alaska.edu/academics/college-of-health/departments/school-of-allied-health/academics/dental-hygiene/,timeout,No_meta_date,2020-10-20 03:03:55.134092,0,NoContext
+50,102553,University of Alaska Anchorage,cut travel,https://www.alaskapublic.org/2020/03/24/ua-chancellors-unveil-proposals-for-cutting-degree-programs/,timeout,No_meta_date,2020-10-20 03:03:55.134030,0,NoContext
+52,102553,University of Alaska Anchorage,operational inefficiencies,https://www.uaa.alaska.edu/academics/school-of-education/,timeout,No_meta_date,2020-10-20 03:03:55.134047,0,NoContext
+53,102553,University of Alaska Anchorage,stop scholarships,https://www.nbcnews.com/news/us-news/alaska-defunds-scholarships-thousands-university-students-ahead-fall-semester-n1035231,timeout,No_meta_date,2020-10-20 03:03:55.134045,0,NoContext
+55,102553,University of Alaska Anchorage,cut scholarships,https://www.uaa.alaska.edu/academics/honors-college/,timeout,No_meta_date,2020-10-20 03:03:55.134057,0,NoContext
+57,102553,University of Alaska Anchorage,cut scholarships,https://www.uaa.alaska.edu/academics/college-of-arts-and-sciences/departments/geography-and-environmental-studies/,timeout,No_meta_date,2020-10-20 03:03:55.134075,0,NoContext
+67,102553,University of Alaska Anchorage,eliminate advising,https://www.uaa.alaska.edu/academics/college-of-engineering/student-opportunities-and-advising/advising/academic-advisors.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134091,0,NoContext
+66,102553,University of Alaska Anchorage,eliminate advising,https://www.uaa.alaska.edu/academics/advising/,timeout,No_meta_date,2020-10-20 03:03:55.134089,0,NoContext
+65,102553,University of Alaska Anchorage,eliminate advising,https://www.uaa.alaska.edu/academics/college-of-health/students/advisors.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134087,0,NoContext
+64,102553,University of Alaska Anchorage,courses dropped,https://www.uaa.alaska.edu/students/registration/,timeout,No_meta_date,2020-10-20 03:03:55.134084,0,NoContext
+63,102553,University of Alaska Anchorage,courses dropped,https://www.uaa.alaska.edu/students/registration/student-drop-login.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134083,0,NoContext
+58,102553,University of Alaska Anchorage,scholarship funding decrease,https://www.uaa.alaska.edu/students/financial-aid/alaska-uaa-grants-scholarships.cshtml,timeout,No_meta_date,2020-10-20 03:03:55.134079,0,NoContext
+61,102553,University of Alaska Anchorage,reduce student assistance,https://www.uaa.alaska.edu/students/trio-programs/student-support-services/,timeout,No_meta_date,2020-10-20 03:03:55.134080,0,NoContext
+243,102614,University of Alaska Fairbanks,online courses,https://ecampus.uaf.edu/degrees/,timeout,No_meta_date,2020-10-20 03:03:55.134291,0,NoContext
+242,102614,University of Alaska Fairbanks,online courses,https://ecampus.uaf.edu/all-uaf/,timeout,No_meta_date,2020-10-20 03:03:55.134287,0,NoContext
+247,102614,University of Alaska Fairbanks,unconventional student programs,http://cem.uaf.edu/pete/,timeout,No_meta_date,2020-10-20 03:03:55.134285,0,NoContext
+250,102614,University of Alaska Fairbanks,unconventional student programs,https://news.uaf.edu/1-million-endowment-to-benefit-nontraditional-students/,timeout,['2010-07-09T23:09:33+00:00'],2020-10-20 03:03:55.134318,0,NoContext
+236,102614,University of Alaska Fairbanks,faculty laid off,https://news.uaf.edu/refunds-for-parking-passes-if-we-are-laid-off/,timeout,['2019-07-29T22:50:37+00:00'],2020-10-20 03:03:55.134272,0,NoContext
+235,102614,University of Alaska Fairbanks,layoff faculty,https://www.thelayoff.com/uaf,timeout,No_meta_date,2020-10-20 03:03:55.134273,0,NoContext
+234,102614,University of Alaska Fairbanks,layoff faculty,http://acep.uaf.edu/,timeout,No_meta_date,2020-10-20 03:03:55.134278,0,NoContext
+253,102614,University of Alaska Fairbanks,consolidate locations,https://news.uaf.edu/student-session-to-discuss-proposed-fee-structure-changes/,timeout,['2020-05-20T18:36:25+00:00'],2020-10-20 03:03:55.134320,0,NoContext
+273,102614,University of Alaska Fairbanks,share location,https://news.uaf.edu/uaf-partners-with-edx-to-share-arctic-courses-research-globally/,timeout,['2020-08-11T14:00:43+00:00'],2020-10-20 03:03:55.134356,0,NoContext
+232,102614,University of Alaska Fairbanks,reduce international support,https://studyabroad.uaf.edu/index.cfm?fuseaction=abroad.viewlink&parent_id=6eb6bc7e-26b9-58d3-f50ae159c200f028&link_id=6ebb423d-26b9-58d3-f505517285796a15,timeout,No_meta_date,2020-10-20 03:03:55.134332,0,NoContext
+265,102614,University of Alaska Fairbanks,faculty advancements,https://news.uaf.edu/multiple-changes-underway-university-student-advancement/,timeout,['2016-06-21T22:26:39+00:00'],2020-10-20 03:03:55.134353,0,NoContext
+263,102614,University of Alaska Fairbanks,counselling services’ student wellness,https://news.uaf.edu/student-wellness-groups/,timeout,['2019-09-04T21:26:05+00:00'],2020-10-20 03:03:55.134352,0,NoContext
+258,102614,University of Alaska Fairbanks,add new athletic programs,https://uaf.edu/student-affairs/departments.php,timeout,No_meta_date,2020-10-20 03:03:55.134300,0,NoContext
+257,102614,University of Alaska Fairbanks,add new athletic programs,https://news.uaf.edu/era-alaska-takes-school-spirit-to-the-skies-with-seawolfnanook-aircraft/,timeout,['2013-06-06T22:08:30+00:00'],2020-10-20 03:03:55.134293,0,NoContext
+215,102614,University of Alaska Fairbanks,freeze salary increases,https://news.uaf.edu/salary-freeze/,timeout,['2018-07-11T22:26:03+00:00'],2020-10-20 03:03:55.134260,0,NoContext
+229,102614,University of Alaska Fairbanks,reduce faculty,https://news.uaf.edu/budget-update-may-29/,timeout,['2019-05-29T18:09:56+00:00'],2020-10-20 03:03:55.134268,0,NoContext
+230,102614,University of Alaska Fairbanks,reduce faculty,https://news.uaf.edu/budget-update-march-4-2020/,timeout,['2020-03-04T18:15:25+00:00'],2020-10-20 03:03:55.134269,0,NoContext
+201,102614,University of Alaska Fairbanks,increase fees,https://news.uaf.edu/uaf-to-waive-fees-provide-scholarships-to-deployed-soldiers/,timeout,No_meta_date,2020-10-20 03:03:55.134245,0,NoContext
+200,102614,University of Alaska Fairbanks,increase fees,https://news.uaf.edu/budget-update-feb-12-2020/,timeout,['2020-02-12T19:12:29+00:00'],2020-10-20 03:03:55.134240,0,NoContext
+185,102614,University of Alaska Fairbanks,raise tuition,https://news.uaf.edu/tuition-spring-2018-semester/,timeout,['2017-10-12T18:17:54+00:00'],2020-10-20 03:03:55.134218,0,NoContext
+184,102614,University of Alaska Fairbanks,raise tuition,https://news.uaf.edu/budget-update-oct-7-2020/,timeout,['2020-10-07T22:21:04+00:00'],2020-10-20 03:03:55.134219,0,NoContext
+202,102614,University of Alaska Fairbanks,decrease tuition,https://news.uaf.edu/why-does-uaf-retain-lower-tuition-dollars/,timeout,No_meta_date,2020-10-20 03:03:55.134248,0,NoContext
+210,102614,University of Alaska Fairbanks,retirement incentives,https://news.uaf.edu/60960-2/,timeout,['2016-01-12T00:22:01+00:00'],2020-10-20 03:03:55.134253,0,NoContext
+225,102614,University of Alaska Fairbanks,staff furlough,https://news.uaf.edu/early-planning-for-covid-related-furloughs/,timeout,No_meta_date,2020-10-20 03:03:55.134298,0,NoContext
+224,102614,University of Alaska Fairbanks,staff furlough,https://news.uaf.edu/identifying-covid-19-related-furloughs/,timeout,['2020-04-17T02:22:06+00:00'],2020-10-20 03:03:55.134297,0,NoContext
+209,102614,University of Alaska Fairbanks,pay cuts,https://www.homernews.com/news/university-of-alaska-regents-cut-39-programs-across-the-system/,timeout,['2020-06-10T13:38:00-08:00'],2020-10-20 03:03:55.134265,0,NoContext
+217,102614,University of Alaska Fairbanks,reduction of benefits,https://news.uaf.edu/which-departments-are-being-asked-to-take-reduced-contracts/,timeout,No_meta_date,2020-10-20 03:03:55.134266,0,NoContext
+214,102614,University of Alaska Fairbanks,retirement incentives,https://news.uaf.edu/health-insurance-retirement-incentive/,timeout,['2017-09-18T22:09:35+00:00'],2020-10-20 03:03:55.134258,0,NoContext
+212,102614,University of Alaska Fairbanks,retirement incentives,https://news.uaf.edu/retirement-incentive-options/,timeout,['2017-03-09T02:00:03+00:00'],2020-10-20 03:03:55.134256,0,NoContext
+268,102632,University of Alaska Southeast,raise tuition,https://www.homernews.com/news/university-of-alaska-tuition-to-stay-put-for-now/,timeout,['2019-11-13T12:30:00-09:00'],2020-10-20 03:03:55.134329,0,NoContext
+112,100830,Auburn University at Montgomery,add sport,http://www.aum.edu/club-sports,timeout,No_meta_date,2020-10-20 10:28:41.657582,0,NoContext
+113,100830,Auburn University at Montgomery,add sport,http://aum.edu/sport-management-non-certification,timeout,No_meta_date,2020-10-20 10:28:41.657550,0,NoContext
+114,100830,Auburn University at Montgomery,offer scholarship,https://www.aum.edu/getyours/,timeout,No_meta_date,2020-10-20 10:28:41.657567,0,NoContext
+115,100830,Auburn University at Montgomery,offer scholarship,http://aum.edu/aum-offers-new-scholarships-alabama%e2%80%99s-top-high-school-students,timeout,No_meta_date,2020-10-20 10:28:41.657551,0,NoContext
+116,100830,Auburn University at Montgomery,expand financial aid,http://aum.edu/warhawk-weekly-10-22-grant-supports-student-success-aum-swifts-get-new-home,timeout,No_meta_date,2020-10-20 10:28:41.657552,0,NoContext
+117,100830,Auburn University at Montgomery,expand financial aid,http://aum.edu/auburn-university-montgomery-partners-mentor-collective-launch-new-mentorship-program-transfer,timeout,No_meta_date,2020-10-20 10:28:41.657561,0,NoContext
+120,100830,Auburn University at Montgomery,new building,https://www.aum.edu/auburn-university-montgomery-looks-retired-air-force-colonel-build-new-community-partnerships/,timeout,No_meta_date,2020-10-20 10:28:41.657572,0,NoContext
+126,100830,Auburn University at Montgomery,student support,https://www.aum.edu/parents-student-support/,timeout,No_meta_date,2020-10-20 10:28:41.657575,0,NoContext
+127,100830,Auburn University at Montgomery,student support,https://www.aum.edu/academics/academic-support/,timeout,No_meta_date,2020-10-20 10:28:41.657574,0,NoContext
+128,100830,Auburn University at Montgomery,student support,http://aum.edu/auburn-university-montgomery-offering-more-11-million-assistance-students,timeout,No_meta_date,2020-10-20 10:28:41.657564,0,NoContext
+111,100830,Auburn University at Montgomery,partner with corporate entity,http://aum.edu/auburn-university-montgomery-looks-retired-air-force-colonel-build-new-community-partnerships,timeout,No_meta_date,2020-10-20 10:28:41.657548,0,NoContext
+110,100830,Auburn University at Montgomery,partner with corporate entity,https://www.aum.edu/partnerships/,timeout,No_meta_date,2020-10-20 10:28:41.657565,0,NoContext
+109,100830,Auburn University at Montgomery,increase student financial aid,http://aum.edu/current-students/financial-aid/faq,timeout,No_meta_date,2020-10-20 10:28:41.657547,0,NoContext
+89,100830,Auburn University at Montgomery,sell buildings,https://www.loopnet.com/listing/449-457-saint-lukes-dr-montgomery-al/13453989/,timeout,No_meta_date,2020-10-20 10:28:41.657528,0,NoContext
+90,100830,Auburn University at Montgomery,sell buildings,http://aum.edu/faculty-and-staff/auxiliary-services/mailroom-services,timeout,No_meta_date,2020-10-20 10:28:41.657513,0,NoContext
+92,100830,Auburn University at Montgomery,online courses,https://www.aum.edu/online/,timeout,No_meta_date,2020-10-20 10:28:41.657531,0,NoContext
+95,100830,Auburn University at Montgomery,expand to minorities,https://cws.auburn.edu/apspi/pm/blackbeltstem,timeout,No_meta_date,2020-10-20 10:28:41.657555,0,NoContext
+96,100830,Auburn University at Montgomery,expand to minorities,https://www.al.com/news/montgomery/2016/12/feds_alabama_to_expand_drivers.html,timeout,No_meta_date,2020-10-20 10:28:41.657538,0,NoContext
+129,100830,Auburn University at Montgomery,building improvement,http://aum.edu/warhawk-weekly-5-21-facility-improvements-aum-sports-camps,timeout,No_meta_date,2020-10-20 10:28:41.657569,0,NoContext
+97,100830,Auburn University at Montgomery,new scholarships,https://www.aum.edu/aum-offers-new-scholarships-alabamas-top-high-school-students/,timeout,No_meta_date,2020-10-20 10:28:41.657541,0,NoContext
+100,100830,Auburn University at Montgomery,expand to veterans,https://secure.auburn.edu/s/1715/montgomery/index.aspx?sid=1715&gid=2&pgid=867&cid=1669&dids=676&bledit=1&appealcode=aum20gdvet,timeout,No_meta_date,2020-10-20 10:28:41.657590,0,NoContext
+101,100830,Auburn University at Montgomery,expand to veterans,http://aum.edu/alabama-voters-share-opinions-race-relations-expansion-medicaid-and-equal-access-education-latest,timeout,No_meta_date,2020-10-20 10:28:41.657534,0,NoContext
+102,100830,Auburn University at Montgomery,expand to veterans,https://www.mc-ala.org/government/county-commission/district-1-daniel-harris-jr,timeout,No_meta_date,2020-10-20 10:28:41.657568,0,NoContext
+107,100830,Auburn University at Montgomery,offer program to company employees,http://www.aum.edu/corporate-partnerships,timeout,No_meta_date,2020-10-20 10:28:41.657537,0,NoContext
+98,100830,Auburn University at Montgomery,expand to veterans,https://www.aum.edu/grant-expands-training-nursing-students-serve-veterans/,timeout,No_meta_date,2020-10-20 10:28:41.657540,0,NoContext
+131,100830,Auburn University at Montgomery,building improvement,https://www.bidnetdirect.com/alabama/solicitations/closed-bids/page21,timeout,No_meta_date,2020-10-20 10:28:41.657576,0,NoContext
+132,100830,Auburn University at Montgomery,counselling services’ student wellness,https://www.aum.edu/wellness-and-recreation/,timeout,No_meta_date,2020-10-20 10:28:41.657584,0,NoContext
+160,100830,Auburn University at Montgomery,staff support programs,http://aum.edu/sponsored-programs/welcome-to-osp,timeout,No_meta_date,2020-10-20 10:28:41.657615,0,NoContext
+161,100830,Auburn University at Montgomery,faculty advancements,http://aum.edu/edadvancement,timeout,No_meta_date,2020-10-20 10:28:41.657618,0,NoContext
+162,100830,Auburn University at Montgomery,faculty advancements,http://www.aum.edu/governance/faculty-senate,timeout,No_meta_date,2020-10-20 10:28:41.657659,0,NoContext
+154,100830,Auburn University at Montgomery,campus life,https://www.usnews.com/best-colleges/auburn-montgomery-8310/student-life,timeout,No_meta_date,2020-10-20 10:28:41.657625,0,NoContext
+163,100830,Auburn University at Montgomery,faculty advancements,https://www.aum.edu/leadership/eve-rhea/,timeout,No_meta_date,2020-10-20 10:28:41.657637,0,NoContext
+165,100830,Auburn University at Montgomery,share program,http://aum.edu/pressroom/news-releases/auburn-university-at-montgomery-remembers-holocaust-with-education-program,timeout,No_meta_date,2020-10-20 10:28:41.657617,0,NoContext
+166,100830,Auburn University at Montgomery,share program,https://www.aum.edu/warhawk-spotlight-air-war-college-students-share-leadership-experiences-aum-community/,timeout,No_meta_date,2020-10-20 10:28:41.657636,0,NoContext
+168,100830,Auburn University at Montgomery,share resources,https://www.aum.edu/warhawk-weekly-5-5-chancellor-stockton-discusses-financial-resources-summer-payment-plan-going-above-and-beyond/,timeout,No_meta_date,2020-10-20 10:28:41.657641,0,NoContext
+169,100830,Auburn University at Montgomery,partner with another institution,https://www.aum.edu/academic-partners/,timeout,No_meta_date,2020-10-20 10:28:41.657643,0,NoContext
+182,100830,Auburn University at Montgomery,offer degree through another institution,http://aum.edu/transient,timeout,No_meta_date,2020-10-20 10:28:41.657647,0,NoContext
+183,100830,Auburn University at Montgomery,offer degree through another institution,https://www.aum.edu/online/faculty-resources/,timeout,No_meta_date,2020-10-20 10:28:41.657661,0,NoContext
+164,100830,Auburn University at Montgomery,faculty advancements,https://cws.auburn.edu/ovpr/pm/rabaward,timeout,No_meta_date,2020-10-20 10:28:41.657634,0,NoContext
+153,100830,Auburn University at Montgomery,campus life,http://aum.edu/campus-life/student-affairs,timeout,No_meta_date,2020-10-20 10:28:41.657611,0,NoContext
+151,100830,Auburn University at Montgomery,campus life,http://aum.edu/campus-life,timeout,No_meta_date,2020-10-20 10:28:41.657607,0,NoContext
+133,100830,Auburn University at Montgomery,counselling services’ student wellness,http://aum.edu/current-students/health-and-wellness/counseling-center/counseling-services/counseling-student-inquiry-form,timeout,No_meta_date,2020-10-20 10:28:41.657571,0,NoContext
+134,100830,Auburn University at Montgomery,counselling services’ student wellness,http://www.aum.edu/people-finder?page=2,timeout,No_meta_date,2020-10-20 10:28:41.657630,0,NoContext
+135,100830,Auburn University at Montgomery,tenure,http://www.aum.edu/events/tenure-and-promotion-information-session,timeout,No_meta_date,2020-10-20 10:28:41.657578,0,NoContext
+136,100830,Auburn University at Montgomery,tenure,https://www.aum.edu/warhawk-weekly-3-19-aum-names-new-business-dean-tenure-promotion-celebration/,timeout,No_meta_date,2020-10-20 10:28:41.657599,0,NoContext
+137,100830,Auburn University at Montgomery,tenure,http://aum.edu/warhawk-weekly-3%e2%80%9319-aum-names-new-business-dean-tenure-promotion-celebration,timeout,No_meta_date,2020-10-20 10:28:41.657581,0,NoContext
+138,100830,Auburn University at Montgomery,tenure,https://www.aum.edu/congratulations-dr-lilian-mina-being-tenured-and-promoted-associate-professor/,timeout,No_meta_date,2020-10-20 10:28:41.657632,0,NoContext
+139,100830,Auburn University at Montgomery,on-time graduation,http://aum.edu/graduation,timeout,No_meta_date,2020-10-20 10:28:41.657592,0,NoContext
+140,100830,Auburn University at Montgomery,on-time graduation,https://www.aum.edu/current-students/graduation/,timeout,No_meta_date,2020-10-20 10:28:41.657606,0,NoContext
+152,100830,Auburn University at Montgomery,campus life,https://www.aum.edu/student-affairs/,timeout,No_meta_date,2020-10-20 10:28:41.657629,0,NoContext
+141,100830,Auburn University at Montgomery,on-time graduation,https://www.collegefactual.com/colleges/auburn-university-at-montgomery/academic-life/graduation-and-retention/,timeout,['2013-02-20'],2020-10-20 10:28:41.657604,0,NoContext
+143,100830,Auburn University at Montgomery,career center,http://aum.edu/career-resources,timeout,No_meta_date,2020-10-20 10:28:41.657596,0,NoContext
+144,100830,Auburn University at Montgomery,career center,https://www.aum.edu/career-development-center/,timeout,No_meta_date,2020-10-20 10:28:41.657609,0,NoContext
+145,100830,Auburn University at Montgomery,career center,https://career.auburn.edu/coop,timeout,No_meta_date,2020-10-20 10:28:41.657610,0,NoContext
+146,100830,Auburn University at Montgomery,offer amenities,http://aum.edu/conference-services/facilities,timeout,No_meta_date,2020-10-20 10:28:41.657600,0,NoContext
+147,100830,Auburn University at Montgomery,offer amenities,https://www.aum.edu/wellnesscenter/wellness-center-amenities/,timeout,No_meta_date,2020-10-20 10:28:41.657654,0,NoContext
+148,100830,Auburn University at Montgomery,offer amenities,http://aum.edu/campus-life/housing-and-dining/housing-and-residency/on-campus-apartments,timeout,No_meta_date,2020-10-20 10:28:41.657602,0,NoContext
+142,100830,Auburn University at Montgomery,on-time graduation,http://www.aum.edu/information-for-graduating-students,timeout,No_meta_date,2020-10-20 10:28:41.657624,0,NoContext
+99,100830,Auburn University at Montgomery,expand to veterans,http://www.aum.edu/imagine/day-of-giving/detail/our-veteran-military-information-center,timeout,No_meta_date,2020-10-20 10:28:41.657525,0,NoContext
+85,100830,Auburn University at Montgomery,eliminate administrative departments,https://www.aum.edu/aum-poll-alabamians-divided-on-prison-reform-proposals/,timeout,No_meta_date,2020-10-20 10:28:41.657515,0,NoContext
+26,100830,Auburn University at Montgomery,buyouts,https://www.al.com/sports/2014/07/auburn_allocated_878_million_i.html,timeout,['2014-07-26T03:53:55Z'],2020-10-20 10:28:41.657354,0,NoContext
+27,100830,Auburn University at Montgomery,buyouts,https://www.al.com/news/2020/08/tommy-buyout-tubervilles-clueless-hypocrisy-is-way-too-much-fun.html,timeout,No_meta_date,2020-10-20 10:28:41.657359,0,NoContext
+28,100830,Auburn University at Montgomery,postpone maintenance,https://www.aum.edu/warhawk-weekly-8-4-commencement-postponed-readers-choice-awards-covid-19-test/,timeout,No_meta_date,2020-10-20 10:28:41.657374,0,NoContext
+29,100830,Auburn University at Montgomery,postpone maintenance,http://aum.edu/pressroom/news-releases,timeout,No_meta_date,2020-10-20 10:28:41.657342,0,NoContext
+22,100830,Auburn University at Montgomery,reduction of benefits,http://www.aum.edu/military/scholarships,timeout,No_meta_date,2020-10-20 10:28:41.657408,0,NoContext
+34,100830,Auburn University at Montgomery,reduce travel spending,https://www.aum.edu/coronavirus/,timeout,No_meta_date,2020-10-20 10:28:41.657378,0,NoContext
+35,100830,Auburn University at Montgomery,reduce travel spending,http://aum.edu/aum-assistant-professor-economics-discusses-implications-covid-19-alabama%e2%80%99s-economy,timeout,No_meta_date,2020-10-20 10:28:41.657344,0,NoContext
+21,100830,Auburn University at Montgomery,voluntary furlough,https://www.aum.edu/apply/,timeout,No_meta_date,2020-10-20 10:28:41.657376,0,NoContext
+2,100830,Auburn University at Montgomery,leave positions unfilled,https://www.aum.edu/human-resources/,timeout,No_meta_date,2020-10-20 10:28:41.657384,0,NoContext
+3,100830,Auburn University at Montgomery,leave positions unfilled,http://aum.edu/degrees,timeout,No_meta_date,2020-10-20 10:28:41.657346,0,NoContext
+6,100830,Auburn University at Montgomery,open positions,http://www.aum.edu/,timeout,No_meta_date,2020-10-20 10:28:41.657415,0,NoContext
+9,100830,Auburn University at Montgomery,hiring freeze,https://www.wsfa.com/2020/04/23/pandemic-shutdown-forces-commission-cut-budgets-freeze-hiring/,timeout,No_meta_date,2020-10-20 10:28:41.657363,0,NoContext
+14,100830,Auburn University at Montgomery,tuition increase,https://www.theplainsman.com/article/2019/11/board-of-trustees-approves-tuition-increases-for-2020-21-year,timeout,No_meta_date,2020-10-20 10:28:41.657387,0,NoContext
+16,100830,Auburn University at Montgomery,furlough days,https://www.al.com/news/2020/04/can-i-collect-unemployment-if-im-furloughed-from-coronavirus.html,timeout,No_meta_date,2020-10-20 10:28:41.657357,0,NoContext
+17,100830,Auburn University at Montgomery,furlough days,https://www.aum.edu/events/,timeout,['2020-04-04T12:06:47.062Z'],2020-10-20 10:28:41.657382,0,NoContext
+10,100830,Auburn University at Montgomery,add fees,https://www.aum.edu/,timeout,No_meta_date,2020-10-20 10:28:41.657380,0,NoContext
+68,100830,Auburn University at Montgomery,cut athletics,https://www.aum.edu/aum-earns-full-ncaa-division-ii-membership/,timeout,No_meta_date,2020-10-20 10:28:41.657493,0,NoContext
+74,100830,Auburn University at Montgomery,cut sports,https://www.aum.edu/aum-advances-year-three-ncaa-division-ii-membership-process/,timeout,No_meta_date,2020-10-20 10:28:41.657509,0,NoContext
+66,100830,Auburn University at Montgomery,no longer offer,https://www.aum.edu/academics/study-abroad/,timeout,No_meta_date,2020-10-20 10:28:41.657489,0,NoContext
+79,100830,Auburn University at Montgomery,faculty laid off,https://diverseeducation.com/article/14941/,timeout,['2011-03-25T00:00:00-05:00'],2020-10-20 10:28:41.657512,0,NoContext
+80,100830,Auburn University at Montgomery,faculty laid off,https://www.al.com/wire/2011/03/auburn_university_accused_of_r.html,timeout,['2011-03-24T23:50:00Z'],2020-10-20 10:28:41.657504,0,NoContext
+81,100830,Auburn University at Montgomery,faculty laid off,https://www.ledger-enquirer.com/sports/college/sec/auburn-university/war-eagle-extra/article29180344.html,timeout,No_meta_date,2020-10-20 10:28:41.657506,0,NoContext
+82,100830,Auburn University at Montgomery,faculty laid off,https://www.wtvm.com/story/14315997/2011/03/thursday/9-former-workers-sue-auburn-allege-discrimination,timeout,No_meta_date,2020-10-20 10:28:41.657527,0,NoContext
+83,100830,Auburn University at Montgomery,eliminate administrative departments,http://aum.edu/governance/administration/financial-information,timeout,No_meta_date,2020-10-20 10:28:41.657497,0,NoContext
+76,100830,Auburn University at Montgomery,reduce faculty,http://aum.edu/events/faculty-and-staff?page=15&action=,timeout,No_meta_date,2020-10-20 10:28:41.657492,0,NoContext
+65,100830,Auburn University at Montgomery,degrees dropped,https://www.aum.edu/withdrawal-and-drop-policy/,timeout,No_meta_date,2020-10-20 10:28:41.657487,0,NoContext
+77,100830,Auburn University at Montgomery,cut staff,http://aum.edu/governance/staff-council,timeout,No_meta_date,2020-10-20 10:28:41.657490,0,NoContext
+63,100830,Auburn University at Montgomery,reduce international support,https://www.aum.edu/international-students/,timeout,No_meta_date,2020-10-20 10:28:41.657486,0,NoContext
+64,100830,Auburn University at Montgomery,courses dropped,http://aum.edu/withdrawal-and-drop-policy,timeout,No_meta_date,2020-10-20 10:28:41.657438,0,NoContext
+50,100830,Auburn University at Montgomery,operational inefficiencies,https://www.aum.edu/faculty-and-staff/,timeout,No_meta_date,2020-10-20 10:28:41.657372,0,NoContext
+53,100830,Auburn University at Montgomery,reduce student assistance,https://www.auburn.edu/accessibility,timeout,No_meta_date,2020-10-20 10:28:41.657340,0,NoContext
+55,100830,Auburn University at Montgomery,cut student programs,https://www.aum.edu/class/academic-programs/graduate-programs/master-of-science-in-political-science/,timeout,No_meta_date,2020-10-20 10:28:41.657428,0,NoContext
+62,100830,Auburn University at Montgomery,suspend appointments,https://career.auburn.edu/,timeout,No_meta_date,2020-10-20 10:28:41.657484,0,NoContext
+57,100830,Auburn University at Montgomery,stop scholarships,http://aum.edu/auburn-university-montgomery-offers-new-scholarships-graduate-studies,timeout,No_meta_date,2020-10-20 10:28:41.657417,0,NoContext
+60,100830,Auburn University at Montgomery,reduce purchases,http://www.aum.edu/bids,timeout,No_meta_date,2020-10-20 10:28:41.657496,0,NoContext
+54,100830,Auburn University at Montgomery,cut student programs,http://aum.edu/content/warhawk-spotlight-congressman-byrne-participates-aum%e2%80%99s-virtual-avatar-lab-demonstration,timeout,No_meta_date,2020-10-20 10:28:41.657348,0,NoContext
+193,101480,Jacksonville State University,leave positions unfilled,https://www.jsums.edu/,timeout,No_meta_date,2020-10-20 10:28:41.657668,0,NoContext
+195,101480,Jacksonville State University,freeze salary increases,https://www.powerdms.com/public/jsual/documents/1291311,timeout,No_meta_date,2020-10-20 10:28:41.657665,0,NoContext
+178,101480,Jacksonville State University,reduce tuition,https://www.jsums.edu/finance/fees/,timeout,No_meta_date,2020-10-20 10:28:41.657660,0,NoContext
+177,101480,Jacksonville State University,reduce tuition,http://www.jsumsnews.com/?p=40097,timeout,No_meta_date,2020-10-20 10:28:41.657648,0,NoContext
+172,101480,Jacksonville State University,increase tuition,https://www.al.com/news/2019/05/5th-alabama-college-will-put-freeze-on-tuition-increase.html,timeout,['2019-05-15T15:09:23.573Z'],2020-10-20 10:28:41.657645,0,NoContext
+199,101480,Jacksonville State University,open positions,https://www.jsums.edu/hr/,timeout,No_meta_date,2020-10-20 10:28:41.657669,0,NoContext
+61,101587,University of West Alabama,campus climate,https://www.uwa.edu/campuslife,timeout,No_meta_date,2020-10-20 10:33:54.579833,0,NoContext
+60,101587,University of West Alabama,offer amenities,https://uwaathletics.com/sports/2010/1/27/bb_0127104454.aspx,timeout,No_meta_date,2020-10-20 10:33:54.579831,0,NoContext
+59,101587,University of West Alabama,improve utilities,https://www.uwa.edu/node/972,timeout,No_meta_date,2020-10-20 10:33:54.579831,0,NoContext
+55,101587,University of West Alabama,add new athletic programs,https://www.uwa.edu/academics/collegeofnaturalsciencesandmathematics/schoolofhealthsciencesandhumanperformance/masterofathletictraining,timeout,No_meta_date,2020-10-20 10:33:54.579838,0,NoContext
+54,101587,University of West Alabama,add new athletic programs,http://at.uwa.edu/,timeout,No_meta_date,2020-10-20 10:33:54.579834,0,NoContext
+53,101587,University of West Alabama,close buildings,https://www.uwa.edu/campuslife/residencelife/housingoptions,timeout,No_meta_date,2020-10-20 10:33:54.579834,0,NoContext
+50,101587,University of West Alabama,partner with corporate entity,https://www.uwa.edu/academics/collegeofbusinessandtechnology,timeout,['2018-03-20T13:03:58+00:00'],2020-10-20 10:33:54.579821,0,NoContext
+49,101587,University of West Alabama,partner with corporate entity,https://www.westalabamawatchman.com/uwa-att-partner-for-first-alabama-summit-on-rural-technology/,timeout,No_meta_date,2020-10-20 10:33:54.579828,0,NoContext
+48,101587,University of West Alabama,partner with corporate entity,https://www.uwa.edu/news/uwaeconomicdevleadershipacademy,timeout,No_meta_date,2020-10-20 10:33:54.579812,0,NoContext
+46,101587,University of West Alabama,expand to veterans,https://app.collegerecon.com/university-of-west-alabama,timeout,No_meta_date,2020-10-20 10:33:54.579806,0,NoContext
+45,101587,University of West Alabama,expand to veterans,https://www.uwa.edu/veteranaffairs,timeout,No_meta_date,2020-10-20 10:33:54.579810,0,NoContext
+62,101587,University of West Alabama,increase benefits,https://online.uwa.edu/news/benefits-of-smiling-and-laughter/,timeout,No_meta_date,2020-10-20 10:33:54.579832,0,NoContext
+64,101587,University of West Alabama,student support,https://www.uwa.edu/campuslife/studentsupportservices,timeout,No_meta_date,2020-10-20 10:33:54.579833,0,NoContext
+89,101587,University of West Alabama,university partnership,https://uwa.edu/news/uwatruevineexperience,timeout,No_meta_date,2020-10-20 10:33:54.579851,0,NoContext
+88,101587,University of West Alabama,partner with another institution,https://www.uwa.edu/news/apprenticeshipsponsor2020,timeout,No_meta_date,2020-10-20 10:33:54.579851,0,NoContext
+81,101587,University of West Alabama,share resources,https://www.uwa.edu/news/hp2communitymeeting,timeout,No_meta_date,2020-10-20 10:33:54.579852,0,NoContext
+79,101587,University of West Alabama,share location,https://uwa.edu/campuslife/residencelife/communities,timeout,No_meta_date,2020-10-20 10:33:54.579849,0,NoContext
+77,101587,University of West Alabama,campus life,https://www.uwa.edu/campuslife/studentinvolvement/greeklife,timeout,No_meta_date,2020-10-20 10:33:54.579849,0,NoContext
+71,101587,University of West Alabama,new building,https://www.uwa.edu/campuslife/residencelife,timeout,No_meta_date,2020-10-20 10:33:54.579852,0,NoContext
+70,101587,University of West Alabama,food pantry,https://cw.ua.edu/56874/news/beat-auburn-beat-hunger-reveals-final-results-at-west-alabama-food-bank/,timeout,No_meta_date,2020-10-20 10:33:54.579863,0,NoContext
+69,101587,University of West Alabama,food pantry,https://www.uwa.edu/givenow,timeout,No_meta_date,2020-10-20 10:33:54.579848,0,NoContext
+17,101587,University of West Alabama,freeze tuition,https://www.uwa.edu/news?page=1,timeout,No_meta_date,2020-10-20 10:33:54.579817,0,NoContext
+16,101587,University of West Alabama,voluntary furlough,https://uwaathletics.com/,timeout,No_meta_date,2020-10-20 10:33:54.579825,0,NoContext
+14,101587,University of West Alabama,voluntary furlough,https://www.uwa.edu/apply,timeout,No_meta_date,2020-10-20 10:33:54.579821,0,NoContext
+13,101587,University of West Alabama,voluntary furlough,https://www.uwa.edu/,timeout,No_meta_date,2020-10-20 10:33:54.579823,0,NoContext
+12,101587,University of West Alabama,hiring freeze,https://www.uwa.edu/news,timeout,No_meta_date,2020-10-20 10:33:54.579811,0,NoContext
+11,101587,University of West Alabama,increase tuition,https://www.apr.org/post/university-west-alabama-increasing-tuition,timeout,No_meta_date,2020-10-20 10:33:54.579804,0,NoContext
+19,101587,University of West Alabama,freeze tuition,https://whnt.com/news/university-of-west-alabama-freezing-tuition/,timeout,['2019-06-09T16:24:51+00:00'],2020-10-20 10:33:54.579799,0,NoContext
+10,101587,University of West Alabama,increase tuition,https://www.trussvilletribune.com/2020/06/10/university-of-west-alabama-freezing-tuition-for-fall-semester/,timeout,No_meta_date,2020-10-20 10:33:54.579822,0,NoContext
+8,101587,University of West Alabama,raise tuition,https://altoday.com/archives/17193-university-west-alabama-approves-tuition-increase,timeout,No_meta_date,2020-10-20 10:33:54.579829,0,NoContext
+7,101587,University of West Alabama,raise tuition,https://apnews.com/article/3eef551678214cb88bf8e41a61bf0a5a,timeout,['2017-06-11T14:42:58Z'],2020-10-20 10:33:54.579800,0,NoContext
+6,101587,University of West Alabama,raise tuition,https://www.collegecalc.org/colleges/alabama/university-of-west-alabama/,timeout,No_meta_date,2020-10-20 10:33:54.579798,0,NoContext
+5,101587,University of West Alabama,raise tuition,https://www.uwa.edu/news/fall2020tuitionfreeze,timeout,No_meta_date,2020-10-20 10:33:54.579818,0,NoContext
+41,101587,University of West Alabama,no longer offer,https://www.uwa.edu/financialaid/directstudentloans,timeout,No_meta_date,2020-10-20 10:33:54.579809,0,NoContext
+3,101587,University of West Alabama,increase fees,https://uwa.edu/academics/academicsupport,timeout,No_meta_date,2020-10-20 10:33:54.579812,0,NoContext
+1,101587,University of West Alabama,increase fees,https://www.uwa.edu/campuslife/residencelife/housingplans,timeout,No_meta_date,2020-10-20 10:33:54.579819,0,NoContext
+9,101587,University of West Alabama,decrease tuition,https://www.uwa.edu/financialaid/faq,timeout,No_meta_date,2020-10-20 10:33:54.579823,0,NoContext
+22,101587,University of West Alabama,postpone maintenance,https://www.uwa.edu/academics/collegeofbusinessandtechnology/departmentofcomputerinformationsystemsandtechnology/engineeringtechnologyaas,timeout,No_meta_date,2020-10-20 10:33:54.579820,0,NoContext
+21,101587,University of West Alabama,furlough,https://www.uwa.edu/degrees,timeout,No_meta_date,2020-10-20 10:33:54.579819,0,NoContext
+37,101587,University of West Alabama,cut athletics budget,https://birminghamwatch.org/higher-education-looks-fix-egregious-inequities-funding-universities/,timeout,['2019-05-05T01:39:04-05:00'],2020-10-20 10:33:54.579810,0,NoContext
+35,101587,University of West Alabama,cut athletics,https://www.uwa.edu/giving/athletics,timeout,No_meta_date,2020-10-20 10:33:54.579814,0,NoContext
+38,101587,University of West Alabama,staff cuts,https://www.uwa.edu/currentstudentsfacultyandstaff,timeout,No_meta_date,2020-10-20 10:33:54.579813,0,NoContext
+32,101587,University of West Alabama,operational spending reductions,https://www.moodys.com/research/moodys-downgrades-univ-of-west-alabama-to-a3-outlook-negative--pr_331558,timeout,No_meta_date,2020-10-20 10:33:54.579808,0,NoContext
+33,101587,University of West Alabama,cut student programs,https://uwa.edu/campuslife/studentinvolvement/cab,timeout,No_meta_date,2020-10-20 10:33:54.579814,0,NoContext
+29,101587,University of West Alabama,scholarship funding decrease,https://www.uwa.edu/alumni/scholarships,timeout,No_meta_date,2020-10-20 10:33:54.579816,0,NoContext
+28,101587,University of West Alabama,scholarship funding decrease,https://uwa.edu/emergency,timeout,No_meta_date,2020-10-20 10:33:54.579815,0,NoContext
+27,101587,University of West Alabama,cut scholarships,https://www.uwa.edu/news/earnscholarshipgrant,timeout,No_meta_date,2020-10-20 10:33:54.579818,0,NoContext
+25,101587,University of West Alabama,cut scholarships,https://www.uwa.edu/news/uwatransferpartnersfeb2020,timeout,No_meta_date,2020-10-20 10:33:54.579816,0,NoContext
+24,101587,University of West Alabama,streamline operations,https://www.westalabamawatchman.com/uwa-athletic-department-eliminates-golf-triathlon/,timeout,['2018-05-09T23:58:13+00:00'],2020-10-20 10:33:54.579808,0,NoContext
+23,101587,University of West Alabama,streamline operations,https://uwaathletics.com/news/2018/5/9/general-west-alabama-discontinues-golf-triathlon-programs.aspx,timeout,No_meta_date,2020-10-20 10:33:54.579805,0,NoContext
+39,101587,University of West Alabama,staff cuts,https://www.tuscaloosanews.com/article/20081202/news/606126638,timeout,No_meta_date,2020-10-20 10:33:54.579803,0,NoContext
+134,106306,Arkansas Baptist College,athletics spending cuts,https://www.region2athletics.com/sports/mbkb/div1/2018-19/teams/arkansasbaptistcollege,timeout,No_meta_date,2020-10-20 10:33:54.579882,0,NoContext
+133,106306,Arkansas Baptist College,athletics spending cuts,https://hardingsports.com/sports/mens-basketball/opponent-history/arkansas-baptist-college/146,timeout,No_meta_date,2020-10-20 10:33:54.579875,0,NoContext
+132,106306,Arkansas Baptist College,athletics spending cuts,https://www.arkansasbaptist.edu/athletics/,timeout,No_meta_date,2020-10-20 10:33:54.579886,0,NoContext
+131,106306,Arkansas Baptist College,staff layoffs,https://arkansasbaptist.org/post/sbts-reduces-budget-institutes-structural-changes-in-response-to-pandemic/,timeout,No_meta_date,2020-10-20 10:33:54.579881,0,NoContext
+130,106306,Arkansas Baptist College,reduce degree programs,https://www.usnews.com/best-colleges/arkansas-baptist-college-1087/reviews,timeout,No_meta_date,2020-10-20 10:33:54.579880,0,NoContext
+129,106306,Arkansas Baptist College,cut programs,https://www.arkansasbaptist.edu/evening/,timeout,No_meta_date,2020-10-20 10:33:54.579878,0,NoContext
+122,106306,Arkansas Baptist College,postpone maintenance,https://www.arkansasbaptist.edu/facilities/,timeout,No_meta_date,2020-10-20 10:33:54.579874,0,NoContext
+127,106306,Arkansas Baptist College,reduce unnecessary spending,https://www.arkansasbaptist.edu/blog/college-on-a-budget-7-tips-for-managing-your-money-1772/,timeout,['2016-08-19T16:20:44+00:00'],2020-10-20 10:33:54.579879,0,NoContext
+124,106306,Arkansas Baptist College,stop scholarships,https://www.abf.org/scholarships/,timeout,No_meta_date,2020-10-20 10:33:54.579885,0,NoContext
+123,106306,Arkansas Baptist College,stop scholarships,https://www.arkansasbaptist.edu/scholarships-3/,timeout,No_meta_date,2020-10-20 10:33:54.579879,0,NoContext
+121,106306,Arkansas Baptist College,furlough days,https://www.abcbuffaloes.com/,timeout,No_meta_date,2020-10-20 10:33:54.579881,0,NoContext
+128,106306,Arkansas Baptist College,program cuts,https://www.arkansasbaptist.edu/ged/,timeout,['2015-03-11'],2020-10-20 10:33:54.579882,0,NoContext
+145,106306,Arkansas Baptist College,increase student financial aid,https://www.arkansasbaptist.edu/financialaid/,timeout,No_meta_date,2020-10-20 10:33:54.579870,0,NoContext
+120,106306,Arkansas Baptist College,faculty furlough,https://www.christianitytoday.com/news/2020/august/christian-college-cuts-bethel-harding-john-brown-cccu.html,timeout,No_meta_date,2020-10-20 10:33:54.579888,0,NoContext
+152,106306,Arkansas Baptist College,staff support programs,https://www.arkansasbaptist.edu/job-posting5/,timeout,No_meta_date,2020-10-20 10:33:54.579872,0,NoContext
+150,106306,Arkansas Baptist College,counselling services’ student wellness,https://www.mobap.edu/student-life/support-services/studenthealthservices/counselors/,timeout,No_meta_date,2020-10-20 10:33:54.579904,0,NoContext
+149,106306,Arkansas Baptist College,counselling services’ student wellness,https://williamsbu.edu/counseling-services/,timeout,No_meta_date,2020-10-20 10:33:54.579896,0,NoContext
+148,106306,Arkansas Baptist College,counselling services’ student wellness,https://universitybusiness.com/a-new-age-for-campus-health-and-wellness/,timeout,['2020-07-31T16:56:36Z'],2020-10-20 10:33:54.579897,0,NoContext
+137,106306,Arkansas Baptist College,online courses,https://www.arkansasbaptist.edu/portfolio/online-classes-on-campus-housing/,timeout,No_meta_date,2020-10-20 10:33:54.579876,0,NoContext
+147,106306,Arkansas Baptist College,increase student financial aid,https://www.arkansasbaptist.edu/give-to-kingster-2/,timeout,No_meta_date,2020-10-20 10:33:54.579872,0,NoContext
+144,106306,Arkansas Baptist College,new scholarships,https://www.collegefactual.com/colleges/arkansas-baptist-college/paying-for-college/financial-aid/,timeout,No_meta_date,2020-10-20 10:33:54.579884,0,NoContext
+143,106306,Arkansas Baptist College,new scholarships,http://www.arkansasbaptist.edu/financial-aid/scholarships/attachment/scholarships-and-discounts-fall17-spring18/,timeout,No_meta_date,2020-10-20 10:33:54.579873,0,NoContext
+140,106306,Arkansas Baptist College,sell buildings,https://arkansaspreservation.worldsecuresystems.com/literatureretrieve.aspx?id=133957,timeout,No_meta_date,2020-10-20 10:33:54.579875,0,NoContext
+139,106306,Arkansas Baptist College,online courses,https://www.arkansasbaptist.edu/course/,timeout,No_meta_date,2020-10-20 10:33:54.579877,0,NoContext
+146,106306,Arkansas Baptist College,increase student financial aid,https://abc.arkansasbaptist.edu/satisfactory-academic-progress-sap/,timeout,No_meta_date,2020-10-20 10:33:54.579903,0,NoContext
+119,106306,Arkansas Baptist College,faculty furlough,https://www.arkansasbaptist.edu/finance-faculty/,timeout,No_meta_date,2020-10-20 10:33:54.579873,0,NoContext
+117,106306,Arkansas Baptist College,staff furlough,https://www.newsbreak.com/arkansas/little-rock/news/0oikwruu/arkansas-arts-center-to-furlough-staff-through-may,timeout,No_meta_date,2020-10-20 10:33:54.579864,0,NoContext
+98,106306,Arkansas Baptist College,pay cuts,https://arktimes.com/arkansas-blog/2017/03/11/declining-enrollment-forces-pay-cuts-at-arkansas-baptist-college,timeout,['2017-03-11T00:34:00+00:00'],2020-10-20 10:33:54.579862,0,NoContext
+96,106306,Arkansas Baptist College,deferred hiring deferred hiring of vacant positions,https://www.arkansasbaptist.edu/handshake/,timeout,No_meta_date,2020-10-20 10:33:54.579846,0,NoContext
+94,106306,Arkansas Baptist College,deferred hiring deferred hiring of vacant positions,https://www.arkansasbaptist.edu/human-resources/,timeout,No_meta_date,2020-10-20 10:33:54.579847,0,NoContext
+92,106306,Arkansas Baptist College,decrease tuition,https://www.cappex.com/colleges/arkansas-baptist-college/tuition-and-aid,timeout,No_meta_date,2020-10-20 10:33:54.579840,0,NoContext
+86,106306,Arkansas Baptist College,increase tuition,https://www.arkansasbaptist.edu/institutional-advancement/,timeout,No_meta_date,2020-10-20 10:33:54.579848,0,NoContext
+85,106306,Arkansas Baptist College,increase tuition,https://www.collegecalc.org/colleges/arkansas/arkansas-baptist-college/,timeout,No_meta_date,2020-10-20 10:33:54.579836,0,NoContext
+84,106306,Arkansas Baptist College,add fees,https://hotelguides.com/colleges/arkansas/arkansas-baptist-college.html,timeout,No_meta_date,2020-10-20 10:33:54.579850,0,NoContext
+83,106306,Arkansas Baptist College,add fees,https://www.arkansasbaptist.edu/,timeout,No_meta_date,2020-10-20 10:33:54.579846,0,NoContext
+82,106306,Arkansas Baptist College,add fees,https://www.usnews.com/best-colleges/arkansas-baptist-college-1087,timeout,No_meta_date,2020-10-20 10:33:54.579856,0,NoContext
+118,106306,Arkansas Baptist College,staff furlough,https://www.arkansasbaptist.edu/library-2/,timeout,No_meta_date,2020-10-20 10:33:54.579854,0,NoContext
+87,106306,Arkansas Baptist College,increase tuition,https://www.collegesimply.com/colleges/arkansas/arkansas-baptist-college/price/,timeout,['2013-02-20'],2020-10-20 10:33:54.579835,0,NoContext
+100,106306,Arkansas Baptist College,pay cuts,https://katv.com/news/local/arkansas-baptist-college-having-trouble-paying-employees-on-time-again,timeout,['2015-03-11'],2020-10-20 10:33:54.579853,0,NoContext
+91,106306,Arkansas Baptist College,reduce tuition,https://www.collegetuitioncompare.com/edu/106306/arkansas-baptist-college/tuition/,timeout,No_meta_date,2020-10-20 10:33:54.579857,0,NoContext
+116,106306,Arkansas Baptist College,suspend retirement contributions,http://www.pensionrights.org/publications/fact-sheet/companies-have-changed-or-temporarily-suspended-their-401k-matching-contribu,timeout,No_meta_date,2020-10-20 10:33:54.579857,0,NoContext
+115,106306,Arkansas Baptist College,suspend retirement contributions,https://www.forbes.com/sites/advisor/2020/04/10/covid-19-employers-suspending-401k-matching-contributions/,timeout,['2020-03-31 7:12'],2020-10-20 10:33:54.579864,0,NoContext
+114,106306,Arkansas Baptist College,suspend retirement contributions,https://www.arkansasonline.com/news/2020/mar/31/baptist-health-tells-staff-of-job-cuts-/,timeout,No_meta_date,2020-10-20 10:33:54.579859,0,NoContext
+113,106306,Arkansas Baptist College,early retirement,https://www.arkansasonline.com/news/2019/dec/16/forward-arkansas-picks-interim-chief-35/?news-arkansas-nwa,timeout,['2019-12-16 1:00'],2020-10-20 10:33:54.579843,0,NoContext
+111,106306,Arkansas Baptist College,salary reductions,https://arkansasbaptist.org/post/sebts-trustees-cut-tuition-salaries-in-covid-19-economic-downturn/,timeout,No_meta_date,2020-10-20 10:33:54.579858,0,NoContext
+110,106306,Arkansas Baptist College,leave positions unfilled,https://www.collegefactual.com/colleges/arkansas-baptist-college/academic-life/academic-majors/,timeout,['2013-02-20'],2020-10-20 10:33:54.579858,0,NoContext
+103,106306,Arkansas Baptist College,reduce payroll,https://baptistnews.com/article/arkansas-baptist-college-gets-30-to-stabilize-finances/,timeout,['2014-12-15T21:35:12+00:00'],2020-10-20 10:33:54.579842,0,NoContext
+178,107044,Harding University,pay cuts,https://thelink.harding.edu/the-bison/2009/10/14/hardings-23rd-year-for-high-enrollment/,timeout,['2017-02-22T15:21:55Z'],2020-10-20 10:33:54.579899,0,NoContext
+176,107044,Harding University,voluntary furlough,https://www.arkansasbusiness.com/search?k=&page=13,timeout,No_meta_date,2020-10-20 10:33:54.579902,0,NoContext
+179,107044,Harding University,pay cuts,https://thelink.harding.edu/the-bison/2010/03/30/student-continues-to-lead-supplemental-instruction-groups-despite-funding-cuts/,timeout,['2017-02-22T15:21:55Z'],2020-10-20 10:33:54.579899,0,NoContext
+177,107044,Harding University,voluntary furlough,https://www.insidehighered.com/quicktakes/2020/06/23/deep-faculty-cuts-u-michigan-flint,timeout,No_meta_date,2020-10-20 10:33:54.579895,0,NoContext
+185,107044,Harding University,streamline operations,https://thelink.harding.edu/the-bison/2018/02/08/searcy-fire-department-gets-new-wheels/,timeout,['2018-02-08T21:12:19Z'],2020-10-20 10:33:54.579900,0,NoContext
+153,107044,Harding University,raise tuition,https://thelink.harding.edu/the-bison/2013/08/30/loans-rising-tuition-costs-catch-national-focus/,timeout,No_meta_date,2020-10-20 10:33:54.579887,0,NoContext
+165,107044,Harding University,freeze salary increases,https://planetprinceton.com/2020/04/08/princeton-university-freezes-salaries-asks-departments-to-cut-non-essential-spending-in-response-to-covid-19-crisis/,timeout,['2020-04-09T01:51:52+00:00'],2020-10-20 10:33:54.579901,0,NoContext
+374,106245,University of Arkansas at Little Rock,cut student programs,https://ualr.edu/policy/home/athletic/,timeout,No_meta_date,2020-10-20 10:34:49.306774,0,NoContext
+375,106245,University of Arkansas at Little Rock,reduce purchases,https://ualr.edu/procurement/procurementpolicy/,timeout,No_meta_date,2020-10-20 10:34:49.306775,0,NoContext
+378,106245,University of Arkansas at Little Rock,reduce purchases,https://ualr.edu/procurement/pcard/p-card-news/,timeout,No_meta_date,2020-10-20 10:34:49.306776,0,NoContext
+370,106245,University of Arkansas at Little Rock,streamline operations,https://ualr.edu/news/2020/05/19/kendrick-raino-commencement/,timeout,['2020-07-31T19:11:50+00:00'],2020-10-20 10:34:49.306771,0,NoContext
+383,106245,University of Arkansas at Little Rock,degrees dropped,https://www.arkansasonline.com/news/2019/sep/16/ualr-enrollment-drops-8-2-deficit-set-t/,timeout,['2019-09-16 7:28'],2020-10-20 10:34:49.306775,0,NoContext
+385,106245,University of Arkansas at Little Rock,degrees dropped,https://ualr.edu/records/2020/08/28/dropped-for-non-payment/,timeout,No_meta_date,2020-10-20 10:34:49.306780,0,NoContext
+387,106245,University of Arkansas at Little Rock,stop scholarships,https://ualr.edu/scholarships/transfer/,timeout,No_meta_date,2020-10-20 10:34:49.306781,0,NoContext
+367,106245,University of Arkansas at Little Rock,suspend retirement contributions,https://petersonrudgersgroup.com/blog/round-up-of-higher-education-financial-planning-related-to-covid-19/,timeout,No_meta_date,2020-10-20 10:34:49.306770,0,NoContext
+336,106245,University of Arkansas at Little Rock,raise tuition,https://www.arkansasonline.com/news/2019/may/24/tuition-rises-approved-for-most-of-ua-s/,timeout,['2019-05-24 3:04'],2020-10-20 10:34:49.306746,0,NoContext
+352,106245,University of Arkansas at Little Rock,tuition increase,https://news.uark.edu/articles/12894/university-of-arkansas-students-will-see-no-tuition-increase-for-2009-10-academic-year,timeout,No_meta_date,2020-10-20 10:34:49.306762,0,NoContext
+355,106245,University of Arkansas at Little Rock,increase fees,https://ualr.edu/policy/home/business/college-technology-fees/,timeout,['2019-05-24 3:04'],2020-10-20 10:34:49.306764,0,NoContext
+368,106245,University of Arkansas at Little Rock,streamline operations,https://ualr.edu/itservices/2019/04/23/a-message-from-the-cio-partnerships/,timeout,['2019-04-23T14:52:45+00:00'],2020-10-20 10:34:49.306772,0,NoContext
+364,106245,University of Arkansas at Little Rock,early retirement,https://ualr.edu/policy/home/facstaff/voluntary-early-retirement-tenured-faculty/early-retirement-tenured-faculty-instructions/,timeout,No_meta_date,2020-10-20 10:34:49.306767,0,NoContext
+421,106245,University of Arkansas at Little Rock,improve utilities,https://ualr.edu/facilities/2015/12/02/ualr-is-reducing-utility-costs/,timeout,No_meta_date,2020-10-20 10:34:49.306812,0,NoContext
+437,106245,University of Arkansas at Little Rock,career center,https://ualr.edu/business/student-services/career-services-2/,timeout,No_meta_date,2020-10-20 10:34:49.306815,0,NoContext
+417,106245,University of Arkansas at Little Rock,expand to minorities,https://ualr.edu/news/2019/10/28/ua-little-rock-philander-smith-create-pipeline-for-minority-law-students/,timeout,['2019-10-28T13:45:16+00:00'],2020-10-20 10:34:49.306810,0,NoContext
+415,106245,University of Arkansas at Little Rock,expand to minorities,https://ualr.edu/news/2019/02/18/minority-women-owner-accelerator/,timeout,['2019-02-18T14:01:12+00:00'],2020-10-20 10:34:49.306809,0,NoContext
+397,106245,University of Arkansas at Little Rock,staff cuts,https://www.ualrpublicradio.org/post/ua-little-rock-faces-minimum-6-million-cut-fiscal-year-2020,timeout,No_meta_date,2020-10-20 10:34:49.306792,0,NoContext
+401,106245,University of Arkansas at Little Rock,administrative budget cuts,https://www.ualrpublicradio.org/post/arkansas-legislature-nears-completion-budget-session-covid-19-forces-cuts,timeout,No_meta_date,2020-10-20 10:34:49.306796,0,NoContext
+402,106245,University of Arkansas at Little Rock,sell buildings,https://ualr.edu/news/2018/08/23/instrument-sale/,timeout,No_meta_date,2020-10-20 10:34:49.306798,0,NoContext
+416,106245,University of Arkansas at Little Rock,expand to minorities,https://news.uams.edu/2013/04/17/uams-roundtable-partners-look-to-expand-diversity-in-health-care/,timeout,['2013-04-17T10:40:40-05:00'],2020-10-20 10:34:49.306810,0,NoContext
+403,106245,University of Arkansas at Little Rock,sell buildings,https://ualr.edu/art/galleries/current-exhibitions/,timeout,['2018-08-23T20:19:19+00:00'],2020-10-20 10:34:49.306799,0,NoContext
+408,106245,University of Arkansas at Little Rock,online courses,https://ualr.edu/elearning/online-courses/,timeout,No_meta_date,2020-10-20 10:34:49.306805,0,NoContext
+411,106245,University of Arkansas at Little Rock,partner with corporate entity,https://ualr.edu/eriq/partners/,timeout,No_meta_date,2020-10-20 10:34:49.306807,0,NoContext
+413,106245,University of Arkansas at Little Rock,partner with corporate entity,https://ualr.edu/eriq/,timeout,No_meta_date,2020-10-20 10:34:49.306807,0,NoContext
+405,106245,University of Arkansas at Little Rock,eliminate administrative departments,https://ualr.edu/administration/,timeout,No_meta_date,2020-10-20 10:34:49.306800,0,NoContext
+395,106245,University of Arkansas at Little Rock,cut athletics,https://ualr.edu/news/2019/11/18/2020-hall-of-fame-class/,timeout,['2019-11-18T14:02:10+00:00'],2020-10-20 10:34:49.306791,0,NoContext
+281,106397,University of Arkansas,on-time graduation,https://news.uark.edu/articles/49936/university-enrollment-stablizing-after-20-years-of-record-breaking-growth,timeout,No_meta_date,2020-10-20 10:34:49.306717,0,NoContext
+242,106397,University of Arkansas,campus climate,https://news.uark.edu/articles/40386/results-of-first-u-of-a-staff-campus-climate-survey-now-available-online,timeout,No_meta_date,2020-10-20 10:34:49.306709,0,NoContext
+224,106397,University of Arkansas,increase athletics spending,https://news.uark.edu/articles/20190/study-shows-razorback-athletics-serves-as-major-economic-catalyst-for-arkansas,timeout,No_meta_date,2020-10-20 10:34:49.306698,0,NoContext
+225,106397,University of Arkansas,add new athletic programs,https://news.uark.edu/articles/34859/arkansas-among-national-elite-programs-in-final-directors-cup-standings,timeout,No_meta_date,2020-10-20 10:34:49.306701,0,NoContext
+227,106397,University of Arkansas,add new athletic programs,https://news.uark.edu/articles/19093/board-of-trustees-approve-three-new-athletics-facilities,timeout,No_meta_date,2020-10-20 10:34:49.306701,0,NoContext
+232,106397,University of Arkansas,add sport,https://news.uark.edu/articles/27038/arkansas-leads-sec-and-ranks-11th-nationally-in-learfield-sports-directors-cup-standings,timeout,No_meta_date,2020-10-20 10:34:49.306702,0,NoContext
+282,106397,University of Arkansas,on-time graduation,https://www.collegefactual.com/colleges/university-of-arkansas/academic-life/graduation-and-retention/,timeout,No_meta_date,2020-10-20 10:34:49.306720,0,NoContext
+236,106397,University of Arkansas,improve utilities,https://watercurrents.uark.edu/utility-uses-forest-management-to-protect-water-supply/,timeout,['2017-03-13T15:40:41+00:00'],2020-10-20 10:34:49.306705,0,NoContext
+239,106397,University of Arkansas,campus climate,https://news.uark.edu/articles/51824/u-of-a-staff-campus-climate-survey-results-now-available,timeout,No_meta_date,2020-10-20 10:34:49.306707,0,NoContext
+241,106397,University of Arkansas,campus climate,https://news.uark.edu/articles/38493/student-survey-measures-campus-climate-regarding-sexual-assault-and-misconduct,timeout,No_meta_date,2020-10-20 10:34:49.306709,0,NoContext
+244,106397,University of Arkansas,increase student financial aid,https://news.uark.edu/articles/35361/u-of-a-enrollment-hits-27-194-students-as-overall-diversity-reaches-new-high,timeout,No_meta_date,2020-10-20 10:34:49.306712,0,NoContext
+285,106397,University of Arkansas,increase benefits,https://news.uark.edu/articles/38904/increasing-numbers-of-engineering-students-take-advantage-of-semester-study-abroad-opportunities,timeout,No_meta_date,2020-10-20 10:34:49.306725,0,NoContext
+319,106397,University of Arkansas,faculty advancements,https://news.uark.edu/articles/20163/engineering-researchers-to-present-projects-at-sec-symposium,timeout,No_meta_date,2020-10-20 10:34:49.306744,0,NoContext
+320,106397,University of Arkansas,share program,https://news.uark.edu/articles/43849/bike-sharing-program-rolling-on-campus-and-throughout-fayetteville,timeout,No_meta_date,2020-10-20 10:34:49.306746,0,NoContext
+323,106397,University of Arkansas,share program,https://news.uark.edu/articles/42389/bike-share-program-comes-to-u-of-a-in-partnership-with-fayetteville,timeout,No_meta_date,2020-10-20 10:34:49.306748,0,NoContext
+327,106397,University of Arkansas,share resources,https://tips.uark.edu/kaltura-share-a-video-with-individuals-outside-of-the-university/,timeout,No_meta_date,2020-10-20 10:34:49.306749,0,NoContext
+334,106397,University of Arkansas,consolidate campuses,https://news.uark.edu/articles/17905/new-initiative-consolidates-health-research-on-campus,timeout,No_meta_date,2020-10-20 10:34:49.306751,0,NoContext
+346,106397,University of Arkansas,partner with another institution,https://news.uark.edu/articles/54641/researchers-industry-partners-discuss-facility-for-next-generation-power-electronics,timeout,No_meta_date,2020-10-20 10:34:49.306756,0,NoContext
+348,106397,University of Arkansas,university partnership,https://uofapartners.uark.edu/,timeout,No_meta_date,2020-10-20 10:34:49.306761,0,NoContext
+351,106397,University of Arkansas,university partnership,https://news.uark.edu/articles/50242/u-of-a-and-university-of-oklahoma-teaming-up-to-establish-razorback-sooner-scholars-program,timeout,No_meta_date,2020-10-20 10:34:49.306760,0,NoContext
+284,106397,University of Arkansas,increase benefits,https://news.uark.edu/articles/25549/u-of-a-researchers-find-major-benefits-for-students-who-attend-live-theater,timeout,No_meta_date,2020-10-20 10:34:49.306728,0,NoContext
+317,106397,University of Arkansas,faculty advancements,https://news.uark.edu/articles/44119/announcing-the-advancement-for-associate-professors-program,timeout,No_meta_date,2020-10-20 10:34:49.306743,0,NoContext
+315,106397,University of Arkansas,promotions,https://news.uark.edu/articles/52547/oeoc-announces-new-hires-promotions,timeout,No_meta_date,2020-10-20 10:34:49.306739,0,NoContext
+297,106397,University of Arkansas,food pantry,https://news.uark.edu/articles/50320/jane-b-gearhart-full-circle-food-pantry-is-here-for-u-of-a-students-staff-and-faculty,timeout,No_meta_date,2020-10-20 10:34:49.306730,0,NoContext
+298,106397,University of Arkansas,food pantry,https://volunteer.uark.edu/programs/jane-b-gearhart-full-circle-food-pantry/,timeout,No_meta_date,2020-10-20 10:34:49.306731,0,NoContext
+299,106397,University of Arkansas,food pantry,https://news.uark.edu/articles/52703/demand-increases-for-full-circle-food-pantry-as-pandemic-continues,timeout,No_meta_date,2020-10-20 10:34:49.306733,0,NoContext
+301,106397,University of Arkansas,increase pay,https://news.uark.edu/articles/54260/university-will-advance-two-salary-initiatives-to-help-staff-gas,timeout,No_meta_date,2020-10-20 10:34:49.306739,0,NoContext
+313,106397,University of Arkansas,salary increase,https://news.uark.edu/articles/42404/avoid-salary-increase-phishing-scam,timeout,['2020-07-22 7:14'],2020-10-20 10:34:49.306738,0,NoContext
+77,106397,University of Arkansas,cut travel,https://news.uark.edu/articles/52536/chancellor-provides-update-regarding-coronavirus-impact-to-campus,timeout,No_meta_date,2020-10-20 10:34:49.306594,0,NoContext
+74,106397,University of Arkansas,faculty furlough,https://www.insidehighered.com/news/2020/04/10/colleges-announce-furloughs-and-layoffs-financial-challenges-mount,timeout,No_meta_date,2020-10-20 10:34:49.306588,0,NoContext
+61,106397,University of Arkansas,early retirement,https://ualr.edu/policy/home/facstaff/voluntary-early-retirement-tenured-faculty/,timeout,No_meta_date,2020-10-20 10:34:49.306593,0,NoContext
+60,106397,University of Arkansas,deferred maintenance,https://news.uark.edu/articles/10890/physical-plant-reorganizes-to-provide-better-maintenance-and-planning-of-campus-facilities,timeout,No_meta_date,2020-10-20 10:34:49.306592,0,NoContext
+58,106397,University of Arkansas,deferred maintenance,https://talkbusiness.net/2016/06/asu-board-of-trustees-approves-budget-raises-tuition-looks-at-deferred-maintenance/,timeout,['2016-06-01T23:17:36+00:00'],2020-10-20 10:34:49.306587,0,NoContext
+79,106397,University of Arkansas,cut travel,https://news.uark.edu/articles/52476/coronavirus-response-includes-updates-regarding-travel-faculty-resources,timeout,No_meta_date,2020-10-20 10:34:49.306595,0,NoContext
+97,106397,University of Arkansas,buyouts,https://fansided.com/2019/10/25/arkansas-bret-bielema-buyout/,timeout,['2019-10-25T14:53:37+00:00'],2020-10-20 10:34:49.306607,0,NoContext
+95,106397,University of Arkansas,buyouts,https://news.uark.edu/articles/40730/researchers-ask-why-some-private-equity-firms-add-jobs-after-buyouts,timeout,No_meta_date,2020-10-20 10:34:49.306609,0,NoContext
+88,106397,University of Arkansas,operational spending reductions,https://news.uark.edu/articles/52918/cares-act-emergency-grants-and-reduced-fees-for-summer-announced,timeout,No_meta_date,2020-10-20 10:34:49.306598,0,NoContext
+94,106397,University of Arkansas,streamline operations,https://news.uark.edu/articles/42258/mccoy-named-vice-chancellor-for-finance-and-administration,timeout,No_meta_date,2020-10-20 10:34:49.306604,0,NoContext
+54,106397,University of Arkansas,furlough,https://news.uark.edu/articles/22405/furlough-notices-go-out-to-19-u-of-a-faculty-and-staff-as-federal-cost-centers-shut-down,timeout,No_meta_date,2020-10-20 10:34:49.306591,0,NoContext
+22,106397,University of Arkansas,reduce benefits,https://news.uark.edu/articles/11220/residential-dining-halls-at-university-of-arkansas-now-trayless-to-help-reduce-carbon-footprint,timeout,No_meta_date,2020-10-20 10:34:49.306576,0,NoContext
+18,106397,University of Arkansas,retirement incentives,https://www.uasys.edu/news/draft-policy-updates-for-november-board-meeting/,timeout,No_meta_date,2020-10-20 10:34:49.306584,0,NoContext
+16,106397,University of Arkansas,freeze tuition,https://www.arkansasonline.com/news/2020/jun/19/more-schools-freeze-tuition-trim-expenses/,timeout,No_meta_date,2020-10-20 10:34:49.306573,0,NoContext
+14,106397,University of Arkansas,hiring freeze,https://www.arkansasonline.com/news/2019/apr/06/freeze-on-purchases-hiring-set-at-ualr-/,timeout,No_meta_date,2020-10-20 10:34:49.306571,0,NoContext
+13,106397,University of Arkansas,hiring freeze,https://www.arkansasonline.com/news/2020/may/20/no-layoffs-in-ua-budget-plan-20200520/,timeout,['2020-05-20 7:11'],2020-10-20 10:34:49.306572,0,NoContext
+11,106397,University of Arkansas,decrease tuition,https://www.arkansasonline.com/news/2019/aug/01/ua-relaxes-academic-standards-for-out-o/,timeout,No_meta_date,2020-10-20 10:34:49.306571,0,NoContext
+10,106397,University of Arkansas,leave positions unfilled,https://www.ualrpublicradio.org/post/uams-says-258-employees-being-laid-among-600-job-cuts,timeout,No_meta_date,2020-10-20 10:34:49.306578,0,NoContext
+7,106397,University of Arkansas,leave positions unfilled,https://news.uark.edu/articles/12717/university-of-arkansas-physical-plant-implements-plan-to-restructure-and-reduce-operating-costs,timeout,No_meta_date,2020-10-20 10:34:49.306576,0,NoContext
+5,106397,University of Arkansas,reduce tuition,https://news.uark.edu/articles/48222/new-scholarship-program-offered-to-ua-system-community-college-grads,timeout,No_meta_date,2020-10-20 10:34:49.306577,0,NoContext
+25,106397,University of Arkansas,reduce benefits,https://news.uark.edu/articles/15562/internet-kiosks-help-reduce-infant-mortality-rates,timeout,No_meta_date,2020-10-20 10:34:49.306580,0,NoContext
+48,106397,University of Arkansas,voluntary furlough,https://volunteer.uark.edu/,timeout,No_meta_date,2020-10-20 10:34:49.306583,0,NoContext
+41,106397,University of Arkansas,vacancies open,https://news.uark.edu/articles/49775/new-career-studio-in-career-development-center-is-open,timeout,No_meta_date,2020-10-20 10:34:49.306582,0,NoContext
+34,106397,University of Arkansas,pay cuts,https://www.arkansasonline.com/news/2019/oct/01/hsu-shrinks-budget-by-3m-20191001/,timeout,['2019-10-01 7:13'],2020-10-20 10:34:49.306573,0,NoContext
+32,106397,University of Arkansas,salary reductions,https://www.wholehogsports.com/news/2020/aug/22/ua-cuts-salaries-for-athletic-staff/?f=sports,timeout,No_meta_date,2020-10-20 10:34:49.306574,0,NoContext
+31,106397,University of Arkansas,freeze salary increases,https://news.uark.edu/articles/48314/u-of-a-faculty-and-staff-notified-of-fy20-salary-increases-other-changes,timeout,No_meta_date,2020-10-20 10:34:49.306580,0,NoContext
+30,106397,University of Arkansas,freeze salary increases,https://news.uark.edu/articles/12499/university-of-arkansas-announces-salary-increases-for-faculty-staff-earning-less-than-35-000,timeout,No_meta_date,2020-10-20 10:34:49.306581,0,NoContext
+109,106397,University of Arkansas,reduce unnecessary spending,https://news.uark.edu/articles/10667/new-center-partners-with-procter-gamble,timeout,No_meta_date,2020-10-20 10:34:49.306615,0,NoContext
+187,106397,University of Arkansas,consolidate locations,https://news.uark.edu/articles/12851/university-of-arkansas-researchers-study-effects-of-school-consolidation-on-students-educators,timeout,No_meta_date,2020-10-20 10:34:49.306673,0,NoContext
+186,106397,University of Arkansas,consolidate locations,https://news.uark.edu/articles/54453/zoom-now-available-at-the-u-of-a,timeout,No_meta_date,2020-10-20 10:34:49.306671,0,NoContext
+170,106397,University of Arkansas,administrative budget cuts,https://www.arkansasonline.com/news/2019/nov/25/cutbacks-at-ualr-in-future-20191123/,timeout,No_meta_date,2020-10-20 10:34:49.306664,0,NoContext
+169,106397,University of Arkansas,sell buildings,https://news.uark.edu/articles/40549/sale-of-surplus-razorback-furniture,timeout,No_meta_date,2020-10-20 10:34:49.306669,0,NoContext
+167,106397,University of Arkansas,cut faculty,https://news.uark.edu/articles/52904/cutting-the-wire-university-s-daily-update-now-simply-arkansas-news-,timeout,No_meta_date,2020-10-20 10:34:49.306669,0,NoContext
+190,106397,University of Arkansas,expand to veterans,https://news.uark.edu/articles/54094/school-of-social-work-receives-1-9-million-in-partnership-with-sebastian-county-veterans-treatment-court,timeout,No_meta_date,2020-10-20 10:34:49.306672,0,NoContext
+214,106397,University of Arkansas,expand to minorities,https://news.uark.edu/articles/50128/fulbright-college-s-yajaira-padilla-honored-as-a-minority-access-national-role-model,timeout,No_meta_date,2020-10-20 10:34:49.306688,0,NoContext
+212,106397,University of Arkansas,expand to minorities,https://news.uark.edu/articles/54271/education-reform-study-suggests-more-charter-regulations-harm-minority-educators,timeout,No_meta_date,2020-10-20 10:34:49.306687,0,NoContext
+211,106397,University of Arkansas,close buildings,https://news.uark.edu/articles/52559/global-campus-building-in-fayetteville-is-closed-temporarily-for-flood-repair,timeout,No_meta_date,2020-10-20 10:34:49.306686,0,NoContext
+209,106397,University of Arkansas,close buildings,https://news.uark.edu/articles/52580/university-s-coronavirus-update-site-questions-welcome-answers-available,timeout,No_meta_date,2020-10-20 10:34:49.306684,0,NoContext
+166,106397,University of Arkansas,layoff faculty,https://www.nwaonline.com/news/2020/jan/31/red-ink-on-books-ualr-looks-to-trim-bac/,timeout,['2020-01-31 7:17'],2020-10-20 10:34:49.306662,0,NoContext
+204,106397,University of Arkansas,unconventional student programs,https://news.uark.edu/articles/35321/arkansas-student-alumni-association-supports-non-traditional-student-scholarship,timeout,No_meta_date,2020-10-20 10:34:49.306682,0,NoContext
+200,106397,University of Arkansas,unconventional student programs,https://ualr.edu/campuslife/ntsp/,timeout,No_meta_date,2020-10-20 10:34:49.306679,0,NoContext
+199,106397,University of Arkansas,partner with corporate entity,https://news.uark.edu/articles/34893/university-of-arkansas-invited-to-be-a-nominating-entity-for-prestigious-humanities-fellowship,timeout,No_meta_date,2020-10-20 10:34:49.306680,0,NoContext
+197,106397,University of Arkansas,partner with corporate entity,https://artp.uark.edu/existing-affiliates/,timeout,No_meta_date,2020-10-20 10:34:49.306682,0,NoContext
+196,106397,University of Arkansas,partner with corporate entity,https://www.uasys.edu/board-policy/340-1/,timeout,No_meta_date,2020-10-20 10:34:49.306674,0,NoContext
+194,106397,University of Arkansas,expand to veterans,https://news.uams.edu/2014/08/13/uams-arkansas-department-of-veterans-affairs-expand-affiliation/,timeout,['2014-08-13T16:23:02-05:00'],2020-10-20 10:34:49.306678,0,NoContext
+165,106397,University of Arkansas,layoff faculty,https://www.insidehighered.com/quicktakes/2020/05/18/arkansas-little-rock-lays-13-professors,timeout,No_meta_date,2020-10-20 10:34:49.306660,0,NoContext
+163,106397,University of Arkansas,reduce faculty,https://librariesblog.uark.edu/four-faculty-receive-awards-for-reducing-student-textbook-costs/,timeout,No_meta_date,2020-10-20 10:34:49.306667,0,NoContext
+132,106397,University of Arkansas,program cuts,https://news.uark.edu/articles/52604/support-students-in-need-through-student-emergency-funding,timeout,No_meta_date,2020-10-20 10:34:49.306633,0,NoContext
+130,106397,University of Arkansas,program cuts,https://www.kark.com/news/local-news/university-of-arkansas-at-little-rock-officials-to-discuss-growing-budget-problems-at-board-of-trustees-meeting/,timeout,['2020-05-04T17:57:29+00:00'],2020-10-20 10:34:49.306629,0,NoContext
+125,106397,University of Arkansas,reduce degree programs,https://news.uark.edu/articles/54208/walton-college-adds-university-of-arkansas-cossatot-to-community-college-transfer-program,timeout,No_meta_date,2020-10-20 10:34:49.306624,0,NoContext
+112,106397,University of Arkansas,reduce student assistance,https://news.uark.edu/articles/52553/online-classes-underway-assistance-available-for-students-faculty,timeout,No_meta_date,2020-10-20 10:34:49.306616,0,NoContext
+219,106397,University of Arkansas,expand to adults,https://news.uark.edu/articles/42305/u-of-a-faculty-students-alumni-expand-knowledge-of-emerging-disabilities,timeout,No_meta_date,2020-10-20 10:34:49.306692,0,NoContext
+162,106397,University of Arkansas,reduce faculty,https://news.uark.edu/articles/50149/call-for-proposals-paid-faculty-programs,timeout,No_meta_date,2020-10-20 10:34:49.306663,0,NoContext
+160,106397,University of Arkansas,reduce faculty,https://news.uark.edu/articles/38305/human-nutrition-faculty-offer-tips-to-reduce-sugar-sodium-and-solid-fats,timeout,No_meta_date,2020-10-20 10:34:49.306659,0,NoContext
+158,106397,University of Arkansas,layoff staff,https://news.uark.edu/articles/13032/university-withdraws-layoffs,timeout,No_meta_date,2020-10-20 10:34:49.306658,0,NoContext
+157,106397,University of Arkansas,reduce international support,https://news.uark.edu/articles/38675/international-students-to-benefit-from-parsch-scholarship,timeout,No_meta_date,2020-10-20 10:34:49.306656,0,NoContext
+154,106397,University of Arkansas,cut athletics budget,https://www.arkansasonline.com/news/2020/jun/19/eye-on-the-budget/,timeout,['2020-06-19 2:31'],2020-10-20 10:34:49.306653,0,NoContext
+152,106397,University of Arkansas,staff cuts,https://news.uark.edu/articles/42243/arkansas-union-hair-care,timeout,No_meta_date,2020-10-20 10:34:49.306654,0,NoContext
+137,106397,University of Arkansas,reduced courses,https://news.uark.edu/articles/54735/course-materials-conversion-program-call-for-proposals-open,timeout,No_meta_date,2020-10-20 10:34:49.306637,0,NoContext
+147,106397,University of Arkansas,staff layoffs,https://news.uark.edu/articles/10364/layoffs-and-ceo-compensation,timeout,No_meta_date,2020-10-20 10:34:49.306654,0,NoContext
+145,106397,University of Arkansas,cut athletics,https://news.uark.edu/articles/16160/ribbon-cutting-ceremony-for-soccer-facility,timeout,No_meta_date,2020-10-20 10:34:49.306652,0,NoContext
+144,106397,University of Arkansas,cut athletics,https://www.wholehogsports.com/news/2020/apr/25/ua-submits-its-hopeful-budget/,timeout,No_meta_date,2020-10-20 10:34:49.306641,0,NoContext
+141,106397,University of Arkansas,cut programs,https://news.uark.edu/articles/50314/texas-instruments-gift-supports-electrical-engineering-lab,timeout,No_meta_date,2020-10-20 10:34:49.306638,0,NoContext
+140,106397,University of Arkansas,cut programs,https://www.arkansasonline.com/news/2020/mar/31/ualr-looks-at-academic-program-cuts-202-1/?latest,timeout,['2020-03-31 7:11'],2020-10-20 10:34:49.306635,0,NoContext
+150,106397,University of Arkansas,athletics spending cuts,https://www.wholehogsports.com/news/2020/jun/15/it-would-have-get-extremely-bad-cutting-sport-not-/,timeout,No_meta_date,2020-10-20 10:34:49.306651,0,NoContext
+134,106245,University of Arkansas at Little Rock,furlough,https://www.ualrpublicradio.org/post/shutdown-may-mean-furloughs-university-arkansas,timeout,No_meta_date,2020-10-20 10:56:00.509711,0,NoContext
+133,106245,University of Arkansas at Little Rock,staff furlough,https://www.fox16.com/news/coronavirus/ua-pulaski-tech-furloughs-employees-eliminate-positions-due-to-covid-19/,timeout,['2013-10-14 4:07'],2020-10-20 10:56:00.509712,0,NoContext
+125,106245,University of Arkansas at Little Rock,freeze salary increases,https://www.ualrpublicradio.org/post/trump-proposes-freezing-federal-worker-salaries,timeout,['2019-10-20 3:52'],2020-10-20 10:56:00.509708,0,NoContext
+127,106245,University of Arkansas at Little Rock,voluntary furlough,https://www.ualrpublicradio.org/post/united-airlines-tells-36000-employees-they-might-lose-their-jobs,timeout,No_meta_date,2020-10-20 10:56:00.509709,0,NoContext
+122,106245,University of Arkansas at Little Rock,hiring freeze,https://www.arkansaspublicmedia.org/post/central-arkansass-two-biggest-universities-find-enrollment-heading-different-directions,timeout,No_meta_date,2020-10-20 10:56:00.509710,0,NoContext
+157,106245,University of Arkansas at Little Rock,reduce travel spending,https://ualr.edu/procurement/travel-rules/,timeout,No_meta_date,2020-10-20 10:56:00.509721,0,NoContext
+156,106245,University of Arkansas at Little Rock,reduce travel spending,https://www.arkansasonline.com/news/2020/mar/26/hutchinson-seeks-spending-ok-20200326/,timeout,['2020-03-26 6:46'],2020-10-20 10:56:00.509714,0,NoContext
+155,106245,University of Arkansas at Little Rock,reduce travel spending,https://ualr.edu/policy/travel-rules-regulations-and-procedures/,timeout,No_meta_date,2020-10-20 10:56:00.509719,0,NoContext
+144,106245,University of Arkansas at Little Rock,furlough days,https://www.ualrpublicradio.org/post/donations-requested-little-rocks-furloughed-federal-workers,timeout,No_meta_date,2020-10-20 10:56:00.509713,0,NoContext
+149,106245,University of Arkansas at Little Rock,operational inefficiencies,https://pubs.asahq.org/anesthesiology/article/90/4/1176/37999/surgical-subspecialty-block-utilization-and,timeout,No_meta_date,2020-10-20 10:56:00.509725,0,NoContext
+83,106397,University of Arkansas,unconventional student programs,https://news.uark.edu/articles/38224/non-traditional-students-recognized-for-academic-excellence,timeout,No_meta_date,2020-10-20 10:56:00.509668,0,NoContext
+113,106397,University of Arkansas,share location,https://news.uark.edu/articles/52652/share-your-covid-19-experience-with-university-libraries,timeout,No_meta_date,2020-10-20 10:56:00.509693,0,NoContext
+38,106397,University of Arkansas,retirement incentives,https://edre.uark.edu/people/faculty/uid/costrell/name/robert-costrell/,timeout,No_meta_date,2020-10-20 10:56:00.509642,0,NoContext
+46,106397,University of Arkansas,streamline operations,https://news.uark.edu/articles/33951/university-staff-present-document-workflow-processes-at-national-conference,timeout,No_meta_date,2020-10-20 10:56:00.509635,0,NoContext
+47,106397,University of Arkansas,streamline operations,https://news.uark.edu/articles/35046/u-of-a-offers-apics-exam-preparation-course-for-supply-chain-professionals,timeout,No_meta_date,2020-10-20 10:56:00.509638,0,NoContext
+138,106412,University of Arkansas at Pine Bluff,reduce benefits,https://katv.com/news/local/uapb-announces-plans-to-go-solar-looks-to-reduce-universitys-energy-costs-by-30,timeout,No_meta_date,2020-10-20 11:03:04.750726,0,NoContext
+137,106412,University of Arkansas at Pine Bluff,salary reductions,https://pullmanradio.com/ui-considering-academic-program-cuts-layoffs-and-salary-reductions-as-budget-shortfall-balloons-to-22-million-dollars/,timeout,No_meta_date,2020-10-20 11:03:04.750775,0,NoContext
+129,106412,University of Arkansas at Pine Bluff,lower tuition,https://datausa.io/profile/university/university-of-arkansas-at-pine-bluff,timeout,No_meta_date,2020-10-20 11:03:04.750713,0,NoContext
+124,106412,University of Arkansas at Pine Bluff,freeze tuition,https://www.usnews.com/best-colleges/university-of-arkansas-pine-bluff-1086,timeout,No_meta_date,2020-10-20 11:03:04.750708,0,NoContext
+122,106412,University of Arkansas at Pine Bluff,raise tuition,https://www.pbcommercial.com/article/20130513/news/305139908?template=ampart,timeout,No_meta_date,2020-10-20 11:03:04.750707,0,NoContext
+121,106412,University of Arkansas at Pine Bluff,raise tuition,https://www.collegecalc.org/colleges/arkansas/university-of-arkansas-at-pine-bluff/,timeout,No_meta_date,2020-10-20 11:03:04.750704,0,NoContext
+120,106412,University of Arkansas at Pine Bluff,raise tuition,https://www.arkansasonline.com/news/2019/may/11/uca-trustees-approve-tuition-increase-o/,timeout,['2019-05-11 4:30'],2020-10-20 11:03:04.750700,0,NoContext
+119,106412,University of Arkansas at Pine Bluff,raise tuition,https://www.pbcommercial.com/article/20140519/news/305199932,timeout,No_meta_date,2020-10-20 11:03:04.750699,0,NoContext
+127,106412,University of Arkansas at Pine Bluff,tuition increase,http://www.pbcommercial.com/article/20170526/news/305269975,timeout,['2017-05-31T22:14:47+00:00'],2020-10-20 11:03:04.750720,0,NoContext
+168,106412,University of Arkansas at Pine Bluff,cut athletics,https://dataskrive.com/university-of-arkansas-at-pine-bluff-partners-with-data-skrive-to-provide-extensive-game-recaps/,timeout,['2020-01-27T21:10:07+00:00'],2020-10-20 11:03:04.750747,0,NoContext
+167,106412,University of Arkansas at Pine Bluff,cut athletics,https://hbcugameday.com/2020/06/12/uapb-suspends-tennis-programs/,timeout,['2020-06-12T17:17:51+00:00'],2020-10-20 11:03:04.750744,0,NoContext
+166,106412,University of Arkansas at Pine Bluff,cut athletics,https://hbcucampaignfund.org/2019/01/05/university-of-arkansas-pine-bluff-athletics-to-hold-ribbon-cutting-ceremony-for-arena-renovations/,timeout,['2019-01-05T12:20:58+00:00'],2020-10-20 11:03:04.750746,0,NoContext
+162,106412,University of Arkansas at Pine Bluff,cut athletics budget,https://www.pbcommercial.com/news/20190524/uapbs-ad-leading-charge-for-greatness,timeout,No_meta_date,2020-10-20 11:03:04.750741,0,NoContext
+161,106412,University of Arkansas at Pine Bluff,reduce degree programs,https://ik-ns.com/portfolio-items/university-of-arkansas/,timeout,No_meta_date,2020-10-20 11:03:04.750745,0,NoContext
+169,106412,University of Arkansas at Pine Bluff,cut athletics,https://www.pbcommercial.com/news/20190104/uapb-athletics-to-host-ribbon-cutting-event-for-arena-renovations,timeout,No_meta_date,2020-10-20 11:03:04.750748,0,NoContext
+146,106412,University of Arkansas at Pine Bluff,furlough,https://hotelguides.com/colleges/arkansas/university-arkansas-pine-bluff.html,timeout,['2013-10-14 4:07'],2020-10-20 11:03:04.750729,0,NoContext
+147,106412,University of Arkansas at Pine Bluff,postpone maintenance,https://www.pbcommercial.com/news/20200720/swac-postpones-fall-sports-including-football,timeout,No_meta_date,2020-10-20 11:03:04.750731,0,NoContext
+150,106412,University of Arkansas at Pine Bluff,reduce unnecessary spending,https://www.pbcommercial.com/article/20150602/news/306029940,timeout,No_meta_date,2020-10-20 11:03:04.750730,0,NoContext
+152,106412,University of Arkansas at Pine Bluff,cut travel,https://www.arkansasonline.com/staff/rachel-herzog/stories/?page=44,timeout,No_meta_date,2020-10-20 11:03:04.750728,0,NoContext
+107,106485,University of Arkansas at Monticello,promotions,https://www.hc-cpa.com/hudson-cisne-co-announces-new-promotions/,timeout,No_meta_date,2020-10-20 11:03:04.750692,0,NoContext
+86,106485,University of Arkansas at Monticello,on-time graduation,https://careerkarma.com/colleges/university-of-arkansas-at-monticello/academics/,timeout,No_meta_date,2020-10-20 11:03:04.750681,0,NoContext
+108,106485,University of Arkansas at Monticello,promotions,https://www.pbcommercial.com/article/20150108/business/301089960,timeout,No_meta_date,2020-10-20 11:03:04.750688,0,NoContext
+111,106485,University of Arkansas at Monticello,share resources,https://katv.com/community/kick-off-to-college/university-of-arkansas-at-monticello-showcases-new-student-success-center,timeout,['2019-09-26T16:31:22+00:00'],2020-10-20 11:03:04.750690,0,NoContext
+25,106485,University of Arkansas at Monticello,reduce benefits,https://www.uasys.edu/medical-benefits/ways-to-cut-your-medical-costs/,timeout,No_meta_date,2020-10-20 11:03:04.750626,0,NoContext
+30,106485,University of Arkansas at Monticello,furlough,https://www.arkansasonline.com/obituaries/2011/sep/17/hoarce-furlough-2011-09-17/,timeout,No_meta_date,2020-10-20 11:03:04.750616,0,NoContext
+34,106485,University of Arkansas at Monticello,deferred capital projects,https://www.uasys.edu/campus-resources/construction-contracting-procedures/contracting-process/,timeout,No_meta_date,2020-10-20 11:03:04.750629,0,NoContext
+21,106485,University of Arkansas at Monticello,add fees,https://www.usnews.com/best-colleges/university-of-arkansas-monticello-1085,timeout,No_meta_date,2020-10-20 11:03:04.750624,0,NoContext
+2,106485,University of Arkansas at Monticello,freeze tuition,https://www.arkansasonline.com/news/2020/may/22/ua-system-approves-tighter-budgets-2020/,timeout,No_meta_date,2020-10-20 11:03:04.750611,0,NoContext
+3,106485,University of Arkansas at Monticello,freeze tuition,https://www.pbcommercial.com/news/20190526/tuition-increase-hits-uapb,timeout,['2020-05-22 7:08'],2020-10-20 11:03:04.750623,0,NoContext
+4,106485,University of Arkansas at Monticello,raise tuition,https://www.collegecalc.org/colleges/arkansas/university-of-arkansas-at-monticello/,timeout,No_meta_date,2020-10-20 11:03:04.750618,0,NoContext
+7,106485,University of Arkansas at Monticello,raise tuition,https://katv.com/news/local/university-of-arkansas-panel-oks-tuition-fee-increases,timeout,['2017-05-31T22:14:47+00:00'],2020-10-20 11:03:04.750619,0,NoContext
+11,106485,University of Arkansas at Monticello,increase tuition,https://www.arkansasonline.com/news/2016/may/25/ua-system-board-committee-accepts-tuition-fee-reco/,timeout,No_meta_date,2020-10-20 11:03:04.750615,0,NoContext
+17,106485,University of Arkansas at Monticello,tuition increase,https://news.uark.edu/articles/12960/university-of-arkansas-to-recommend-no-tuition-increase-for-2009-10-academic-year,timeout,['2020-05-22 7:08'],2020-10-20 11:03:04.750621,0,NoContext
+73,106485,University of Arkansas at Monticello,new building,https://livingnewdeal.org/projects/university-of-arkansas-at-monticello-music-building-monticello-ar/,timeout,No_meta_date,2020-10-20 11:03:04.750660,0,NoContext
+79,106485,University of Arkansas at Monticello,food pantry,https://news.uark.edu/articles/48127/tiaa-and-university-of-arkansas-human-resources-make-donation-to-full-circle-food-pantry,timeout,No_meta_date,2020-10-20 11:03:04.750677,0,NoContext
+42,106485,University of Arkansas at Monticello,stop scholarships,https://uamont.academicworks.com/,timeout,No_meta_date,2020-10-20 11:03:04.750631,0,NoContext
+54,106485,University of Arkansas at Monticello,athletics spending cuts,https://www.uamsports.com/sports/mens-basketball,timeout,No_meta_date,2020-10-20 11:03:04.750645,0,NoContext
+61,106485,University of Arkansas at Monticello,online courses,https://www.collegefactual.com/colleges/university-of-arkansas-at-monticello/academic-life/distance-learning/,timeout,No_meta_date,2020-10-20 11:03:04.750651,0,NoContext
+53,106485,University of Arkansas at Monticello,degrees dropped,https://www.collegefactual.com/colleges/university-of-arkansas-at-monticello/academic-life/graduation-and-retention/,timeout,No_meta_date,2020-10-20 11:03:04.750647,0,NoContext
+100,100724,Alabama State University (Alabama State),open positions,https://www.alasu.edu/faculty-staff/human-resources/human-resources,timeout,No_meta_date,2020-10-20 12:48:44.623386,0,NoContext
+98,100724,Alabama State University (Alabama State),increase fees,https://www.alasu.edu/updates,timeout,No_meta_date,2020-10-20 12:48:44.623379,0,NoContext
+97,100724,Alabama State University (Alabama State),reduction of benefits,https://www.alasu.edu/faculty-staff/human-resources/retirement-program,timeout,No_meta_date,2020-10-20 12:48:44.623382,0,NoContext
+96,100724,Alabama State University (Alabama State),stop scholarships,https://www.alasu.edu/day-two-presidents-tour-makes-stop-atlanta,timeout,No_meta_date,2020-10-20 12:48:44.623381,0,NoContext
+93,100724,Alabama State University (Alabama State),raise tuition,https://www.alasu.edu/,timeout,No_meta_date,2020-10-20 12:48:44.623377,0,NoContext
+91,100724,Alabama State University (Alabama State),increase tuition,https://www.alasu.edu/undergraduate/expensesandfinancialaid/expenses-and-financial-aid,timeout,No_meta_date,2020-10-20 12:48:44.623373,0,NoContext
+88,100724,Alabama State University (Alabama State),deferred maintenance,https://www.alasu.edu/faculty-staff/physical-plant,timeout,No_meta_date,2020-10-20 12:48:44.623368,0,NoContext
+85,100724,Alabama State University (Alabama State),hiring freeze,https://www.alasu.edu/faculty-staff/human-resources/non-instructional-employment-opportunity,timeout,No_meta_date,2020-10-20 12:48:44.623361,0,NoContext
+71,100724,Alabama State University (Alabama State),increase pay,https://www.alasu.edu/academics/researchcenters/centerforleadershipandpublicpolicy/center-leadership-and-public-policy,timeout,No_meta_date,2020-10-20 12:48:44.623345,0,NoContext
+73,100724,Alabama State University (Alabama State),sell buildings,https://www.alasu.edu/cvpa/visual-arts/department-visual-arts,timeout,No_meta_date,2020-10-20 12:48:44.623340,0,NoContext
+76,100724,Alabama State University (Alabama State),reduce unnecessary spending,https://www.alasu.edu/cost-aid/financial-literacy,timeout,No_meta_date,2020-10-20 12:48:44.623346,0,NoContext
+102,100724,Alabama State University (Alabama State),open positions,https://www.alasu.edu/faculty-staff/careers,timeout,No_meta_date,2020-10-20 12:48:44.623383,0,NoContext
+77,100724,Alabama State University (Alabama State),cut scholarships,https://www.alasu.edu/cost-aid/financial-aid,timeout,No_meta_date,2020-10-20 12:48:44.623342,0,NoContext
+80,100724,Alabama State University (Alabama State),deferred capital projects,https://www.al.com/news/2020/05/alabama-senate-passes-125-billion-bond-issue-for-schools-colleges.html,timeout,No_meta_date,2020-10-20 12:48:44.623353,0,NoContext
+83,100724,Alabama State University (Alabama State),suspend retirement contributions,https://hr.ua.edu/benefits/retirement/retirement-plans,timeout,No_meta_date,2020-10-20 12:48:44.623362,0,NoContext
+70,100724,Alabama State University (Alabama State),student support,https://www.alasu.edu/academics/trioprograms/student-support-services,timeout,No_meta_date,2020-10-20 12:48:44.623339,0,NoContext
+103,100724,Alabama State University (Alabama State),increase fees,https://www.alasu.edu/cost-aid/tuition-costs,timeout,No_meta_date,2020-10-20 12:48:44.623387,0,NoContext
+105,100724,Alabama State University (Alabama State),increase tuition,https://www.alasu.edu/cba/small-business-development-center,timeout,No_meta_date,2020-10-20 12:48:44.623388,0,NoContext
+137,100724,Alabama State University (Alabama State),eliminate advising,https://www.alasu.edu/universitycollege/advisement-center,timeout,No_meta_date,2020-10-20 12:48:44.623440,0,NoContext
+135,100724,Alabama State University (Alabama State),program cuts,https://www.alasu.edu/clas/languages-literatures/department-languages-literatures,timeout,['2014-02-26T23:08:34Z'],2020-10-20 12:48:44.623428,0,NoContext
+134,100724,Alabama State University (Alabama State),reduce international support,https://www.alasu.edu/current-students/international-student-checklist,timeout,No_meta_date,2020-10-20 12:48:44.623425,0,NoContext
+133,100724,Alabama State University (Alabama State),courses dropped,https://www.alasu.edu/last-day-drop-classes-0,timeout,No_meta_date,2020-10-20 12:48:44.623427,0,NoContext
+131,100724,Alabama State University (Alabama State),cut student programs,https://www.alasu.edu/asu-hold-virtual-commencement-spring-class-2020,timeout,No_meta_date,2020-10-20 12:48:44.623418,0,NoContext
+130,100724,Alabama State University (Alabama State),reduce purchases,https://www.alasu.edu/free-masks-asu-combat-covid-19-montgomery,timeout,No_meta_date,2020-10-20 12:48:44.623413,0,NoContext
+127,100724,Alabama State University (Alabama State),reduce purchases,https://www.alasu.edu/administration/procurement-department,timeout,No_meta_date,2020-10-20 12:48:44.623403,0,NoContext
+126,100724,Alabama State University (Alabama State),reduce student assistance,https://www.alasu.edu/cost-aid/grants,timeout,No_meta_date,2020-10-20 12:48:44.623404,0,NoContext
+125,100724,Alabama State University (Alabama State),cut travel,https://www.alasu.edu/university-receives-350000-grant-bypass-graft-research-0,timeout,No_meta_date,2020-10-20 12:48:44.623401,0,NoContext
+124,100724,Alabama State University (Alabama State),cut travel,https://www.alasu.edu/all-news,timeout,No_meta_date,2020-10-20 12:48:44.623405,0,NoContext
+123,100724,Alabama State University (Alabama State),reduce academic advising,https://nursing.ua.edu/?page_id=203,timeout,No_meta_date,2020-10-20 12:48:44.623416,0,NoContext
+122,100724,Alabama State University (Alabama State),cut athletics budget,https://www.al.com/alabamafootball/2020/01/the-things-you-learn-reading-alabamas-164-million-athletics-budget-closely.html,timeout,['2020-01-31T11:37:30.360Z'],2020-10-20 12:48:44.623408,0,NoContext
+121,100724,Alabama State University (Alabama State),no longer offer,https://education.ua.edu/students/graduation/,timeout,No_meta_date,2020-10-20 12:48:44.623414,0,NoContext
+108,100724,Alabama State University (Alabama State),administrative budget cuts,https://www.al.com/news/2020/05/pandemic-takes-half-billion-dollar-bite-out-of-alabama-budgets.html,timeout,No_meta_date,2020-10-20 12:48:44.623407,0,NoContext
+109,100724,Alabama State University (Alabama State),faculty laid off,https://www.alasu.edu/faculty-staff/faculty-staff,timeout,No_meta_date,2020-10-20 12:48:44.623393,0,NoContext
+111,100724,Alabama State University (Alabama State),reduce faculty,https://www.alasu.edu/cstem/physical-sciences/faculty-and-staff,timeout,No_meta_date,2020-10-20 12:48:44.623396,0,NoContext
+112,100724,Alabama State University (Alabama State),consolidate locations,https://www.alasu.edu/cost-aid/types-aid/federal-loans/federal-loans,timeout,No_meta_date,2020-10-20 12:48:44.623397,0,NoContext
+115,100724,Alabama State University (Alabama State),reduce degree programs,https://www.alasu.edu/student-life/student-well-being/violence-against-women-program,timeout,No_meta_date,2020-10-20 12:48:44.623391,0,NoContext
+118,100724,Alabama State University (Alabama State),online courses,https://www.alasu.edu/academics/division-extended-learning-online-programs,timeout,No_meta_date,2020-10-20 12:48:44.623398,0,NoContext
+119,100724,Alabama State University (Alabama State),reduced courses,https://www.alasu.edu/coe/instructional-support/med-instructional-leadership,timeout,No_meta_date,2020-10-20 12:48:44.623400,0,NoContext
+120,100724,Alabama State University (Alabama State),reduced courses,https://bamabydistance.ua.edu/degrees/ma-in-educational-leadership/,timeout,No_meta_date,2020-10-20 12:48:44.623495,0,NoContext
+69,100724,Alabama State University (Alabama State),student support,https://www.alasu.edu/academics/trioprograms/trio-programs,timeout,No_meta_date,2020-10-20 12:48:44.623343,0,NoContext
+107,100724,Alabama State University (Alabama State),suspend appointments,https://www.alasu.edu/asu-athletics,timeout,No_meta_date,2020-10-20 12:48:44.623390,0,NoContext
+31,100724,Alabama State University (Alabama State),offer scholarship,https://www.alasu.edu/presidents-scholarship,timeout,No_meta_date,2020-10-20 12:48:44.623329,0,NoContext
+28,100724,Alabama State University (Alabama State),partner with corporate entity,https://www.alasu.edu/college-business-administration,timeout,No_meta_date,2020-10-20 12:48:44.623303,0,NoContext
+27,100724,Alabama State University (Alabama State),improve utilities,https://www.alasu.edu/undergraduate/generalinformation/general-information,timeout,No_meta_date,2020-10-20 12:48:44.623302,0,NoContext
+26,100724,Alabama State University (Alabama State),improve utilities,https://www.amea.com/,timeout,No_meta_date,2020-10-20 12:48:44.623335,0,NoContext
+25,100724,Alabama State University (Alabama State),building improvement,https://www.alasu.edu/administration/institutional-effectiveness-staff,timeout,No_meta_date,2020-10-20 12:48:44.623318,0,NoContext
+24,100724,Alabama State University (Alabama State),building improvement,https://www.alasu.edu/projects-improve-asus-campus-while-students-are-away,timeout,No_meta_date,2020-10-20 12:48:44.623330,0,NoContext
+23,100724,Alabama State University (Alabama State),building improvement,https://www.alasu.edu/academics/researchcenters/minority-science-and-engineering-improvement-program-mseip,timeout,No_meta_date,2020-10-20 12:48:44.623309,0,NoContext
+22,100724,Alabama State University (Alabama State),campus life,https://www.alasu.edu/student-life,timeout,No_meta_date,2020-10-20 12:48:44.623314,0,NoContext
+21,100724,Alabama State University (Alabama State),counselling services’ student wellness,https://www.alasu.edu/current-students/wellness-safety/counseling-services,timeout,No_meta_date,2020-10-20 12:48:44.623319,0,NoContext
+68,100724,Alabama State University (Alabama State),increase benefits,https://www.alasu.edu/alumni,timeout,No_meta_date,2020-10-20 12:48:44.623348,0,NoContext
+2,100724,Alabama State University (Alabama State),counselling services’ student wellness,https://www.alasu.edu/current-students/wellness-safety/ucc-services,timeout,No_meta_date,2020-10-20 12:48:44.623321,0,NoContext
+3,100724,Alabama State University (Alabama State),counselling services’ student wellness,https://www.alasu.edu/current-students/wellness-safety/health-center/wellness-safety,timeout,No_meta_date,2020-10-20 12:48:44.623325,0,NoContext
+4,100724,Alabama State University (Alabama State),food pantry,https://www.alasu.edu/food-pantry-now-open,timeout,No_meta_date,2020-10-20 12:48:44.623326,0,NoContext
+32,100724,Alabama State University (Alabama State),offer scholarship,https://www.alasu.edu/cost-aid/types-aid/asu-scholarships/types-aid,timeout,No_meta_date,2020-10-20 12:48:44.623315,0,NoContext
+13,100724,Alabama State University (Alabama State),food pantry,https://www.alasu.edu/asu-receives-25k-national-grant-assist-student-food-availability-security,timeout,No_meta_date,2020-10-20 12:48:44.623328,0,NoContext
+33,100724,Alabama State University (Alabama State),expand to minorities,https://www.alasu.edu/chs/occupational-therapy/program-overview-mission-philosophy-educational-goals,timeout,No_meta_date,2020-10-20 12:48:44.623296,0,NoContext
+53,100724,Alabama State University (Alabama State),university partnership,https://www.alasu.edu/academics/researchcenters/asu-uab-cancer-partnership,timeout,No_meta_date,2020-10-20 12:48:44.623311,0,NoContext
+55,100724,Alabama State University (Alabama State),offer courses at another location,https://www.alasu.edu/passnot-pass-0,timeout,No_meta_date,2020-10-20 12:48:44.623312,0,NoContext
+59,100724,Alabama State University (Alabama State),salary increase,https://hr.ua.edu/staff-recruitment-resources/compensation-resources/compensation-guidelines/pay-guidelines-for-staff-pay-structure,timeout,No_meta_date,2020-10-20 12:48:44.623350,0,NoContext
+52,100724,Alabama State University (Alabama State),university partnership,https://www.alasu.edu/asu-and-montgomery-community-actions-head-start-ink-historic-partnership,timeout,No_meta_date,2020-10-20 12:48:44.623322,0,NoContext
+60,100724,Alabama State University (Alabama State),salary increase,https://www.alasu.edu/asu-event-raises-awareness-stalking-human-trafficking,timeout,No_meta_date,2020-10-20 12:48:44.623332,0,NoContext
+64,100724,Alabama State University (Alabama State),share resources,https://www.alasu.edu/administration/academic-resources,timeout,No_meta_date,2020-10-20 12:48:44.623336,0,NoContext
+34,100724,Alabama State University (Alabama State),expand to veterans,https://www.alasu.edu/cba/business-administration/veteran-entrepreneurs-initiative,timeout,No_meta_date,2020-10-20 12:48:44.623306,0,NoContext
+50,100724,Alabama State University (Alabama State),partner with another institution,https://www.alasu.edu/asu-awarded-297-million-grant-national-institute-health,timeout,No_meta_date,2020-10-20 12:48:44.623308,0,NoContext
+36,100724,Alabama State University (Alabama State),expand to veterans,https://www.alasu.edu/cba/accounting-finance/department-accounting-finance,timeout,No_meta_date,2020-10-20 12:48:44.623295,0,NoContext
+37,100724,Alabama State University (Alabama State),expand to veterans,https://www.alasu.edu/current-students/veterans-and-military-affairs,timeout,No_meta_date,2020-10-20 12:48:44.623297,0,NoContext
+39,100724,Alabama State University (Alabama State),career center,https://www.alasu.edu/current-students/job-search,timeout,No_meta_date,2020-10-20 12:48:44.623305,0,NoContext
+41,100724,Alabama State University (Alabama State),on-time graduation,https://www.alasu.edu/chs/occupational-therapy/occupational-therapy,timeout,No_meta_date,2020-10-20 12:48:44.623300,0,NoContext
+40,100724,Alabama State University (Alabama State),on-time graduation,https://www.alasu.edu/may-1-2020-commencement,timeout,['2013-02-20'],2020-10-20 12:48:44.623324,0,NoContext
+245,100812,Athens State University,hiring freeze,https://www.athens.edu/human-resources/student-employment/,timeout,No_meta_date,2020-10-20 12:48:44.623574,0,NoContext
+240,100812,Athens State University,reduce tuition,https://www.athens.edu/testing/,timeout,No_meta_date,2020-10-20 12:48:44.623566,0,NoContext
+241,100812,Athens State University,reduce tuition,http://www.athens.edu/policy/human-resources/,timeout,No_meta_date,2020-10-20 12:48:44.623568,0,NoContext
+242,100812,Athens State University,reduce tuition,https://www.athens.edu/march-19-2020-update/,timeout,No_meta_date,2020-10-20 12:48:44.623571,0,NoContext
+244,100812,Athens State University,hiring freeze,https://www.athens.edu/human-resources/,timeout,No_meta_date,2020-10-20 12:48:44.623573,0,NoContext
+239,100812,Athens State University,freeze tuition,https://www.athens.edu/financial-aid/,timeout,No_meta_date,2020-10-20 12:48:44.623562,0,NoContext
+251,100812,Athens State University,increase fees,http://www.athens.edu/tuition-rate-set-for-2016-17-academic-year/,timeout,No_meta_date,2020-10-20 12:48:44.623578,0,NoContext
+248,100812,Athens State University,freeze salary increases,https://www.athens.edu/financial-affairs/financial-disclosure/search-by-category/,timeout,No_meta_date,2020-10-20 12:48:44.623575,0,NoContext
+249,100812,Athens State University,freeze tuition,https://www.athens.edu/online/,timeout,No_meta_date,2020-10-20 12:48:44.623577,0,NoContext
+250,100812,Athens State University,suspend capital projects,https://www.pdx.edu/construction/,timeout,No_meta_date,2020-10-20 12:48:44.623582,0,NoContext
+254,100812,Athens State University,reduce purchases,http://www.athens.edu/journal/spring-2016/legal-ethics-in-acquisitions-and-contracting/,timeout,No_meta_date,2020-10-20 12:48:44.623580,0,NoContext
+252,100812,Athens State University,reduce international support,http://www.athens.edu/international-students/health-insurance/,timeout,No_meta_date,2020-10-20 12:48:44.623579,0,NoContext
+238,100812,Athens State University,operational inefficiencies,https://www.athens.edu/masters/,timeout,No_meta_date,2020-10-20 12:48:44.623561,0,NoContext
+237,100812,Athens State University,raise tuition,https://www.athens.edu/,timeout,No_meta_date,2020-10-20 12:48:44.623555,0,NoContext
+222,100812,Athens State University,deferred maintenance,https://www.athens.edu/staff/,timeout,No_meta_date,2020-10-20 12:48:44.623538,0,NoContext
+235,100812,Athens State University,expand to minorities,http://www.athens.edu/policy/human-resources/procedures-for-hiring-and-recruitment/,timeout,No_meta_date,2020-10-20 12:48:44.623553,0,NoContext
+219,100812,Athens State University,reduce benefits,https://www.athens.edu/policy/human-resources/reduction-in-force/,timeout,No_meta_date,2020-10-20 12:48:44.623534,0,NoContext
+220,100812,Athens State University,deferred maintenance,https://www.athens.edu/physical-plant/work-orders/,timeout,No_meta_date,2020-10-20 12:48:44.623535,0,NoContext
+221,100812,Athens State University,deferred maintenance,https://www.athens.edu/physical-plant/,timeout,No_meta_date,2020-10-20 12:48:44.623537,0,NoContext
+236,100812,Athens State University,increase fees,https://www.athens.edu/tuition-rate-set-for-the-2018-19-academic-year/,timeout,No_meta_date,2020-10-20 12:48:44.623556,0,NoContext
+226,100812,Athens State University,pay cuts,http://www.athens.edu/college-of-education-opens-resource-room/,timeout,No_meta_date,2020-10-20 12:48:44.623543,0,NoContext
+228,100812,Athens State University,salary reductions,https://www.athens.edu/policy/financial/external-project-support/,timeout,No_meta_date,2020-10-20 12:48:44.623546,0,NoContext
+229,100812,Athens State University,add fees,https://www.athens.edu/student-accounts/tuition/,timeout,No_meta_date,2020-10-20 12:48:44.623548,0,NoContext
+230,100812,Athens State University,add fees,http://www.athens.edu/facilities-rental/,timeout,No_meta_date,2020-10-20 12:48:44.623542,0,NoContext
+231,100812,Athens State University,add fees,https://www.athens.edu/access-athens/,timeout,No_meta_date,2020-10-20 12:48:44.623547,0,NoContext
+233,100812,Athens State University,increase fees,https://www.athens.edu/2019-20-tuition-rate-set/,timeout,No_meta_date,2020-10-20 12:48:44.623551,0,NoContext
+234,100812,Athens State University,increase fees,http://www.athens.edu/education/news/,timeout,No_meta_date,2020-10-20 12:48:44.623552,0,NoContext
+227,100812,Athens State University,pay cuts,https://www.athens.edu/career-development-center/employers/,timeout,No_meta_date,2020-10-20 12:48:44.623550,0,NoContext
+256,100812,Athens State University,reduce student assistance,https://www.athens.edu/financial-aid/impact-of-withdrawal-on-financial-aid/,timeout,No_meta_date,2020-10-20 12:48:44.623584,0,NoContext
+290,100812,Athens State University,courses dropped,https://www.athens.edu/student-records/withdrawal/,timeout,No_meta_date,2020-10-20 12:48:44.623629,0,NoContext
+279,100812,Athens State University,eliminate administrative departments,http://www.athens.edu/program/art/,timeout,No_meta_date,2020-10-20 12:48:44.623608,0,NoContext
+280,100812,Athens State University,partner with corporate entity,http://www.athens.edu/policy/human-resources/job-description-vice-president-for-corporate-and-community-relations/,timeout,No_meta_date,2020-10-20 12:48:44.623605,0,NoContext
+281,100812,Athens State University,staff layoffs,http://www.athens.edu/policy/human-resources/employee-grievance-procedure/,timeout,No_meta_date,2020-10-20 12:48:44.623609,0,NoContext
+282,100812,Athens State University,suspend appointments,http://www.athens.edu/policy/human-resources/termination-transfer-and-suspension-of-faculty/,timeout,No_meta_date,2020-10-20 12:48:44.623612,0,NoContext
+283,100812,Athens State University,no longer offer,https://www.athens.edu/blackboard/,timeout,No_meta_date,2020-10-20 12:48:44.623613,0,NoContext
+284,100812,Athens State University,eliminate advising,https://www.athens.edu/student-services/,timeout,No_meta_date,2020-10-20 12:48:44.623614,0,NoContext
+278,100812,Athens State University,eliminate administrative departments,http://www.athens.edu/policy/administrative/sexual-misconduct-policy-and-procedures/,timeout,No_meta_date,2020-10-20 12:48:44.623606,0,NoContext
+286,100812,Athens State University,eliminate advising,https://www.athens.edu/counseling-services/,timeout,No_meta_date,2020-10-20 12:48:44.623620,0,NoContext
+288,100812,Athens State University,courses dropped,https://www.athens.edu/student-accounts/refund-policy/,timeout,No_meta_date,2020-10-20 12:48:44.623626,0,NoContext
+289,100812,Athens State University,courses dropped,http://www.athens.edu/policy/academic/withdrawal-from-courses/,timeout,No_meta_date,2020-10-20 12:48:44.623624,0,NoContext
+291,100812,Athens State University,streamline operations,http://www.athens.edu/policy/human-resources/job-description-assistant-vice-president-for-enrollment-management/,timeout,No_meta_date,2020-10-20 12:48:44.623622,0,NoContext
+292,100812,Athens State University,eliminate advising,https://www.athens.edu/tssc/,timeout,No_meta_date,2020-10-20 12:48:44.623634,0,NoContext
+293,100812,Athens State University,reduce travel spending,https://www.athens.edu/financial-affairs/employee-resources/,timeout,No_meta_date,2020-10-20 12:48:44.623630,0,NoContext
+294,100812,Athens State University,cut scholarships,https://www.athens.edu/advancement/grants/,timeout,No_meta_date,2020-10-20 12:48:44.623633,0,NoContext
+218,100812,Athens State University,reduce benefits,http://www.athens.edu/journal/spring-2016/management-in-additive-manufacturing3d-printing/,timeout,No_meta_date,2020-10-20 12:48:44.623533,0,NoContext
+287,100812,Athens State University,reduce travel spending,https://www.athens.edu/financial-affairs/financial-disclosure/,timeout,No_meta_date,2020-10-20 12:48:44.623621,0,NoContext
+257,100812,Athens State University,reduce unnecessary spending,http://www.athens.edu/policy/financial/budget-and-budgetary-control/,timeout,No_meta_date,2020-10-20 12:48:44.623583,0,NoContext
+277,100812,Athens State University,administrative budget cuts,https://www.athens.edu/administration/,timeout,No_meta_date,2020-10-20 12:48:44.623610,0,NoContext
+275,100812,Athens State University,online courses,http://www.athens.edu/policy/academic/distance-learning-effective-fall-2018-docx/,timeout,No_meta_date,2020-10-20 12:48:44.623604,0,NoContext
+259,100812,Athens State University,cut programs,https://www.athens.edu/majors-and-minors/,timeout,No_meta_date,2020-10-20 12:48:44.623588,0,NoContext
+263,100812,Athens State University,program cuts,https://www.athens.edu/academics/,timeout,No_meta_date,2020-10-20 12:48:44.623591,0,NoContext
+265,100812,Athens State University,degrees dropped,https://www.athens.edu/event/late-registration-drop-add/,timeout,No_meta_date,2020-10-20 12:48:44.623593,0,NoContext
+266,100812,Athens State University,suspend appointments,https://www.athens.edu/coronavirus/student/,timeout,No_meta_date,2020-10-20 12:48:44.623594,0,NoContext
+268,100812,Athens State University,staff layoffs,https://www.athens.edu/coronavirus/,timeout,No_meta_date,2020-10-20 12:48:44.623597,0,NoContext
+269,100812,Athens State University,cut athletics,https://www.athens.edu/student-activities/,timeout,No_meta_date,2020-10-20 12:48:44.623598,0,NoContext
+267,100812,Athens State University,staff layoffs,https://www.athens.edu/coronavirus/staff/,timeout,No_meta_date,2020-10-20 12:48:44.623596,0,NoContext
+295,100812,Athens State University,cut scholarships,https://www.athens.edu/scholarships/,timeout,No_meta_date,2020-10-20 12:48:44.623636,0,NoContext
+215,100812,Athens State University,furlough days,https://www.athens.edu/student-accounts/important-dates/,timeout,No_meta_date,2020-10-20 12:48:44.623530,0,NoContext
+158,100812,Athens State University,career center,https://www.athens.edu/career-development-center/,timeout,No_meta_date,2020-10-20 12:48:44.623479,0,NoContext
+159,100812,Athens State University,offer scholarship,https://www.athens.edu/scholarships/empowerment/,timeout,No_meta_date,2020-10-20 12:48:44.623480,0,NoContext
+160,100812,Athens State University,campus climate,https://www.athens.edu/campustours/,timeout,No_meta_date,2020-10-20 12:48:44.623481,0,NoContext
+161,100812,Athens State University,expand to adults,https://www.athens.edu/dr-jackie-smith-named-associate-vp-for-academic-affairs/,timeout,No_meta_date,2020-10-20 12:48:44.623484,0,NoContext
+162,100812,Athens State University,expand to adults,https://www.athens.edu/adp/,timeout,No_meta_date,2020-10-20 12:48:44.623485,0,NoContext
+163,100812,Athens State University,expand to veterans,https://www.athens.edu/veterans-affairs/important-information/,timeout,No_meta_date,2020-10-20 12:48:44.623486,0,NoContext
+164,100812,Athens State University,expand to veterans,https://www.athens.edu/2016/02/,timeout,No_meta_date,2020-10-20 12:48:44.623488,0,NoContext
+157,100812,Athens State University,career center,https://www.athens.edu/category/career-center/,timeout,No_meta_date,2020-10-20 12:48:44.623483,0,NoContext
+168,100812,Athens State University,counselling services’ student wellness,https://www.emporia.edu/student-life/health-wellness/counseling-services/,timeout,No_meta_date,2020-10-20 12:48:44.623494,0,NoContext
+169,100812,Athens State University,share location,https://www.athens.edu/return/exposure-notification-app/,timeout,No_meta_date,2020-10-20 12:48:44.623490,0,NoContext
+170,100812,Athens State University,promotions,http://www.athens.edu/policy/human-resources/promotion-of-faculty/,timeout,No_meta_date,2020-10-20 12:48:44.623475,0,NoContext
+156,100812,Athens State University,career center,http://www.athens.edu/?tribe_venue=athens-career-center&page=1280,timeout,No_meta_date,2020-10-20 12:48:44.623471,0,NoContext
+154,100812,Athens State University,campus life,http://www.athens.edu/policy/administrative/security-camera-and-video-surveillance/,timeout,No_meta_date,2020-10-20 12:48:44.623470,0,NoContext
+216,100812,Athens State University,retirement incentives,http://www.athens.edu/policy/academic/transfer-and-acceptance-of-academic-credit/,timeout,No_meta_date,2020-10-20 12:48:44.623531,0,NoContext
+138,100812,Athens State University,increase pay,http://www.athens.edu/policy/human-resources/salary-adjustments-and-promotional-opportunities/,timeout,No_meta_date,2020-10-20 12:48:44.623442,0,NoContext
+141,100812,Athens State University,tenure,http://www.athens.edu/policy/human-resources/continuation-of-appointments-tenure/,timeout,No_meta_date,2020-10-20 12:48:44.623445,0,NoContext
+142,100812,Athens State University,tenure,https://www.athens.edu/smith-named-interim-provost-lafevor-named-interim-vp-for-academic-affairs/,timeout,No_meta_date,2020-10-20 12:48:44.623451,0,NoContext
+143,100812,Athens State University,on-time graduation,http://www.athens.edu/policy/academic/course-hour-loadcourse-overload/,timeout,No_meta_date,2020-10-20 12:48:44.623450,0,NoContext
+144,100812,Athens State University,tenure,https://www.athens.edu/policy/human-resources/employee-classifications/,timeout,No_meta_date,2020-10-20 12:48:44.623464,0,NoContext
+155,100812,Athens State University,campus life,https://www.athens.edu/clubs/,timeout,No_meta_date,2020-10-20 12:48:44.623477,0,NoContext
+145,100812,Athens State University,tenure,http://www.athens.edu/policy/human-resources/university-tenure-and-promotion-committee-practices-expectations-and-procedures/,timeout,No_meta_date,2020-10-20 12:48:44.623454,0,NoContext
+148,100812,Athens State University,on-time graduation,https://www.athens.edu/commencement/,timeout,No_meta_date,2020-10-20 12:48:44.623472,0,NoContext
+149,100812,Athens State University,on-time graduation,https://www.athens.edu/commencement/ceremony-information/,timeout,No_meta_date,2020-10-20 12:48:44.623474,0,NoContext
+150,100812,Athens State University,tenure,http://www.athens.edu/policy/human-resources/procedures-for-faculty-evaluations/,timeout,No_meta_date,2020-10-20 12:48:44.623463,0,NoContext
+152,100812,Athens State University,career center,http://www.athens.edu/?tribe_venue=athens-career-center&page=434,timeout,No_meta_date,2020-10-20 12:48:44.623466,0,NoContext
+153,100812,Athens State University,new building,http://www.athens.edu/page/26/?tribe_venue=classroom-building-room-114,timeout,No_meta_date,2020-10-20 12:48:44.623468,0,NoContext
+146,100812,Athens State University,academic advising,https://www.athens.edu/business/advising-scheduling/,timeout,No_meta_date,2020-10-20 12:48:44.623467,0,NoContext
+198,100812,Athens State University,share resources,http://www.athens.edu/trustees/responsibilities/,timeout,No_meta_date,2020-10-20 12:48:44.623504,0,NoContext
+199,100812,Athens State University,share resources,https://www.athens.edu/library/archives/,timeout,No_meta_date,2020-10-20 12:48:44.623513,0,NoContext
+200,100812,Athens State University,share resources,https://www.athens.edu/dr-vanessa-miller-awarded-suicide-prevention-grant/,timeout,No_meta_date,2020-10-20 12:48:44.623511,0,NoContext
+201,100812,Athens State University,promotions,https://www.athens.edu/new-academic-year-brings-five-faculty-promotions/,timeout,No_meta_date,2020-10-20 12:48:44.623514,0,NoContext
+203,100812,Athens State University,expand to veterans,https://www.athens.edu/veterans-affairs/,timeout,No_meta_date,2020-10-20 12:48:44.623515,0,NoContext
+204,100812,Athens State University,partner with corporate entity,https://www.athens.edu/business/,timeout,No_meta_date,2020-10-20 12:48:44.623518,0,NoContext
+197,100812,Athens State University,share program,https://www.athens.edu/alabama-science-in-motion-shares-synthetic-cadaver-with-local-high-schools/,timeout,No_meta_date,2020-10-20 12:48:44.623508,0,NoContext
+205,100812,Athens State University,early retirement,https://www.athens.edu/human-resources/benefits/,timeout,No_meta_date,2020-10-20 12:48:44.623519,0,NoContext
+207,100812,Athens State University,furlough,https://www.onlineathens.com/news/20200507/furlough-plan-approved-for-georgia-public-college-employees,timeout,No_meta_date,2020-10-20 12:48:44.623541,0,NoContext
+208,100812,Athens State University,furlough,https://www.athens.edu/library/,timeout,No_meta_date,2020-10-20 12:48:44.623522,0,NoContext
+209,100812,Athens State University,faculty furlough,https://www.athens.edu/faculty/,timeout,No_meta_date,2020-10-20 12:48:44.623526,0,NoContext
+211,100812,Athens State University,faculty furlough,https://www.athens.edu/business/faculty-and-staff/,timeout,No_meta_date,2020-10-20 12:48:44.623527,0,NoContext
+206,100812,Athens State University,early retirement,http://www.athens.edu/policy/human-resources/leaves-with-pay/,timeout,No_meta_date,2020-10-20 12:48:44.623520,0,NoContext
+196,100812,Athens State University,student support,https://helpdesk.athens.edu/hc/en-us/articles/210462838-athens-state-university-academic-support-units,timeout,No_meta_date,2020-10-20 12:48:44.623509,0,NoContext
+212,100812,Athens State University,faculty furlough,https://www.athens.edu/education/faculty-and-staff/,timeout,No_meta_date,2020-10-20 12:48:44.623529,0,NoContext
+192,100812,Athens State University,faculty advancements,http://www.athens.edu/policy/academic/academic-freedom/,timeout,No_meta_date,2020-10-20 12:48:44.623502,0,NoContext
+191,100812,Athens State University,faculty advancements,https://www.athens.edu/vice-president-for-advancement-named/,timeout,No_meta_date,2020-10-20 12:48:44.623506,0,NoContext
+193,100812,Athens State University,faculty advancements,https://www.athens.edu/advancement/,timeout,No_meta_date,2020-10-20 12:48:44.623505,0,NoContext
+188,100812,Athens State University,consolidate campuses,https://www.athens.edu/off-campus-centers/,timeout,No_meta_date,2020-10-20 12:48:44.623558,0,NoContext
+190,100812,Athens State University,partner with another institution,https://helpdesk.athens.edu/hc/en-us/articles/235944667-create-a-mindtap-course-level-link,timeout,No_meta_date,2020-10-20 12:48:44.623510,0,NoContext
+482,100858,Auburn University,raise tuition,https://www.wtvm.com/story/6438579/auburn-university-trustees-raise-tuition,timeout,No_meta_date,2020-10-20 12:48:44.623818,0,NoContext
+492,100858,Auburn University,vacancies open,https://career.auburn.edu/students/career-ready,timeout,No_meta_date,2020-10-20 12:48:44.623820,0,NoContext
+496,100858,Auburn University,pay cuts,https://www.theplainsman.com/article/2020/03/despite-coronavirus-campus-closure-auburn-university-will-continue-to-pay-workers,timeout,No_meta_date,2020-10-20 12:48:44.623826,0,NoContext
+485,100858,Auburn University,increase tuition,https://www.al.com/news/2018/06/auburn_university_raises_tuiti.html,timeout,['2018-06-14T18:45:18Z'],2020-10-20 12:48:44.623815,0,NoContext
+514,100858,Auburn University,online courses,http://wp.auburn.edu/biggio/distance-learning/,timeout,No_meta_date,2020-10-20 12:48:44.623831,0,NoContext
+515,100858,Auburn University,athletics spending cuts,http://www.washingtonpost.com/sf/sports/wp/2015/11/23/running-up-the-bills/,timeout,No_meta_date,2020-10-20 12:48:44.623840,0,NoContext
+518,100858,Auburn University,staff cuts,https://www.theplainsman.com/article/2020/06/university-says-it-will-avoid-firing-employees-because-of-covid-costs,timeout,No_meta_date,2020-10-20 12:48:44.623853,0,NoContext
+573,100858,Auburn University,suspend appointments,http://academicsupport.auburn.edu/academic-support-home/study-smart/how-to-register/,timeout,No_meta_date,2020-10-20 12:48:44.623911,0,NoContext
+586,100858,Auburn University,cut programs,http://graduate.auburn.edu/prospective-students/general-admission-requirements/,timeout,No_meta_date,2020-10-20 12:48:44.623924,0,NoContext
+585,100858,Auburn University,cut student programs,https://www.vetmed.auburn.edu/education/prospective-students/,timeout,No_meta_date,2020-10-20 12:48:44.623938,0,NoContext
+532,100858,Auburn University,online courses,http://graduate.auburn.edu/prospective-students/online-graduate-programs/,timeout,No_meta_date,2020-10-20 12:48:44.623855,0,NoContext
+520,100858,Auburn University,staff cuts,https://diverseeducation.com/article/172865/,timeout,No_meta_date,2020-10-20 12:48:44.623843,0,NoContext
+550,100858,Auburn University,sell buildings,https://www.loopnet.com/search/apartment-buildings/auburn-al/for-sale/,timeout,No_meta_date,2020-10-20 12:48:44.623880,0,NoContext
+549,100858,Auburn University,sell buildings,https://cadc.auburn.edu/,timeout,No_meta_date,2020-10-20 12:48:44.623879,0,NoContext
+336,100858,Auburn University,student support,http://academicsupport.auburn.edu/,timeout,No_meta_date,2020-10-20 12:48:44.623667,0,NoContext
+334,100858,Auburn University,add sport,http://www.campusrec.auburn.edu/intramural-sports,timeout,No_meta_date,2020-10-20 12:48:44.623661,0,NoContext
+338,100858,Auburn University,student support,https://wp.auburn.edu/scs/resources/,timeout,No_meta_date,2020-10-20 12:48:44.623699,0,NoContext
+347,100858,Auburn University,expand to adults,https://wp.auburn.edu/preserve/membership/benefits/,timeout,No_meta_date,2020-10-20 12:48:44.623706,0,NoContext
+364,100858,Auburn University,share location,https://gotchabike.com/auburn-university/,timeout,No_meta_date,2020-10-20 12:48:44.623716,0,NoContext
+363,100858,Auburn University,share location,https://wp.auburn.edu/sustainability/engage/war-eagle-bike-share/,timeout,No_meta_date,2020-10-20 12:48:44.623715,0,NoContext
+353,100858,Auburn University,expand to veterans,https://wp.auburn.edu/involve/involvement-awards/,timeout,No_meta_date,2020-10-20 12:48:44.623711,0,NoContext
+352,100858,Auburn University,expand to veterans,https://www.vetmed.auburn.edu/animal-owners/,timeout,No_meta_date,2020-10-20 12:48:44.623712,0,NoContext
+350,100858,Auburn University,expand to veterans,https://rise.auburn.edu/,timeout,No_meta_date,2020-10-20 12:48:44.623703,0,NoContext
+330,100858,Auburn University,increase student financial aid,https://agriculture.auburn.edu/academics/global-programs/funding-support-for-global-engagement/student-financial-aid-for-study-abroad/,timeout,No_meta_date,2020-10-20 12:48:44.623686,0,NoContext
+305,100858,Auburn University,on-time graduation,http://graduate.auburn.edu/current-students/committee-selection/,timeout,No_meta_date,2020-10-20 12:48:44.623647,0,NoContext
+304,100858,Auburn University,add new athletic programs,https://accessibility.auburn.edu/adaptedsports,timeout,No_meta_date,2020-10-20 12:48:44.623602,0,NoContext
+309,100858,Auburn University,increase benefits,https://cla.auburn.edu/forlang/resources/twenty-five-reasons/,timeout,No_meta_date,2020-10-20 12:48:44.623662,0,NoContext
+302,100858,Auburn University,counselling services’ student wellness,http://wp.auburn.edu/healthandwellness/,timeout,No_meta_date,2020-10-20 12:48:44.623641,0,NoContext
+301,100858,Auburn University,counselling services’ student wellness,http://studentaffairs.auburn.edu/for-students/health-and-wellness/,timeout,No_meta_date,2020-10-20 12:48:44.623640,0,NoContext
+312,100858,Auburn University,career center,http://www.auburn.edu/career/,timeout,No_meta_date,2020-10-20 12:48:44.623690,0,NoContext
+326,100858,Auburn University,add new athletic programs,http://www.education.auburn.edu/kinesiology,timeout,No_meta_date,2020-10-20 12:48:44.623653,0,NoContext
+325,100858,Auburn University,building improvement,http://wp.auburn.edu/biggio/lis2018/,timeout,No_meta_date,2020-10-20 12:48:44.623652,0,NoContext
+322,100858,Auburn University,offer amenities,http://www.campusrec.auburn.edu/facilities,timeout,No_meta_date,2020-10-20 12:48:44.623651,0,NoContext
+320,100858,Auburn University,offer amenities,https://www.americancampus.com/student-apartments/al/auburn/160-ross,timeout,No_meta_date,2020-10-20 12:48:44.623660,0,NoContext
+313,100858,Auburn University,career center,https://career.auburn.edu/students,timeout,No_meta_date,2020-10-20 12:48:44.623656,0,NoContext
+368,100858,Auburn University,share program,https://www.wsfa.com/story/31027071/auburn-university-gears-up-to-launch-bike-share-program,timeout,No_meta_date,2020-10-20 12:48:44.623753,0,NoContext
+421,100858,Auburn University,share resources,http://wp.auburn.edu/hsi/auburn-free-food-help/,timeout,No_meta_date,2020-10-20 12:48:44.623741,0,NoContext
+416,100858,Auburn University,campus life,https://www.collegefactual.com/colleges/auburn-university/student-life/,timeout,['2013-02-20'],2020-10-20 12:48:44.623745,0,NoContext
+436,100858,Auburn University,postpone maintenance,http://propertymanagement.auburn.edu/,timeout,No_meta_date,2020-10-20 12:48:44.623755,0,NoContext
+375,100858,Auburn University,share location,https://wp.auburn.edu/sustainability/join-the-war-eagle-bike-share-today-heres-how/,timeout,No_meta_date,2020-10-20 12:48:44.623738,0,NoContext
+370,100858,Auburn University,expand financial aid,https://www.aum.edu/warhawk-weekly-10-22-grant-supports-student-success-aum-swifts-get-new-home/,timeout,No_meta_date,2020-10-20 12:48:44.623739,0,NoContext

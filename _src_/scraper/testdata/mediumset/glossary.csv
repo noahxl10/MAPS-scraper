@@ -1,0 +1,9 @@
+﻿name,varname,type,timeline,terms
+Change tuition (>),st_change_tuition_(>),REDUCTION,SHORT ,"""Increase tuition”, ""raise tuition”"
+Change tuition (<=),st_change_tuition_(<=),REDUCTION,SHORT ,"""Reduce tuition”, ""freeze tuition”, ""differ tuition”, ""decrease tuition”, ""lower tuition”, ""discount tuition”, ""offer tuition discount”"
+Reduce Hiring,st_reduce_hiring,REDUCTION,SHORT ,"""deferred hiring” ""deferred hiring of vacant positions”, ""Hiring freeze”"
+Salary increase and promotion freeze,st_salary_promotion_freeze,REDUCTION,SHORT ,"""Freeze salary increases”, ""no salary changes”, ""no merit increases”"
+Reduce staff and faculty support,st_reduce_staff_and_faculty_support,REDUCTION,SHORT ,"""Pay cuts”, ""salary reductions”, ""reduce benefits”, ""reduce perks”"
+Voluntary and/or incentivized staff and faculty reduction,st_voluntary_incentivized_staff_faculty_reduction,REDUCTION,SHORT ,"""Offer retirement incentives”, ""voluntary pay cuts”, ""voluntary furlough”, ""voluntary leave”, ""voluntary salary reduction”, ""voluntary pay reduction”"
+Involuntary furlough of staff/faculty,st_furlough_staff_faculty,REDUCTION,SHORT ,"""Forced furlough”, ""staff furlough”, ""faculty furlough”, ""involuntary furlough”, ""furlough”"
+Deferred infrastructural improvements,st_deferred_infrastructure_improvement,REDUCTION,SHORT ,"""Deferred maintenance”, ""deferred capital projects”"

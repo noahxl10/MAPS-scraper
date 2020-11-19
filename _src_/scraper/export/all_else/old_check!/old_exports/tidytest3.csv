@@ -1,0 +1,982 @@
+,school,grouping_var,term,url,present_absent,context
+0,test,test,test,test,test,test
+0,University of Wyoming,st_change_tuition_(>), increase tuition ,https://www.collegefactual.com/colleges/university-of-wyoming/paying-for-college/tuition-and-fees/,0,NaN
+0,University of Wyoming,st_change_tuition_(>), increase tuition ,https://admissions.uni.edu/costs,0,NaN
+0,University of Wyoming,st_change_tuition_(>), raise tuition ,https://www.uwyo.edu/uw/news/2019/07/uw-trustees-approve-new-financial-aid-for-wyoming-students.html,0,NaN
+0,University of Wyoming,st_change_tuition_(>), raise tuition ,https://oilcity.news/community/2019/07/22/with-tuition-hikes-uw-to-provide-new-financial-aid/,0,NaN
+0,University of Wyoming,st_change_tuition_(>), percent increase in tuition ,https://www.clickondetroit.com/all-about-ann-arbor/2020/08/17/sunrise-movement-ann-arbor-protests-tuition-increase-at-university-of-michigan/,0,NaN
+0,University of Wyoming,st_change_tuition_(>), percent increase in tuition ,https://www.mlive.com/news/ann-arbor/2020/06/university-of-michigan-tuition-increase-proposal-fails-with-4-4-board-of-regents-vote.html,0,NaN
+0,University of Wyoming,st_change_tuition_(>), raise cost of attendance ,https://www.raise.me/edu/university-of-wyoming,0,NaN
+0,University of Wyoming,st_change_tuition_(>), raise cost of attendance ,https://www.uwyo.edu/uw/news/2019/07/uw-trustees-approve-new-financial-aid-for-wyoming-students.html,0,NaN
+0,University of Wyoming,st_change_tuition_(>), raise fees ,https://www.uwyo.edu/uw/news/2019/07/uw-trustees-approve-new-financial-aid-for-wyoming-students.html,0,NaN
+0,University of Wyoming,st_change_tuition_(>), add fees ,http://www.uwyo.edu/fsbo/important-dates.html,0,NaN
+0,University of Wyoming,st_change_tuition_(>), add fees ,https://laramielive.com/wyoming-add-texas-longhorns-to-2023-football-schedule/,0,NaN
+0,University of Wyoming,st_change_tuition_(>), increase fees ,https://www.collegefactual.com/colleges/university-of-wyoming/paying-for-college/tuition-and-fees/,0,NaN
+0,University of Wyoming,st_change_tuition_(>), increase fees ,https://www.wyomingnewsnow.tv/content/news/Gas-prices-in-Wyoming-increase-471633623.html,0,NaN
+0,Bluefield State College,st_change_tuition_(>), increase tuition ,https://bluefieldstate.edu/tuition/scholarships,0,NaN
+0,Bluefield State College,st_change_tuition_(>), increase tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html,0,NaN
+0,Bluefield State College,st_change_tuition_(>), raise tuition ,https://bluefieldstate.edu/tuition/scholarships,0,NaN
+0,Bluefield State College,st_change_tuition_(>), raise tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html,0,NaN
+0,Bluefield State College,st_change_tuition_(>), percent increase in tuition ,https://bluefieldstate.edu/tuition/tuition-and-fees,0,NaN
+0,Bluefield State College,st_change_tuition_(>), percent increase in tuition ,https://www.usnews.com/best-colleges/bluefield-state-college-3809,0,NaN
+0,Bluefield State College,st_change_tuition_(>), raise cost of attendance ,https://bluefieldstate.edu/tuition/tuition-and-fees,0,NaN
+0,Bluefield State College,st_change_tuition_(>), raise cost of attendance ,https://www.collegecalc.org/colleges/west-virginia/bluefield-state-college/,0,NaN
+0,Bluefield State College,st_change_tuition_(>), raise fees ,https://www.facebook.com/loretta.dial.5,0,NaN
+0,Bluefield State College,st_change_tuition_(>), add fees ,https://bluefieldstate.edu/,0,NaN
+0,Bluefield State College,st_change_tuition_(>), add fees ,http://www.bluefield.edu/,0,NaN
+0,Bluefield State College,st_change_tuition_(>), increase fees ,https://www.wvgazettemail.com/news/education/wv-4-year-college-tuition-increasing-an-average-of-2-4-percent/article_fbc9e63e-5299-571c-9ced-22a574d32816.html,0,NaN
+0,Concord University,st_change_tuition_(>), increase tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx,0,NaN
+0,Concord University,st_change_tuition_(>), increase tuition ,https://concordacademy.org/admissions/financial-aid/,0,NaN
+0,Concord University,st_change_tuition_(>), raise tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx,0,NaN
+0,Concord University,st_change_tuition_(>), raise tuition ,https://concordacademy.org/admissions/financial-aid/,0,NaN
+0,Concord University,st_change_tuition_(>), percent increase in tuition ,https://www.prepscholar.com/sat/s/colleges/Concord-University-tuition-financial-aid,0,NaN
+0,Concord University,st_change_tuition_(>), percent increase in tuition ,https://www.usnews.com/best-colleges/lenoir-rhyne-university-2941,0,NaN
+0,Concord University,st_change_tuition_(>), raise cost of attendance ,https://www.concord.edu/Financial-Aid/Costs.aspx,0,NaN
+0,Concord University,st_change_tuition_(>), raise cost of attendance ,https://www.raise.me/edu/concorde-career-college-aurora,0,NaN
+0,Concord University,st_change_tuition_(>), raise fees ,https://www.concord.edu/Financial-Aid/Tuition-Fees.aspx,0,NaN
+0,Concord University,st_change_tuition_(>), raise fees ,https://www.dartmouth-hitchcock.org/billing-charges/charges_for_services.html,0,NaN
+0,Concord University,st_change_tuition_(>), add fees ,https://www.concord.edu/Academics/Registrar.aspx,0,NaN
+0,Concord University,st_change_tuition_(>), add fees ,https://www.wvnstv.com/top-stories/concord-university-add-health-science-major/,0,NaN
+0,Concord University,st_change_tuition_(>), increase fees ,https://www.concord.edu/Financial-Aid/Tuition-Fees.aspx,0,NaN
+0,Concord University,st_change_tuition_(>), increase fees ,https://www.dartmouth-hitchcock.org/billing-charges/charges_for_services.html,0,NaN
+0,Fairmont State University,st_change_tuition_(>), increase tuition ,https://www.fairmontstate.edu/studentservices/student-accounts/tuition-fees-charts,0,NaN
+0,Fairmont State University,st_change_tuition_(>), increase tuition ,https://www.usnews.com/best-colleges/fairmont-state-3812,0,NaN
+0,Fairmont State University,st_change_tuition_(>), raise tuition ,https://www.fairmontstate.edu/studentservices/student-accounts/tuition-fees-charts,0,NaN
+0,Fairmont State University,st_change_tuition_(>), raise tuition ,https://www.usnews.com/best-colleges/fairmont-state-3812,0,NaN
+0,Fairmont State University,st_change_tuition_(>), percent increase in tuition ,https://www.fairmontstate.edu/studentservices/student-accounts/tuition-fees-charts,0,NaN
+0,Fairmont State University,st_change_tuition_(>), percent increase in tuition ,https://www.usnews.com/best-colleges/fairmont-state-3812,0,NaN
+0,Fairmont State University,st_change_tuition_(>), raise cost of attendance ,https://www.fairmontstate.edu/finaid/cost-attendance,0,NaN
+0,Fairmont State University,st_change_tuition_(>), raise cost of attendance ,https://www.collegecalc.org/colleges/west-virginia/fairmont-state-university/,0,NaN
+0,Fairmont State University,st_change_tuition_(>), raise fees ,https://www.fairmontstate.edu/finaid/cost-attendance,0,NaN
+0,Fairmont State University,st_change_tuition_(>), raise fees ,https://fairmontstate.edu/studentservices/student-accounts/undergraduate-tuition-fees,0,NaN
+0,Fairmont State University,st_change_tuition_(>), add fees ,https://www.usnews.com/best-colleges/fairmont-state-3812,0,NaN
+0,Fairmont State University,st_change_tuition_(>), add fees ,https://www.fairmontstate.edu/studentservices/registrar/withdrawaldrop-policies,0,NaN
+0,Fairmont State University,st_change_tuition_(>), increase fees ,https://www.fairmontstate.edu/finaid/cost-attendance,0,NaN
+0,Fairmont State University,st_change_tuition_(>), increase fees ,https://fairmontstate.edu/studentservices/student-accounts/undergraduate-tuition-fees,0,NaN
+0,Glenville State College,st_change_tuition_(>), increase tuition ,https://www.glenville.edu/admissions/tuition-fees,0,NaN
+0,Glenville State College,st_change_tuition_(>), increase tuition ,https://www.collegesimply.com/colleges/west-virginia/glenville-state-college/price/,0,NaN
+0,Glenville State College,st_change_tuition_(>), raise tuition ,https://www.glenville.edu/phoenix/tuition-and-fee-increases-addressed-sga-meeting,0,NaN
+0,Glenville State College,st_change_tuition_(>), raise tuition ,https://www.collegesimply.com/colleges/west-virginia/glenville-state-college/price/,0,NaN
+0,Glenville State College,st_change_tuition_(>), percent increase in tuition ,https://www.glenville.edu/,0,NaN
+0,Glenville State College,st_change_tuition_(>), percent increase in tuition ,https://www.usnews.com/best-colleges/glenville-state-college-3813,0,NaN
+0,Glenville State College,st_change_tuition_(>), raise cost of attendance ,https://www.glenville.edu/admissions/tuition-fees,0,NaN
+0,Glenville State College,st_change_tuition_(>), raise cost of attendance ,https://www.collegecalc.org/colleges/west-virginia/glenville-state-college/,0,NaN
+0,Glenville State College,st_change_tuition_(>), raise fees ,https://www.glenville.edu/phoenix/tuition-and-fee-increases-addressed-sga-meeting,0,NaN
+0,Glenville State College,st_change_tuition_(>), add fees ,https://www.glenville.edu/,0,NaN
+0,Glenville State College,st_change_tuition_(>), add fees ,https://www.usnews.com/best-colleges/glenville-state-college-3813,0,NaN
+0,Glenville State College,st_change_tuition_(>), increase fees ,http://www.hurherald.com/cgi-bin/db_scripts/articles?Action=user_view&db=articles_hurherald&id=5991,0,NaN
+0,Glenville State College,st_change_tuition_(>), increase fees ,https://www.wvgazettemail.com/news/education/after-wv-made-community-college-free-number-of-new-students-jumped-10-percent/article_fb9b1068-8654-54ac-88ed-b9c884c4320a.html,0,NaN
+0,Marshall University,st_change_tuition_(>), increase tuition ,https://www.marshall.edu/tuition/,0,NaN
+0,Marshall University,st_change_tuition_(>), increase tuition ,https://www.marshallschool.org/admissions/affordingmarshall,0,NaN
+0,Marshall University,st_change_tuition_(>), raise tuition ,https://www.marshall.edu/ucomm/2020/06/25/board-of-governors-approves-reduced-2020-21-budget-no-tuition-or-residence-hall-increases-for-coming-academic-year/,0,NaN
+0,Marshall University,st_change_tuition_(>), raise tuition ,https://www.wvpublic.org/post/marshall-university-raise-tuition,1,"t us    discussion rules    site map      search                              marshall university to raise tuition   by  clark davis  •  jun 24,  2015     share tweet email                listen  list"
+0,Marshall University,st_change_tuition_(>), percent increase in tuition ,https://www.marshall.edu/quick-facts/,0,NaN
+0,Marshall University,st_change_tuition_(>), percent increase in tuition ,https://www.usnews.com/best-colleges/marshall-university-3815,0,NaN
+0,Marshall University,st_change_tuition_(>), raise cost of attendance ,https://www.raise.me/edu/marshall-university,0,NaN
+0,Marshall University,st_change_tuition_(>), raise cost of attendance ,https://www.marshall.edu/sfa/cost-of-attendance/,0,NaN
+0,Marshall University,st_change_tuition_(>), raise fees ,https://www.marshall.edu/ucomm/2020/06/25/board-of-governors-approves-reduced-2020-21-budget-no-tuition-or-residence-hall-increases-for-coming-academic-year/,0,NaN
+0,Marshall University,st_change_tuition_(>), raise fees ,https://www.wvpublic.org/post/marshall-university-raise-tuition,0,NaN
+0,Marshall University,st_change_tuition_(>), add fees ,https://www.marshall.edu/rba/adding-or-dropping-a-course/,0,NaN
+0,Marshall University,st_change_tuition_(>), add fees ,https://www.towson.edu/studentlife/housing/campus/rates.html,0,NaN
+0,Marshall University,st_change_tuition_(>), increase fees ,https://www.marshall.edu/tuition/,0,NaN
+0,Marshall University,st_change_tuition_(>), increase fees ,https://www.livethemarshall.com/,0,NaN
+0,Shepherd University,st_change_tuition_(>), increase tuition ,https://www.shepherd.edu/admissions/undergraduate-tuition-and-fees,0,NaN
+0,Shepherd University,st_change_tuition_(>), increase tuition ,https://www.collegecalc.org/colleges/west-virginia/shepherd-university/,0,NaN
+0,Shepherd University,st_change_tuition_(>), raise tuition ,https://www.shepherd.edu/admissions/undergraduate-tuition-and-fees,0,NaN
+0,Shepherd University,st_change_tuition_(>), raise tuition ,https://www.collegecalc.org/colleges/west-virginia/shepherd-university/,0,NaN
+0,Shepherd University,st_change_tuition_(>), percent increase in tuition ,https://www.usnews.com/best-colleges/shepherd-university-3822,0,NaN
+0,Shepherd University,st_change_tuition_(>), percent increase in tuition ,https://www.cbpp.org/research/state-budget-and-tax/unkept-promises-state-cuts-to-higher-education-threaten-access-and,0,NaN
+0,Shepherd University,st_change_tuition_(>), raise cost of attendance ,https://www.shepherd.edu/tuition-and-fees/,0,NaN
+0,Shepherd University,st_change_tuition_(>), raise cost of attendance ,https://www.collegefactual.com/colleges/shepherd-university/paying-for-college/,0,NaN
+0,Shepherd University,st_change_tuition_(>), raise fees ,https://www.shepherd.edu/admissions/undergraduate-tuition-and-fees,0,NaN
+0,Shepherd University,st_change_tuition_(>), raise fees ,https://www.collegesimply.com/colleges/west-virginia/shepherd-university/price/,0,NaN
+0,Shepherd University,st_change_tuition_(>), add fees ,https://www.shepherd.edu/registrar/withdrawal-from-the-university/,0,NaN
+0,Shepherd University,st_change_tuition_(>), add fees ,http://shepherdwellness.com/rambler-card/deposit/,0,NaN
+0,Shepherd University,st_change_tuition_(>), increase fees ,https://www.shepherd.edu/registration-overrides/,0,NaN
+0,Shepherd University,st_change_tuition_(>), increase fees ,https://www.cnbc.com/2019/10/24/why-college-tuition-keeps-rising.html,0,NaN
+0,West Liberty University,st_change_tuition_(>), increase tuition ,https://westliberty.edu/admissions/costs/metro/,0,NaN
+0,West Liberty University,st_change_tuition_(>), increase tuition ,https://www.collegecalc.org/colleges/west-virginia/west-liberty-university/,0,NaN
+0,West Liberty University,st_change_tuition_(>), raise tuition ,https://westliberty.edu/admissions/costs/metro/,0,NaN
+0,West Liberty University,st_change_tuition_(>), raise tuition ,https://www.raise.me/edu/west-liberty-university,0,NaN
+0,West Liberty University,st_change_tuition_(>), percent increase in tuition ,https://westliberty.edu/admissions/costs/metro/,0,NaN
+0,West Liberty University,st_change_tuition_(>), percent increase in tuition ,https://www.collegetuitioncompare.com/edu/237932/west-liberty-university/tuition/,0,NaN
+0,West Liberty University,st_change_tuition_(>), raise cost of attendance ,https://westliberty.edu/financial-aid/net-price-calculator/,0,NaN
+0,West Liberty University,st_change_tuition_(>), raise cost of attendance ,https://www.raise.me/edu/west-liberty-university,0,NaN
+0,West Liberty University,st_change_tuition_(>), raise fees ,https://westliberty.edu/business-office/tuition-fees/,0,NaN
+0,West Liberty University,st_change_tuition_(>), raise fees ,https://www.raise.me/edu/west-liberty-university,0,NaN
+0,West Liberty University,st_change_tuition_(>), add fees ,https://westliberty.edu/college-union/college-union-office/topper-card/,0,NaN
+0,West Liberty University,st_change_tuition_(>), add fees ,https://www.parchment.com/u/college/1673-West-Liberty-University/profile,0,NaN
+0,West Liberty University,st_change_tuition_(>), increase fees ,https://westliberty.edu/business-office/tuition-fees/,0,NaN
+0,West Liberty University,st_change_tuition_(>), increase fees ,https://www.collegefactual.com/colleges/west-liberty-university/paying-for-college/,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), increase tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), increase tuition ,https://tuition.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), raise tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), raise tuition ,https://tuition.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), percent increase in tuition ,https://wvutoday.wvu.edu/stories/2020/05/01/west-virginia-university-divisional-campuses-plans-to-open-for-fall-holds-line-on-tuition-fees-for-20-21-year,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), percent increase in tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), raise cost of attendance ,https://financialaid.wvu.edu/home/estimate-costs-aid,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), raise cost of attendance ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), raise fees ,https://financialaid.wvu.edu/home/estimate-costs-aid/net-price-calculator,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), raise fees ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), add fees ,https://financialaid.wvu.edu/home/estimate-costs-aid/net-price-calculator,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), add fees ,https://www.parchment.com/u/college/1678-West-Virginia-University-at-Parkersburg/profile,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), increase fees ,https://financialaid.wvu.edu/home/estimate-costs-aid/net-price-calculator,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(>), increase fees ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), increase tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), increase tuition ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), raise tuition ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), raise tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), percent increase in tuition ,https://wvutoday.wvu.edu/stories/2020/05/01/west-virginia-university-divisional-campuses-plans-to-open-for-fall-holds-line-on-tuition-fees-for-20-21-year,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), percent increase in tuition ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), raise cost of attendance ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), raise cost of attendance ,https://financialaid.wvu.edu/home/estimate-costs-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), raise fees ,https://financialaid.wvu.edu/home/estimate-costs-aid/net-price-calculator,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), raise fees ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), add fees ,https://financialaid.wvu.edu/home/estimate-costs-aid/net-price-calculator,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), add fees ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), increase fees ,https://financialaid.wvu.edu/home/estimate-costs-aid/net-price-calculator,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(>), increase fees ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), increase tuition ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), increase tuition ,https://admissions.potomacstatecollege.edu/cost-and-aid/tuition-and-fees,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), raise tuition ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), raise tuition ,https://admissions.potomacstatecollege.edu/cost-and-aid/tuition-and-fees,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), percent increase in tuition ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), percent increase in tuition ,https://admissions.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), raise cost of attendance ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), raise cost of attendance ,https://admissions.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), raise fees ,https://admissions.potomacstatecollege.edu/cost-and-aid/tuition-and-fees,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), raise fees ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), add fees ,https://admissions.potomacstatecollege.edu/cost-and-aid/tuition-and-fees,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), add fees ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), increase fees ,https://admissions.potomacstatecollege.edu/cost-and-aid/tuition-and-fees,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(>), increase fees ,https://www.potomacstatecollege.edu/,0,NaN
+0,West Virginia State University,st_change_tuition_(>), increase tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia State University,st_change_tuition_(>), increase tuition ,https://www.marshall.edu/tuition/,0,NaN
+0,West Virginia State University,st_change_tuition_(>), raise tuition ,https://www.wvpublic.org/post/marshall-university-raise-tuition,1,"t us    discussion rules    site map      search                              marshall university to raise tuition   by  clark davis  •  jun 24,  2015     share tweet email                listen  list"
+0,West Virginia State University,st_change_tuition_(>), raise tuition ,https://www.raise.me/edu/west-virginia-university,0,NaN
+0,West Virginia State University,st_change_tuition_(>), percent increase in tuition ,https://www.usnews.com/best-colleges/wvu-3827,0,NaN
+0,West Virginia State University,st_change_tuition_(>), percent increase in tuition ,https://www.petersons.com/college-search/west-virginia-university-000_10001991.aspx,0,NaN
+0,West Virginia State University,st_change_tuition_(>), raise cost of attendance ,https://www.raise.me/edu/west-virginia-university,0,NaN
+0,West Virginia State University,st_change_tuition_(>), raise cost of attendance ,https://www.wvstateu.edu/getattachment/Admissions/Financial-Aid/Sections/2019-2020-Cost-of-Attendance/WVSU-2019-2020-Financial-Aid-Award-Package-Estimated-Cost-of-Attendance.pdf.aspx?lang=en-US,0,NaN
+0,West Virginia State University,st_change_tuition_(>), raise fees ,https://www.raise.me/edu/west-virginia-university,0,NaN
+0,West Virginia State University,st_change_tuition_(>), raise fees ,https://wvstateparks.com/,0,NaN
+0,West Virginia State University,st_change_tuition_(>), add fees ,https://www.usnews.com/best-colleges/wvu-3827,0,NaN
+0,West Virginia State University,st_change_tuition_(>), add fees ,https://www.parchment.com/u/college/1675-West-Virginia-State-University/profile,0,NaN
+0,West Virginia State University,st_change_tuition_(>), increase fees ,https://wvstateparks.com/,0,NaN
+0,West Virginia State University,st_change_tuition_(>), increase fees ,https://wvbar.org/2020-21/,0,NaN
+0,Central Washington University,st_change_tuition_(>), increase tuition ,https://www.cwu.edu/summer/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(>), increase tuition ,http://www.cwu.edu/csel/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(>), raise tuition ,https://www.cwu.edu/summer/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(>), raise tuition ,http://www.cwu.edu/csel/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(>), percent increase in tuition ,https://www.usnews.com/best-colleges/central-washington-university-3771,0,NaN
+0,Central Washington University,st_change_tuition_(>), percent increase in tuition ,https://bigfuture.collegeboard.org/college-university-search/central-washington-university,0,NaN
+0,Central Washington University,st_change_tuition_(>), raise cost of attendance ,http://www.cwu.edu/financial-aid/2019-2020-cost-attendance,0,NaN
+0,Central Washington University,st_change_tuition_(>), raise cost of attendance ,https://www.cwu.edu/financial-aid/net-price-calculator,0,NaN
+0,Central Washington University,st_change_tuition_(>), raise fees ,http://www.cwu.edu/financial-aid/2019-2020-cost-attendance,0,NaN
+0,Central Washington University,st_change_tuition_(>), raise fees ,https://www.cwu.edu/health-science/cost,0,NaN
+0,Central Washington University,st_change_tuition_(>), add fees ,http://www.cwu.edu/teacher-certification/adding-additional-endorsements,0,NaN
+0,Central Washington University,st_change_tuition_(>), add fees ,https://www.cwu.edu/dining/,0,NaN
+0,Central Washington University,st_change_tuition_(>), increase fees ,http://www.cwu.edu/financial-aid/2019-2020-cost-attendance,0,NaN
+0,Central Washington University,st_change_tuition_(>), increase fees ,https://www.cwu.edu/health-science/cost,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), increase tuition ,https://www.spokesman.com/stories/2012/jan/29/educated-decisions/,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), increase tuition ,https://www.ewu.edu/,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), raise tuition ,https://www.raise.me/edu/eastern-washington-university,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), raise tuition ,https://www.ewu.edu/,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), percent increase in tuition ,https://www.usnews.com/best-colleges/eastern-washington-3775,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), percent increase in tuition ,https://datausa.io/profile/university/eastern-washington-university,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), raise cost of attendance ,https://www.ewu.edu/apply/financial-aid-scholarships-office/applying-for-financial-aid/,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), raise cost of attendance ,https://www.raise.me/edu/eastern-washington-university,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), raise fees ,https://www.raise.me/edu/eastern-washington-university,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), raise fees ,https://www.ewu.edu/apply/tuition/,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), add fees ,https://inside.ewu.edu/records-and-registration/registration/,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), add fees ,https://www.parchment.com/u/college/419-Eastern-Washington-University/profile,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), increase fees ,https://www.spokesman.com/stories/2012/jan/29/educated-decisions/,0,NaN
+0,Eastern Washington University,st_change_tuition_(>), increase fees ,https://news.wsu.edu/2017/01/24/wsu-heritage-pharmacy-agreement/,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), reduce tuition ,http://www.uwyo.edu/sfa/cost-of-attendance/,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), reduce tuition ,https://admissions.uni.edu/costs,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), freeze tuition ,https://admissions.uni.edu/costs,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), freeze tuition ,https://tuition.uni.edu/,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), differ tuition ,https://admissions.uni.edu/costs,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), differ tuition ,https://tuition.uni.edu/,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), decrease tuition ,https://www.uwyo.edu/uw/news/2019/07/uw-trustees-approve-new-financial-aid-for-wyoming-students.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Wyoming_Guide+%28Wyoming_Guide%29,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), decrease tuition ,https://trib.com/news/state-and-regional/university-of-wyoming-expects-20-enrollment-drop/article_82dd1e94-9185-564f-adc7-0c159644c31b.html,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), lower tuition ,http://www.uwyo.edu/admissions/scholarships/non-residents/wue.html,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), lower tuition ,https://admissions.uni.edu/costs,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), discount tuition ,http://www.uwyo.edu/sfa/cost-of-attendance/,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), discount tuition ,https://www.unmc.edu/dentistry/programs/dental/financial.html,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), offer tuition discount ,http://www.uwyo.edu/hr/employee-benefits/tuition-waiver/,0,NaN
+0,University of Wyoming,st_change_tuition_(<=), offer tuition discount ,https://www.nasfaa.org/State_Regional_Tuition_Exchanges,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), reduce tuition ,https://bluefieldstate.edu/tuition/scholarships,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), reduce tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), freeze tuition ,https://bluefieldstate.edu/tuition/scholarships,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), freeze tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), differ tuition ,https://bluefieldstate.edu/tuition/scholarships,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), differ tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), decrease tuition ,https://bluefieldstate.edu/tuition/scholarships,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), decrease tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), lower tuition ,https://bluefieldstate.edu/tuition/scholarships,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), lower tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), discount tuition ,https://bluefieldstate.edu/tuition/scholarships,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), discount tuition ,http://www.bluefield.edu/tuition/,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), offer tuition discount ,https://bluefieldstate.edu/tuition/scholarships,0,NaN
+0,Bluefield State College,st_change_tuition_(<=), offer tuition discount ,https://www.bdtonline.com/news/bluefield-state-announces-free-tuition-for-qualified-students/article_03106dd8-9238-11e9-840e-3f92ac9c813c.html,0,NaN
+0,Concord University,st_change_tuition_(<=), reduce tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx,0,NaN
+0,Concord University,st_change_tuition_(<=), reduce tuition ,https://concordacademy.org/admissions/financial-aid/,0,NaN
+0,Concord University,st_change_tuition_(<=), freeze tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx,0,NaN
+0,Concord University,st_change_tuition_(<=), freeze tuition ,https://concordacademy.org/admissions/financial-aid/,0,NaN
+0,Concord University,st_change_tuition_(<=), differ tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx,0,NaN
+0,Concord University,st_change_tuition_(<=), differ tuition ,https://concordacademy.org/admissions/financial-aid/,0,NaN
+0,Concord University,st_change_tuition_(<=), decrease tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx,0,NaN
+0,Concord University,st_change_tuition_(<=), decrease tuition ,https://concordacademy.org/admissions/financial-aid/,0,NaN
+0,Concord University,st_change_tuition_(<=), lower tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx,0,NaN
+0,Concord University,st_change_tuition_(<=), lower tuition ,https://concordacademy.org/admissions/financial-aid/,0,NaN
+0,Concord University,st_change_tuition_(<=), discount tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx,0,NaN
+0,Concord University,st_change_tuition_(<=), discount tuition ,https://www.rivier.edu/financial-aid/tuition-fees/strategic-partners-program/,0,NaN
+0,Concord University,st_change_tuition_(<=), offer tuition discount ,https://www.concord.edu/Financial-Aid/Tuition-Fees.aspx,0,NaN
+0,Concord University,st_change_tuition_(<=), offer tuition discount ,https://www.petersons.com/college-search/concord-university-000_10002203.aspx,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), reduce tuition ,https://www.fairmontstate.edu/studentservices/student-accounts/tuition-fees-charts,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), reduce tuition ,https://www.usnews.com/best-colleges/fairmont-state-3812,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), freeze tuition ,https://www.fairmontstate.edu/studentservices/student-accounts/tuition-fees-charts,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), freeze tuition ,https://www.usnews.com/best-colleges/fairmont-state-3812,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), differ tuition ,https://www.fairmontstate.edu/studentservices/student-accounts/tuition-fees-charts,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), differ tuition ,https://www.usnews.com/best-colleges/fairmont-state-3812,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), decrease tuition ,https://www.fairmontstate.edu/studentservices/student-accounts/tuition-fees-charts,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), decrease tuition ,https://www.usnews.com/best-colleges/fairmont-state-3812,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), lower tuition ,https://www.fairmontstate.edu/studentservices/student-accounts/tuition-fees-charts,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), lower tuition ,https://www.usnews.com/best-colleges/fairmont-state-3812,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), discount tuition ,https://www.fairmontstate.edu/studentservices/student-accounts/tuition-fees-charts,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), discount tuition ,https://www.usnews.com/best-colleges/fairmont-state-3812,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), offer tuition discount ,https://www.fairmontstate.edu/studentservices/registrar/residency,0,NaN
+0,Fairmont State University,st_change_tuition_(<=), offer tuition discount ,https://www.usnews.com/best-colleges/fairmont-state-3812,0,NaN
+0,Glenville State College,st_change_tuition_(<=), reduce tuition ,https://www.glenville.edu/admissions/tuition-fees,0,NaN
+0,Glenville State College,st_change_tuition_(<=), reduce tuition ,https://www.collegesimply.com/colleges/west-virginia/glenville-state-college/price/,0,NaN
+0,Glenville State College,st_change_tuition_(<=), freeze tuition ,https://www.wtap.com/content/news/Glenville-State-College-says-its-reducing-not-raising-student-fees-433916673.html,0,NaN
+0,Glenville State College,st_change_tuition_(<=), freeze tuition ,https://www.glenville.edu/admissions/tuition-fees,0,NaN
+0,Glenville State College,st_change_tuition_(<=), differ tuition ,https://www.glenville.edu/admissions/tuition-fees,0,NaN
+0,Glenville State College,st_change_tuition_(<=), differ tuition ,https://www.collegesimply.com/colleges/west-virginia/glenville-state-college/price/,0,NaN
+0,Glenville State College,st_change_tuition_(<=), decrease tuition ,https://www.glenville.edu/admissions/tuition-fees,0,NaN
+0,Glenville State College,st_change_tuition_(<=), decrease tuition ,https://www.collegesimply.com/colleges/west-virginia/glenville-state-college/price/,0,NaN
+0,Glenville State College,st_change_tuition_(<=), lower tuition ,https://www.glenville.edu/admissions/tuition-fees,0,NaN
+0,Glenville State College,st_change_tuition_(<=), lower tuition ,https://www.collegesimply.com/colleges/west-virginia/glenville-state-college/price/,0,NaN
+0,Glenville State College,st_change_tuition_(<=), discount tuition ,https://www.glenville.edu/academics/online/discounts,0,NaN
+0,Glenville State College,st_change_tuition_(<=), discount tuition ,https://www.collegesimply.com/colleges/west-virginia/glenville-state-college/price/,0,NaN
+0,Glenville State College,st_change_tuition_(<=), offer tuition discount ,https://www.glenville.edu/,0,NaN
+0,Glenville State College,st_change_tuition_(<=), offer tuition discount ,https://www.usnews.com/best-colleges/glenville-state-college-3813,0,NaN
+0,Marshall University,st_change_tuition_(<=), reduce tuition ,https://www.marshall.edu/tuition/,0,NaN
+0,Marshall University,st_change_tuition_(<=), reduce tuition ,https://www.marshallschool.org/admissions/affordingmarshall,0,NaN
+0,Marshall University,st_change_tuition_(<=), freeze tuition ,https://www.marshall.edu/tuition/,0,NaN
+0,Marshall University,st_change_tuition_(<=), freeze tuition ,https://www.marshallschool.org/admissions/affordingmarshall,0,NaN
+0,Marshall University,st_change_tuition_(<=), differ tuition ,https://www.marshall.edu/tuition/,0,NaN
+0,Marshall University,st_change_tuition_(<=), differ tuition ,https://www.marshallschool.org/admissions/affordingmarshall,0,NaN
+0,Marshall University,st_change_tuition_(<=), decrease tuition ,https://www.marshall.edu/tuition/,0,NaN
+0,Marshall University,st_change_tuition_(<=), decrease tuition ,https://www.marshallschool.org/admissions/affordingmarshall,0,NaN
+0,Marshall University,st_change_tuition_(<=), lower tuition ,https://www.marshall.edu/news/2020/06/25/board-of-governors-approves-reduced-2020-21-budget-no-tuition-or-residence-hall-increases-for-coming-academic-year/?utm_source=homepage&utm_medium=website&utm_campaign=news,0,NaN
+0,Marshall University,st_change_tuition_(<=), lower tuition ,https://www.marshallschool.org/admissions/affordingmarshall,0,NaN
+0,Marshall University,st_change_tuition_(<=), discount tuition ,https://www.marshall.edu/tuition/2020-summer-sessions/,0,NaN
+0,Marshall University,st_change_tuition_(<=), discount tuition ,https://www.marshallschool.org/admissions/affordingmarshall,0,NaN
+0,Marshall University,st_change_tuition_(<=), offer tuition discount ,https://www.marshall.edu/sfa/types-of-aid/marshall-university-scholarships-for-non-resident-applicants/,0,NaN
+0,Marshall University,st_change_tuition_(<=), offer tuition discount ,https://www.ohiohighered.org/tuition-reciprocity,0,NaN
+0,Shepherd University,st_change_tuition_(<=), reduce tuition ,https://www.shepherd.edu/admissions/undergraduate-tuition-and-fees,0,NaN
+0,Shepherd University,st_change_tuition_(<=), reduce tuition ,https://www.collegecalc.org/colleges/west-virginia/shepherd-university/,0,NaN
+0,Shepherd University,st_change_tuition_(<=), freeze tuition ,https://www.heraldmailmedia.com/shepherd-freezes-tuition-approves-tobacco-free-campus/article_cbc9f573-6367-57c2-a6fb-bc8c3da5e5b4.html,1,"      email        print        save                 shepherdstown, w.va. — shepherd university will freeze tuition for the 2020-21 academic year. the shepherd university board of governors approved t"
+0,Shepherd University,st_change_tuition_(<=), freeze tuition ,https://www.shepherd.edu/admissions/undergraduate-tuition-and-fees,0,NaN
+0,Shepherd University,st_change_tuition_(<=), differ tuition ,https://www.shepherd.edu/admissions/undergraduate-tuition-and-fees,0,NaN
+0,Shepherd University,st_change_tuition_(<=), differ tuition ,https://www.collegecalc.org/colleges/west-virginia/shepherd-university/,0,NaN
+0,Shepherd University,st_change_tuition_(<=), decrease tuition ,https://www.shepherd.edu/admissions/undergraduate-tuition-and-fees,0,NaN
+0,Shepherd University,st_change_tuition_(<=), decrease tuition ,https://www.collegecalc.org/colleges/west-virginia/shepherd-university/,0,NaN
+0,Shepherd University,st_change_tuition_(<=), lower tuition ,https://www.shepherd.edu/admissions/undergraduate-tuition-and-fees,0,NaN
+0,Shepherd University,st_change_tuition_(<=), lower tuition ,https://ga.rice.edu/graduate-students/student-services-organizations/tuition-fees-expenses/,0,NaN
+0,Shepherd University,st_change_tuition_(<=), discount tuition ,https://www.collegesimply.com/colleges/west-virginia/shepherd-university/price/,0,NaN
+0,Shepherd University,st_change_tuition_(<=), discount tuition ,https://www.shepherd.edu/admissions/undergraduate-tuition-and-fees,0,NaN
+0,Shepherd University,st_change_tuition_(<=), offer tuition discount ,https://www.shepherd.edu/hr/tuition-waivers/,0,NaN
+0,Shepherd University,st_change_tuition_(<=), offer tuition discount ,https://www.liberty.edu/student-financial-services/scholarships/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), reduce tuition ,https://westliberty.edu/admissions/costs/metro/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), reduce tuition ,https://www.collegecalc.org/colleges/west-virginia/west-liberty-university/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), freeze tuition ,https://westliberty.edu/admissions/costs/metro/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), freeze tuition ,https://www.collegecalc.org/colleges/west-virginia/west-liberty-university/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), differ tuition ,https://westliberty.edu/admissions/costs/metro/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), differ tuition ,https://www.collegecalc.org/colleges/west-virginia/west-liberty-university/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), decrease tuition ,https://westliberty.edu/admissions/costs/metro/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), decrease tuition ,https://www.liberty.edu/residential/tuition-and-fees/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), lower tuition ,https://westliberty.edu/admissions/costs/metro/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), lower tuition ,https://www.liberty.edu/online/tuition-and-fees/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), discount tuition ,https://westliberty.edu/admissions/costs/metro/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), discount tuition ,https://www.liberty.edu/online/first-responder-discount/,0,NaN
+0,West Liberty University,st_change_tuition_(<=), offer tuition discount ,https://www.liberty.edu/student-financial-services/scholarships/,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), reduce tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), reduce tuition ,https://tuition.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), freeze tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), freeze tuition ,https://tuition.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), differ tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), differ tuition ,https://tuition.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), decrease tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), decrease tuition ,https://tuition.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), lower tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), lower tuition ,https://tuition.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), discount tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), discount tuition ,https://tuition.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), offer tuition discount ,https://financialaid.wvu.edu/waivers,0,NaN
+0,West Virginia University at Parkersburg,st_change_tuition_(<=), offer tuition discount ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), reduce tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), reduce tuition ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), freeze tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), freeze tuition ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), differ tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), differ tuition ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), decrease tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), decrease tuition ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), lower tuition ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), lower tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), discount tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), discount tuition ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), offer tuition discount ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia University Institute of Technology,st_change_tuition_(<=), offer tuition discount ,https://www.wvu.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), reduce tuition ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), reduce tuition ,https://admissions.potomacstatecollege.edu/cost-and-aid/tuition-and-fees,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), freeze tuition ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), freeze tuition ,https://admissions.potomacstatecollege.edu/cost-and-aid/tuition-and-fees,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), differ tuition ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), differ tuition ,https://admissions.potomacstatecollege.edu/cost-and-aid/tuition-and-fees,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), decrease tuition ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), decrease tuition ,https://admissions.potomacstatecollege.edu/cost-and-aid/tuition-and-fees,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), lower tuition ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), lower tuition ,https://admissions.potomacstatecollege.edu/cost-and-aid/tuition-and-fees,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), discount tuition ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), discount tuition ,https://admissions.potomacstatecollege.edu/cost-and-aid/tuition-and-fees,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), offer tuition discount ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_change_tuition_(<=), offer tuition discount ,https://admissions.potomacstatecollege.edu/cost-and-aid/tuition-and-fees,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), reduce tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), reduce tuition ,https://www.wvstateu.edu/getattachment/Admissions/Financial-Aid/Sections/2019-2020-Cost-of-Attendance/WVSU-2019-2020-Financial-Aid-Award-Package-Estimated-Cost-of-Attendance.pdf.aspx?lang=en-US,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), freeze tuition ,https://wvutoday.wvu.edu/stories/2019/04/12/west-virginia-university-approves-minimal-tuition-and-fee-increase-for-2019-20,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), freeze tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), differ tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), differ tuition ,https://www.wvstateu.edu/getattachment/Admissions/Financial-Aid/Sections/2019-2020-Cost-of-Attendance/WVSU-2019-2020-Financial-Aid-Award-Package-Estimated-Cost-of-Attendance.pdf.aspx?lang=en-US,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), decrease tuition ,https://www.frostburg.edu/about-frostburg/Administrative-Offices/billing-office/regional-tuition-rate.php,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), decrease tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), lower tuition ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), lower tuition ,https://summer.wvu.edu/cost,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), discount tuition ,https://www.ohiohighered.org/tuition-reciprocity,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), discount tuition ,http://catalog.wvu.edu/undergraduate/residency/,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), offer tuition discount ,https://www.ohiohighered.org/tuition-reciprocity,0,NaN
+0,West Virginia State University,st_change_tuition_(<=), offer tuition discount ,https://admissions.wvu.edu/cost-and-aid,0,NaN
+0,Central Washington University,st_change_tuition_(<=), reduce tuition ,https://www.cwu.edu/summer/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(<=), reduce tuition ,http://www.cwu.edu/csel/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(<=), freeze tuition ,https://www.cwu.edu/summer/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(<=), freeze tuition ,https://www.seattletimes.com/education-lab/is-a-college-tuition-freeze-likely/,0,NaN
+0,Central Washington University,st_change_tuition_(<=), differ tuition ,https://www.cwu.edu/summer/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(<=), differ tuition ,http://www.cwu.edu/csel/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(<=), decrease tuition ,https://www.usatoday.com/story/college/2016/06/27/tuition-gets-lowered-at-another-washington-state-university/37418959/,0,NaN
+0,Central Washington University,st_change_tuition_(<=), decrease tuition ,https://www.cwu.edu/summer/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(<=), lower tuition ,https://www.cwu.edu/summer/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(<=), lower tuition ,http://www.cwu.edu/csel/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(<=), discount tuition ,https://www.cwu.edu/dining/residential-meal-plans,0,NaN
+0,Central Washington University,st_change_tuition_(<=), discount tuition ,http://www.cwu.edu/csel/tuition-and-fees,0,NaN
+0,Central Washington University,st_change_tuition_(<=), offer tuition discount ,https://www.cwu.edu/scholarships/,0,NaN
+0,Central Washington University,st_change_tuition_(<=), offer tuition discount ,https://www.usnews.com/best-colleges/central-washington-university-3771,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), reduce tuition ,https://www.ewu.edu/,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), reduce tuition ,https://www.washingtonpost.com/education/2020/04/16/college-students-are-rebelling-against-full-tuition-after-classes-move-online/,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), freeze tuition ,https://www.ewu.edu/,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), freeze tuition ,https://inside.ewu.edu/financialservices/student-financial-services/costs-and-fees/,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), differ tuition ,https://www.ewu.edu/,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), differ tuition ,https://inside.ewu.edu/financialservices/student-financial-services/costs-and-fees/,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), decrease tuition ,https://www.usatoday.com/story/college/2016/06/27/tuition-gets-lowered-at-another-washington-state-university/37418959/,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), decrease tuition ,https://www.ewu.edu/,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), lower tuition ,https://www.collegetuitioncompare.com/edu/235097/eastern-washington-university/tuition/,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), lower tuition ,https://www.ewu.edu/,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), discount tuition ,https://www.ewu.edu/,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), discount tuition ,https://www.american.edu/finance/studentaccounts/tuition-and-fees-information.cfm,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), offer tuition discount ,https://inside.ewu.edu/policies/knowledge-base/ewu-409-04-state-and-instructional-employee-tuition-waivers/,0,NaN
+0,Eastern Washington University,st_change_tuition_(<=), offer tuition discount ,https://www.ewu.edu/apply/tuition/scholarships/,0,NaN
+0,University of Wyoming,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://retirement.state.wy.us/en/DC,0,NaN
+0,University of Wyoming,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://post.edu/associate-experience/career-opportunities/,0,NaN
+0,University of Wyoming,st_reduce_hiring, hiring freeze ,https://trib.com/news/state-and-regional/uw-institutes-hiring-freeze-amid-pandemic/article_f3d1a2af-e118-511b-830c-55d70783c9d9.html,1,  facebook        twitter        whatsapp        sms        email                      uw institutes hiring freeze amid pandemic     view comments   share this      facebook        twitter        what
+0,University of Wyoming,st_reduce_hiring, hiring freeze ,https://trib.com/news/state-and-regional/uw-institutes-hiring-freeze-amid-pandemic/article_f3d1a2af-e118-511b-830c-55d70783c9d9.html,1,"p        sms        email        print        save                                     uw institutes hiring freeze amid pandemic      daniel bendtsen
+laramie boomerang
+via wyoming news exchange   apr "
+0,University of Wyoming,st_reduce_hiring, hiring freeze ,https://trib.com/news/state-and-regional/uw-institutes-hiring-freeze-amid-pandemic/article_f3d1a2af-e118-511b-830c-55d70783c9d9.html,1,e of the issues that are really prevalent today.”    view comments   tags   university of wyoming    hiring freeze    coronavirus           concerned about covid-19?  sign up now to get the most recen
+0,University of Wyoming,st_reduce_hiring, hiring freeze ,http://www.uwbrandingiron.com/2020/05/08/hiring-restriction/,0,NaN
+0,University of Wyoming,st_reduce_hiring, halt hiring ,https://employment.ku.edu/,0,NaN
+0,University of Wyoming,st_reduce_hiring, halt hiring ,https://www.eastern.edu/about/offices-centers/human-resources/employment-opportunities,0,NaN
+0,University of Wyoming,st_reduce_hiring, halt non-essential hiring ,https://www.post-journal.com/news/latest-news/2020/03/non-essential-employees-must-stay-home-gatherings-banned/,0,NaN
+0,University of Wyoming,st_reduce_hiring, halt non-essential hiring ,https://www.dir.ca.gov/dlse/Essential-and-Non-essential-Workers.htm,0,NaN
+0,University of Wyoming,st_reduce_hiring, hiring pause ,https://trib.com/news/state-and-regional/uw-institutes-hiring-freeze-amid-pandemic/article_f3d1a2af-e118-511b-830c-55d70783c9d9.html,0,NaN
+0,University of Wyoming,st_reduce_hiring, hiring pause ,https://apnews.com/UniversityofWyoming,0,NaN
+0,University of Wyoming,st_reduce_hiring, pausing hiring ,https://employment.ku.edu/,0,NaN
+0,University of Wyoming,st_reduce_hiring, pausing hiring ,https://www.eastern.edu/about/offices-centers/human-resources/employment-opportunities,0,NaN
+0,University of Wyoming,st_reduce_hiring, freeze recruitment ,https://oilcity.news/community/weather/2020/08/31/photos-cold-front-brings-snow-to-wyoming-freeze-warning-issued/,0,NaN
+0,University of Wyoming,st_reduce_hiring, freeze recruitment ,https://www.timeshighereducation.com/unijobs/listings/,0,NaN
+0,University of Wyoming,st_reduce_hiring, suspend hiring ,https://employment.ku.edu/,0,NaN
+0,University of Wyoming,st_reduce_hiring, suspend hiring ,https://www.eastern.edu/about/offices-centers/human-resources/employment-opportunities,0,NaN
+0,University of Wyoming,st_reduce_hiring, hiring chill ,http://www.uwyo.edu/hr/prospective/,0,NaN
+0,University of Wyoming,st_reduce_hiring, hiring chill ,https://www.linkedin.com/jobs/view/auxiliary-operator-at-university-of-wyoming-2155809838,0,NaN
+0,Bluefield State College,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://bluefieldstate.edu/resources/human-resources/jobs,0,NaN
+0,Bluefield State College,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://ncaamarket.ncaa.org/jobs/13838375/head-coach-football,0,NaN
+0,Bluefield State College,st_reduce_hiring, hiring freeze ,http://www.wvhepc.edu/resources/human-resources-and-legal/,0,NaN
+0,Bluefield State College,st_reduce_hiring, hiring freeze ,https://www.intuit.com/careers/,0,NaN
+0,Bluefield State College,st_reduce_hiring, halt hiring ,https://bluefieldstate.edu/resources/human-resources,0,NaN
+0,Bluefield State College,st_reduce_hiring, halt hiring ,https://www.higheredjobs.com/institution/search.cfm?University=Bluefield%20State%20College,0,NaN
+0,Bluefield State College,st_reduce_hiring, halt non-essential hiring ,E failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, halt non-essential hiring ,R failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, halt non-essential hiring ,R failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, halt non-essential hiring ,O failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, halt non-essential hiring ,R failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, hiring pause ,http://www.wvhepc.edu/resources/human-resources-and-legal/,0,NaN
+0,Bluefield State College,st_reduce_hiring, hiring pause ,https://www.intuit.com/careers/,0,NaN
+0,Bluefield State College,st_reduce_hiring, pausing hiring ,https://bluefieldstate.edu/resources/human-resources,0,NaN
+0,Bluefield State College,st_reduce_hiring, pausing hiring ,https://www.higheredjobs.com/institution/search.cfm?University=Bluefield%20State%20College,0,NaN
+0,Bluefield State College,st_reduce_hiring, freeze recruitment ,https://bluefieldstate.edu/resources/human-resources,0,NaN
+0,Bluefield State College,st_reduce_hiring, freeze recruitment ,https://jobboard.afca.com/jobs/13838375/head-coach-football,0,NaN
+0,Bluefield State College,st_reduce_hiring, suspend hiring ,https://bluefieldstate.edu/resources/human-resources,0,NaN
+0,Bluefield State College,st_reduce_hiring, suspend hiring ,https://www.higheredjobs.com/institution/search.cfm?University=Bluefield%20State%20College,0,NaN
+0,Bluefield State College,st_reduce_hiring, hiring chill ,https://www.intuit.com/careers/,0,NaN
+0,Bluefield State College,st_reduce_hiring, hiring chill ,https://www.hfcc.edu/,0,NaN
+0,Concord University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,"https://www.indeed.com/l-Concord,-NC-jobs.html",0,NaN
+0,Concord University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,"https://www.glassdoor.com/Job/concord-jobs-SRCH_IL.0,7_IC1138646.htm",0,NaN
+0,Concord University,st_reduce_hiring, hiring freeze ,http://www.thedp.com/article/2020/04/penn-hiring-freeze-med-teaching-assistants-lecturers,1,"tudent-run nonprofit.  please support us by disabling your ad blocker on our site.        university hiring freeze will not affect lecturers, penn med employees, or tas                by elizabeth mei"
+0,Concord University,st_reduce_hiring, hiring freeze ,http://www.thedp.com/article/2020/04/penn-hiring-freeze-med-teaching-assistants-lecturers,1," the fiscal year 2021 hiring freeze.
+																				credit: ari stonberg    the university-wide hiring freeze for the 2021 fiscal year will not affect the hiring and replacement of student teachi"
+0,Concord University,st_reduce_hiring, hiring freeze ,http://www.thedp.com/article/2020/04/penn-hiring-freeze-med-teaching-assistants-lecturers,1,and executive vice president craig carnaroli announced in an email that the university would enter a hiring freeze on all positions except grant-funded positions approved by the “highest level of the 
+0,Concord University,st_reduce_hiring, hiring freeze ,http://www.thedp.com/article/2020/04/penn-hiring-freeze-med-teaching-assistants-lecturers,1," email to the dp that student tas and lecturers without tenure will still work and be paid under the hiring freeze for the next academic year.      ""[if non-tenured faculty's contracts expire], there "
+0,Concord University,st_reduce_hiring, hiring freeze ,https://www.dailytargum.com/article/2020/04/editorial-universitys-hiring-freeze-was-enacted-prematurely,1," contact  alumni  get involved  classifieds                                  editorial: university's hiring freeze was enacted prematurely   rutgers must look to other areas for cuts    april 17, 2020"
+0,Concord University,st_reduce_hiring, hiring freeze ,https://www.dailytargum.com/article/2020/04/editorial-universitys-hiring-freeze-was-enacted-prematurely,1," editorials represent the views of the majority of the 152nd editorial board.    rutgers announced a hiring freeze on april 2 , a move that most have considered to marginalize part-time lecturers (ptl"
+0,Concord University,st_reduce_hiring, hiring freeze ,https://www.dailytargum.com/article/2020/04/editorial-universitys-hiring-freeze-was-enacted-prematurely,1,"ess attractive to potential students and is without a doubt shooting itself in the foot.  this whole hiring freeze is a premature act of unadulterated short-sightedness, one perpetrated by hyper busin"
+0,Concord University,st_reduce_hiring, halt hiring ,https://agency.governmentjobs.com/concord/default.cfm,0,NaN
+0,Concord University,st_reduce_hiring, halt hiring ,"https://www.indeed.com/l-Concord,-NC-jobs.html",0,NaN
+0,Concord University,st_reduce_hiring, halt non-essential hiring ,https://www.dir.ca.gov/dlse/Essential-and-Non-essential-Workers.htm,0,NaN
+0,Concord University,st_reduce_hiring, halt non-essential hiring ,https://www.usatoday.com/story/money/business/2020/03/21/coronavirus-conditions-lead-state-decisions-essential-businesses/2884758001/,0,NaN
+0,Concord University,st_reduce_hiring, hiring pause ,http://www.thedp.com/article/2020/04/penn-hiring-freeze-med-teaching-assistants-lecturers,0,NaN
+0,Concord University,st_reduce_hiring, hiring pause ,https://www.dailytargum.com/article/2020/04/editorial-universitys-hiring-freeze-was-enacted-prematurely,0,NaN
+0,Concord University,st_reduce_hiring, pausing hiring ,https://agency.governmentjobs.com/concord/default.cfm,0,NaN
+0,Concord University,st_reduce_hiring, pausing hiring ,"https://www.indeed.com/l-Concord,-NC-jobs.html",0,NaN
+0,Concord University,st_reduce_hiring, freeze recruitment ,"https://www.indeed.com/q-Now-Hiring-l-Concord,-NH-jobs.html",0,NaN
+0,Concord University,st_reduce_hiring, freeze recruitment ,https://www.concord.edu/http/www-concord-edu/About/Important-Offices-Centers/Human-Resources-Jobs-aspx.aspx,0,NaN
+0,Concord University,st_reduce_hiring, suspend hiring ,https://agency.governmentjobs.com/concord/default.cfm,0,NaN
+0,Concord University,st_reduce_hiring, suspend hiring ,"https://www.indeed.com/l-Concord,-NC-jobs.html",0,NaN
+0,Concord University,st_reduce_hiring, hiring chill ,https://www.concord.edu/http/www-concord-edu/About/Important-Offices-Centers/Human-Resources-Jobs-aspx.aspx,0,NaN
+0,Concord University,st_reduce_hiring, hiring chill ,"https://www.indeed.com/q-Concord-University-l-Athens,-WV-jobs.html",0,NaN
+0,Fairmont State University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://www.fairmontstate.edu/adminfiscalaffairs/human-resources/job-opportunities,0,NaN
+0,Fairmont State University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,"https://www.indeed.com/l-Fairmont,-WV-jobs.html",0,NaN
+0,Fairmont State University,st_reduce_hiring, hiring freeze ,https://www.knau.org/post/governor-vetos-university-hiring-freeze,1,er    contact us      contest rules    search                              governor vetos university hiring freeze    share tweet email     by howard fischer            listen  listening...           
+0,Fairmont State University,st_reduce_hiring, hiring freeze ,https://www.insidehighered.com/news/2020/04/01/scores-colleges-announce-faculty-hiring-freezes-response-coronavirus,1,ivities that may need to happen prior to a start date.”  a spokesperson for minnesota noted that the hiring freeze is “not absolute.” exempt categories include those for covid-19-related positions in 
+0,Fairmont State University,st_reduce_hiring, halt hiring ,https://www.fairmontstate.edu/studentservices/career-services,0,NaN
+0,Fairmont State University,st_reduce_hiring, halt hiring ,"https://www.indeed.com/q-Fairmont-State-l-Clarksburg,-WV-jobs.html",0,NaN
+0,Fairmont State University,st_reduce_hiring, halt non-essential hiring ,https://www.newsbreak.com/missouri/st.-louis/news/1524765810457/slu-and-maryville-university-halt-face-to-face-classes-over-coronavirus-concerns,0,NaN
+0,Fairmont State University,st_reduce_hiring, hiring pause ,https://www.fairmontstate.edu/node/18036/attachment/newest,0,NaN
+0,Fairmont State University,st_reduce_hiring, hiring pause ,https://www.knau.org/post/governor-vetos-university-hiring-freeze,0,NaN
+0,Fairmont State University,st_reduce_hiring, pausing hiring ,https://www.fairmontstate.edu/studentservices/career-services,0,NaN
+0,Fairmont State University,st_reduce_hiring, pausing hiring ,"https://www.indeed.com/q-Fairmont-State-l-Clarksburg,-WV-jobs.html",0,NaN
+0,Fairmont State University,st_reduce_hiring, freeze recruitment ,https://www.fairmontstate.edu/studentservices/career-services,0,NaN
+0,Fairmont State University,st_reduce_hiring, freeze recruitment ,"https://www.indeed.com/q-Fairmont-State-l-Clarksburg,-WV-jobs.html",0,NaN
+0,Fairmont State University,st_reduce_hiring, suspend hiring ,https://www.fairmontstate.edu/studentservices/career-services,0,NaN
+0,Fairmont State University,st_reduce_hiring, suspend hiring ,http://fairmontstate.edu/coronavirus,0,NaN
+0,Fairmont State University,st_reduce_hiring, hiring chill ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,Fairmont State University,st_reduce_hiring, hiring chill ,https://www.linkedin.com/jobs/view/sous-chef-dewick-dining-dining-services-at-tufts-university-2005541942,0,NaN
+0,Glenville State College,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://www.glenville.edu/financial-aid/work-opportunities,0,NaN
+0,Glenville State College,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://www.indeed.com/cmp/Glenville-State-College,0,NaN
+0,Glenville State College,st_reduce_hiring, hiring freeze ,http://www.wvhepc.edu/resources/human-resources-and-legal/,0,NaN
+0,Glenville State College,st_reduce_hiring, hiring freeze ,https://www.amc.edu/HR/careers.cfm,0,NaN
+0,Glenville State College,st_reduce_hiring, halt hiring ,https://www.glenville.edu/departments/land-resources/employment,0,NaN
+0,Glenville State College,st_reduce_hiring, halt hiring ,https://www.indeed.com/q-Glenville-State-jobs.html,0,NaN
+0,Glenville State College,st_reduce_hiring, halt non-essential hiring ,E failed,NaN,NaN
+0,Glenville State College,st_reduce_hiring, halt non-essential hiring ,R failed,NaN,NaN
+0,Glenville State College,st_reduce_hiring, halt non-essential hiring ,R failed,NaN,NaN
+0,Glenville State College,st_reduce_hiring, halt non-essential hiring ,O failed,NaN,NaN
+0,Glenville State College,st_reduce_hiring, halt non-essential hiring ,R failed,NaN,NaN
+0,Glenville State College,st_reduce_hiring, hiring pause ,http://www.wvhepc.edu/resources/human-resources-and-legal/,0,NaN
+0,Glenville State College,st_reduce_hiring, hiring pause ,https://www.amc.edu/HR/careers.cfm,0,NaN
+0,Glenville State College,st_reduce_hiring, pausing hiring ,https://www.glenville.edu/departments/land-resources/employment,0,NaN
+0,Glenville State College,st_reduce_hiring, pausing hiring ,https://www.indeed.com/q-Glenville-State-jobs.html,0,NaN
+0,Glenville State College,st_reduce_hiring, freeze recruitment ,https://www.glenville.edu/departments/land-resources/employment,0,NaN
+0,Glenville State College,st_reduce_hiring, freeze recruitment ,https://www.indeed.com/q-Glenville-State-jobs.html,0,NaN
+0,Glenville State College,st_reduce_hiring, suspend hiring ,https://www.glenville.edu/departments/land-resources/employment,0,NaN
+0,Glenville State College,st_reduce_hiring, suspend hiring ,https://www.indeed.com/q-Glenville-State-jobs.html,0,NaN
+0,Glenville State College,st_reduce_hiring, hiring chill ,https://apply.mysubwaycareer.com/us/en/careers/,0,NaN
+0,Glenville State College,st_reduce_hiring, hiring chill ,https://katemarrone84.wordpress.com/author/katemarrone84/,0,NaN
+0,Marshall University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://www.marshallmedical.org/Career-Opportunities.aspx,0,NaN
+0,Marshall University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://www.marshall.edu/human-resources/job-opportunities/,0,NaN
+0,Marshall University,st_reduce_hiring, hiring freeze ,https://www.marshall.edu/human-resources/,0,NaN
+0,Marshall University,st_reduce_hiring, halt hiring ,https://www.marshallhealth.org/about-marshall-health/employment/,0,NaN
+0,Marshall University,st_reduce_hiring, halt hiring ,https://www.marshallmedical.org/Career-Opportunities.aspx,0,NaN
+0,Marshall University,st_reduce_hiring, halt non-essential hiring ,https://www.ky3.com/content/news/LIST-Essential-and-non-essential-businesses-allowed-activities-under-Missouris-stay-at-home-order-569387651.html,0,NaN
+0,Marshall University,st_reduce_hiring, halt non-essential hiring ,https://www.cnn.com/2020/03/20/politics/new-york-workforce-stay-home/index.html,0,NaN
+0,Marshall University,st_reduce_hiring, hiring pause ,https://www.marshall.edu/human-resources/non-critical-personnel-freeze-protocol/,0,NaN
+0,Marshall University,st_reduce_hiring, pausing hiring ,https://www.marshallhealth.org/about-marshall-health/employment/,0,NaN
+0,Marshall University,st_reduce_hiring, pausing hiring ,https://www.marshallmedical.org/Career-Opportunities.aspx,0,NaN
+0,Marshall University,st_reduce_hiring, freeze recruitment ,https://www.marshall.edu/human-resources/job-opportunities/,0,NaN
+0,Marshall University,st_reduce_hiring, freeze recruitment ,https://www.marshallmedical.org/Career-Opportunities.aspx,0,NaN
+0,Marshall University,st_reduce_hiring, suspend hiring ,https://www.marshallhealth.org/about-marshall-health/employment/,0,NaN
+0,Marshall University,st_reduce_hiring, suspend hiring ,https://www.marshallmedical.org/Career-Opportunities.aspx,0,NaN
+0,Marshall University,st_reduce_hiring, hiring chill ,https://www.stltoday.com/news/local/education/siu-cutting-10-4-million-from-general-operating-budget-plus-3-million-from-athletics/article_dc489d9c-01bd-537a-aebc-59b45d8af956.amp.html,0,NaN
+0,Marshall University,st_reduce_hiring, hiring chill ,https://www.marshall.edu/human-resources/job-opportunities/,0,NaN
+0,Shepherd University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://www.shepherd.org/employment,0,NaN
+0,Shepherd University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,http://news.rice.edu/2020/04/06/rice-business-launches-deferred-enrollment-program-2/,0,NaN
+0,Shepherd University,st_reduce_hiring, hiring freeze ,https://www.indeed.com/cmp/Shepherd-University/reviews?fcountry=US&floc=Shepherdstown%2C+WV,0,NaN
+0,Shepherd University,st_reduce_hiring, hiring freeze ,http://www.thedp.com/article/2020/04/penn-hiring-freeze-med-teaching-assistants-lecturers,1,"tudent-run nonprofit.  please support us by disabling your ad blocker on our site.        university hiring freeze will not affect lecturers, penn med employees, or tas                by elizabeth mei"
+0,Shepherd University,st_reduce_hiring, hiring freeze ,http://www.thedp.com/article/2020/04/penn-hiring-freeze-med-teaching-assistants-lecturers,1," the fiscal year 2021 hiring freeze.
+																				credit: ari stonberg    the university-wide hiring freeze for the 2021 fiscal year will not affect the hiring and replacement of student teachi"
+0,Shepherd University,st_reduce_hiring, hiring freeze ,http://www.thedp.com/article/2020/04/penn-hiring-freeze-med-teaching-assistants-lecturers,1,and executive vice president craig carnaroli announced in an email that the university would enter a hiring freeze on all positions except grant-funded positions approved by the “highest level of the 
+0,Shepherd University,st_reduce_hiring, hiring freeze ,http://www.thedp.com/article/2020/04/penn-hiring-freeze-med-teaching-assistants-lecturers,1," email to the dp that student tas and lecturers without tenure will still work and be paid under the hiring freeze for the next academic year.      ""[if non-tenured faculty's contracts expire], there "
+0,Shepherd University,st_reduce_hiring, halt hiring ,https://www.shepherd.org/employment,0,NaN
+0,Shepherd University,st_reduce_hiring, halt hiring ,https://www.shepherd.edu/studentemployment,0,NaN
+0,Shepherd University,st_reduce_hiring, halt non-essential hiring ,https://www.dir.ca.gov/dlse/Essential-and-Non-essential-Workers.htm,0,NaN
+0,Shepherd University,st_reduce_hiring, halt non-essential hiring ,https://www.usatoday.com/story/money/business/2020/03/21/coronavirus-conditions-lead-state-decisions-essential-businesses/2884758001/,0,NaN
+0,Shepherd University,st_reduce_hiring, hiring pause ,https://www.indeed.com/cmp/Shepherd-University/reviews?fcountry=US&floc=Shepherdstown%2C+WV,0,NaN
+0,Shepherd University,st_reduce_hiring, hiring pause ,http://www.thedp.com/article/2020/04/penn-hiring-freeze-med-teaching-assistants-lecturers,0,NaN
+0,Shepherd University,st_reduce_hiring, pausing hiring ,https://www.shepherd.org/employment,0,NaN
+0,Shepherd University,st_reduce_hiring, pausing hiring ,https://www.shepherd.edu/studentemployment,0,NaN
+0,Shepherd University,st_reduce_hiring, freeze recruitment ,https://www.shepherd.edu/admissions,0,NaN
+0,Shepherd University,st_reduce_hiring, freeze recruitment ,https://www.shepherd.org/employment,0,NaN
+0,Shepherd University,st_reduce_hiring, suspend hiring ,https://www.shepherd.org/employment,0,NaN
+0,Shepherd University,st_reduce_hiring, suspend hiring ,https://www.shepherd.edu/studentemployment,0,NaN
+0,Shepherd University,st_reduce_hiring, hiring chill ,https://www.shepherd.edu/hr/jobs.html,0,NaN
+0,Shepherd University,st_reduce_hiring, hiring chill ,https://www.indeed.com/cmp/Shepherd-University,0,NaN
+0,West Liberty University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,"https://www.indeed.com/l-West-Liberty,-KY-jobs.html",0,NaN
+0,West Liberty University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://westliberty.edu/human-resources/,0,NaN
+0,West Liberty University,st_reduce_hiring, hiring freeze ,https://www.wtkr.com/2018/12/07/after-moral-turpitude-costs-him-ole-miss-job-hugh-freeze-hired-as-liberty-universitys-head-football-coach,0,NaN
+0,West Liberty University,st_reduce_hiring, hiring freeze ,https://www.the-scientist.com/news-opinion/universities-issue-hiring-freezes-in-response-to-covid-19-67334,1,"h committee for a faculty job to which she had applied. due to the covid-19 pandemic and a resulting hiring freeze at the university, ray says the email read, the search and position had been canceled"
+0,West Liberty University,st_reduce_hiring, halt hiring ,"https://www.indeed.com/l-West-Liberty,-WV-jobs.html",0,NaN
+0,West Liberty University,st_reduce_hiring, halt hiring ,https://westliberty.edu/financial-aid/student-information-student-employment/,0,NaN
+0,West Liberty University,st_reduce_hiring, halt non-essential hiring ,https://www.newspapers.com/newspage/148283517/,0,NaN
+0,West Liberty University,st_reduce_hiring, hiring pause ,https://www.wtkr.com/2018/12/07/after-moral-turpitude-costs-him-ole-miss-job-hugh-freeze-hired-as-liberty-universitys-head-football-coach,0,NaN
+0,West Liberty University,st_reduce_hiring, pausing hiring ,"https://www.indeed.com/l-West-Liberty,-WV-jobs.html",0,NaN
+0,West Liberty University,st_reduce_hiring, pausing hiring ,https://westliberty.edu/financial-aid/student-information-student-employment/,0,NaN
+0,West Liberty University,st_reduce_hiring, freeze recruitment ,https://westliberty.edu/financial-aid/student-information-student-employment/,0,NaN
+0,West Liberty University,st_reduce_hiring, freeze recruitment ,"https://www.indeed.com/l-West-Liberty,-WV-jobs.html",0,NaN
+0,West Liberty University,st_reduce_hiring, suspend hiring ,"https://www.indeed.com/l-West-Liberty,-WV-jobs.html",0,NaN
+0,West Liberty University,st_reduce_hiring, suspend hiring ,https://westliberty.edu/financial-aid/student-information-student-employment/,0,NaN
+0,West Liberty University,st_reduce_hiring, hiring chill ,https://www.chicagotribune.com/topic/sexual-assault-topic/900/,0,NaN
+0,West Liberty University,st_reduce_hiring, hiring chill ,https://www.joinhandshake.com/,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://wvumedicine.org/careers/,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, hiring freeze ,https://www.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, hiring freeze ,https://admissions.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, halt hiring ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, halt hiring ,https://studentemployment.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, halt non-essential hiring ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, halt non-essential hiring ,https://studentemployment.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, hiring pause ,https://www.nbcnews.com/news/us-news/west-virginia-university-suspends-person-undergrad-classes-amid-spike-covid-n1239481,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, hiring pause ,https://www.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, pausing hiring ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, pausing hiring ,https://studentemployment.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, freeze recruitment ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, freeze recruitment ,https://studentemployment.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, suspend hiring ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, suspend hiring ,https://studentemployment.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, hiring chill ,https://www.wvu.edu/academics/programs,0,NaN
+0,West Virginia University at Parkersburg,st_reduce_hiring, hiring chill ,https://admissions.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://hr.wvutech.edu/employment-opportunities,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, hiring freeze ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, hiring freeze ,https://medicine.hsc.wvu.edu/eye/,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, halt hiring ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, halt hiring ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, hiring pause ,https://www.wvutech.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, hiring pause ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, pausing hiring ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, pausing hiring ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, freeze recruitment ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, freeze recruitment ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, suspend hiring ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, suspend hiring ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, hiring chill ,https://energy.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_reduce_hiring, hiring chill ,https://www.wvu.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://www.virginiawestern.edu/hr/openings.php,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, hiring freeze ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, hiring freeze ,https://admissions.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, halt hiring ,https://www.potomacstatecollege.edu/about/job-opportunities,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, halt hiring ,https://admissions.potomacstatecollege.edu/academics/majors,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, halt non-essential hiring ,https://www.potomacstatecollege.edu/about/job-opportunities,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, halt non-essential hiring ,https://admissions.potomacstatecollege.edu/academics/majors,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, hiring pause ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, hiring pause ,https://admissions.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, pausing hiring ,https://www.potomacstatecollege.edu/about/job-opportunities,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, pausing hiring ,https://admissions.potomacstatecollege.edu/academics/majors,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, freeze recruitment ,https://www.potomacstatecollege.edu/about/job-opportunities,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, freeze recruitment ,https://admissions.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, suspend hiring ,https://www.potomacstatecollege.edu/about/job-opportunities,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, suspend hiring ,https://admissions.potomacstatecollege.edu/academics/majors,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, hiring chill ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_reduce_hiring, hiring chill ,https://admissions.potomacstatecollege.edu/,0,NaN
+0,West Virginia State University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://dhhr.wv.gov/employment/Pages/default.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://personnel.wv.gov/empopp/Pages/default.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, hiring freeze ,https://www.newsandsentinel.com/news/business/2020/05/west-virginia-university-to-furlough-875-employees/,0,NaN
+0,West Virginia State University,st_reduce_hiring, hiring freeze ,https://www.wvstateu.edu/about/administration/human-resources.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, halt hiring ,https://dhhr.wv.gov/employment/Pages/default.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, halt hiring ,https://personnel.wv.gov/empopp/Pages/default.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, halt non-essential hiring ,https://personnel.wv.gov/empopp/Pages/default.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, halt non-essential hiring ,https://www.wvstateu.edu/jobs.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, hiring pause ,https://www.newsandsentinel.com/news/business/2020/05/west-virginia-university-to-furlough-875-employees/,0,NaN
+0,West Virginia State University,st_reduce_hiring, hiring pause ,https://www.wvstateu.edu/about/administration/human-resources.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, pausing hiring ,https://dhhr.wv.gov/employment/Pages/default.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, pausing hiring ,https://personnel.wv.gov/empopp/Pages/default.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, freeze recruitment ,https://dhhr.wv.gov/employment/Pages/default.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, freeze recruitment ,https://personnel.wv.gov/empopp/Pages/default.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, suspend hiring ,https://dhhr.wv.gov/employment/Pages/default.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, suspend hiring ,https://personnel.wv.gov/empopp/Pages/default.aspx,0,NaN
+0,West Virginia State University,st_reduce_hiring, hiring chill ,https://careers.wvu.edu/career-opportunities,0,NaN
+0,West Virginia State University,st_reduce_hiring, hiring chill ,http://www.vsu.edu/vsujobs/,0,NaN
+0,Central Washington University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://www.cwu.edu/hr/jobs,0,NaN
+0,Central Washington University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://careers.cwu.edu/,0,NaN
+0,Central Washington University,st_reduce_hiring, hiring freeze ,https://careers.cwu.edu/,1,"rmation becomes available. due to the current challenges we are facing, cwu has instituted a general hiring freeze and will only be filling positions on a limited basis. we hope you will check back fr"
+0,Central Washington University,st_reduce_hiring, hiring freeze ,https://www.cwu.edu/covid-19-update-academics-operations,0,NaN
+0,Central Washington University,st_reduce_hiring, halt hiring ,https://www.cwu.edu/hr/jobs,0,NaN
+0,Central Washington University,st_reduce_hiring, halt hiring ,https://careers.cwu.edu/,0,NaN
+0,Central Washington University,st_reduce_hiring, halt non-essential hiring ,https://www.insidehighered.com/news/2020/04/01/scores-colleges-announce-faculty-hiring-freezes-response-coronavirus,0,NaN
+0,Central Washington University,st_reduce_hiring, halt non-essential hiring ,https://testing.sjsu.edu/,0,NaN
+0,Central Washington University,st_reduce_hiring, hiring pause ,https://careers.cwu.edu/,0,NaN
+0,Central Washington University,st_reduce_hiring, hiring pause ,https://www.cwu.edu/covid-19-update-academics-operations,0,NaN
+0,Central Washington University,st_reduce_hiring, pausing hiring ,https://www.cwu.edu/hr/jobs,0,NaN
+0,Central Washington University,st_reduce_hiring, pausing hiring ,https://careers.cwu.edu/,0,NaN
+0,Central Washington University,st_reduce_hiring, freeze recruitment ,https://www.cwu.edu/hr/,0,NaN
+0,Central Washington University,st_reduce_hiring, freeze recruitment ,"https://www.indeed.com/q-Central-Washington-University-l-Ellensburg,-WA-jobs.html",0,NaN
+0,Central Washington University,st_reduce_hiring, suspend hiring ,https://www.cwu.edu/hr/jobs,0,NaN
+0,Central Washington University,st_reduce_hiring, suspend hiring ,https://careers.cwu.edu/,0,NaN
+0,Central Washington University,st_reduce_hiring, hiring chill ,https://www.washingtonpost.com/news/sports/wp/2016/11/29/in-hiring-ian-mccaw-liberty-university-sends-a-chilling-message/,0,NaN
+0,Central Washington University,st_reduce_hiring, hiring chill ,https://www.linkedin.com/jobs/view/maintenance-mechanic-1-mechanical-shop-wa210969589-at-central-washington-university-1505073187,0,NaN
+0,Eastern Washington University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://inside.ewu.edu/hr/apply-for-jobs/,0,NaN
+0,Eastern Washington University,st_reduce_hiring, deferred hiring deferred hiring of vacant positions ,https://www.indeed.com/q-Eastern-Washington-l-Washington-State-jobs.html,0,NaN
+0,Eastern Washington University,st_reduce_hiring, hiring freeze ,https://inside.ewu.edu/careercenter/student-recruiting-policies/,0,NaN
+0,Eastern Washington University,st_reduce_hiring, hiring freeze ,https://library.wustl.edu/about/employment/,1,"rch                      employment            unfortunately, washington university has instituted a hiring freeze as of march 2020, due to covid-19. we will post updates and new information here once"
+0,Eastern Washington University,st_reduce_hiring, halt hiring ,https://inside.ewu.edu/hr/apply-for-jobs/,0,NaN
+0,Eastern Washington University,st_reduce_hiring, halt hiring ,https://www.indeed.com/q-Eastern-Washington-l-Washington-State-jobs.html,0,NaN
+0,Eastern Washington University,st_reduce_hiring, halt non-essential hiring ,https://www.insidehighered.com/news/2020/04/01/scores-colleges-announce-faculty-hiring-freezes-response-coronavirus,0,NaN
+0,Eastern Washington University,st_reduce_hiring, halt non-essential hiring ,https://careers.usacares.org/spokane-wa/family-warming-center-community-support-staff/BF9DA1FB09BB448F829D0BB9FEC254E1/job/?vs=28,0,NaN
+0,Eastern Washington University,st_reduce_hiring, hiring pause ,https://inside.ewu.edu/hr/apply-for-jobs/,0,NaN
+0,Eastern Washington University,st_reduce_hiring, hiring pause ,https://library.wustl.edu/about/employment/,0,NaN
+0,Eastern Washington University,st_reduce_hiring, pausing hiring ,https://inside.ewu.edu/hr/apply-for-jobs/,0,NaN
+0,Eastern Washington University,st_reduce_hiring, pausing hiring ,https://www.indeed.com/q-Eastern-Washington-l-Washington-State-jobs.html,0,NaN
+0,Eastern Washington University,st_reduce_hiring, freeze recruitment ,https://library.wustl.edu/about/employment/,0,NaN
+0,Eastern Washington University,st_reduce_hiring, freeze recruitment ,https://inside.ewu.edu/hr/apply-for-jobs/,0,NaN
+0,Eastern Washington University,st_reduce_hiring, suspend hiring ,https://inside.ewu.edu/hr/apply-for-jobs/,0,NaN
+0,Eastern Washington University,st_reduce_hiring, suspend hiring ,https://www.ewu.edu/emergency/,0,NaN
+0,Eastern Washington University,st_reduce_hiring, hiring chill ,https://www.insidehighered.com/news/2020/04/01/scores-colleges-announce-faculty-hiring-freezes-response-coronavirus,0,NaN
+0,Eastern Washington University,st_reduce_hiring, hiring chill ,https://www.atlasobscura.com/things-to-do/washington,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, freeze salary increases ,https://www.cachevalleydaily.com/news/archive/2020/03/25/compensation-increases-in-store-for-university-employees/,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, freeze salary increases ,https://hr.osu.edu/services/compensation/amcp/,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no salary changes ,https://www.uwyo.edu/shser/corona-virus.html,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no salary changes ,http://www.uwyo.edu/reslife-dining/housing/residence_halls/admitted-students.html,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no merit increases ,https://www.usmd.edu/usm/adminfinance/hr/cola failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no merit increases ,http://provost.umich.edu/faculty/handbook/14/14.E.html,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, pay freeze ,https://www.indeed.com/cmp/University-of-Wyoming/salaries,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, pay freeze ,https://www.uwyo.edu/hr/classification-compensation/,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no raises ,https://law.justia.com/cases/federal/appellate-courts/ca10/18-8011/18-8011-2019-01-07.html,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no raises ,http://www.uwyo.edu/reportit/no-more/index.html,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no merit raises ,https://uh.edu/human-resources/compensation/merit/,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no merit raises ,https://hr.uiowa.edu/support/employee-relations/regent-merit-system-staff-afscme,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no pay raises ,https://law.justia.com/cases/federal/appellate-courts/ca10/18-8011/18-8011-2019-01-07.html,0,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no pay raises ,https://nomore.org/events/university-wyoming-no-week-events/,0,NaN
+0,Bluefield State College,st_salary_promotion_freeze, freeze salary increases ,https://www.sacbee.com/news/politics-government/the-state-worker/article236422798.html,0,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no salary changes ,https://bluefieldstate.edu/tuition/tuition-and-fees,0,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no salary changes ,https://www.npr.org/sections/codeswitch/2013/10/18/236345546/the-whitest-historically-black-college-in-america,0,NaN
+0,Bluefield State College,st_salary_promotion_freeze, pay freeze ,https://www.realcleareducation.com/articles/2020/05/15/colleges_that_receive_bailout_money_should_be_forced_to_cut_administrative_bloat_110420.html,0,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no raises ,https://www.npr.org/sections/codeswitch/2013/10/18/236345546/the-whitest-historically-black-college-in-america,0,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no pay raises ,https://www.npr.org/sections/codeswitch/2013/10/18/236345546/the-whitest-historically-black-college-in-america,0,NaN
+0,Concord University,st_salary_promotion_freeze, freeze salary increases ,https://www.concordmonitor.com/After-state-budget-increase-University-System-of-New-Hampshire-votes-to-freeze-in-state-tuition-29828169,0,NaN
+0,Concord University,st_salary_promotion_freeze, freeze salary increases ,https://vtdigger.org/2020/04/29/faculty-cuts-pay-reductions-considered-as-uvm-tightens-budget/,0,NaN
+0,Concord University,st_salary_promotion_freeze, no salary changes ,https://www.concord.edu/Student-Life/Student-Health-Wellness/tobaccofree.aspx,0,NaN
+0,Concord University,st_salary_promotion_freeze, no salary changes ,http://www.concordianonline.com/news/view.php/1026105/Dr-Boggess-Discusses-Changes,0,NaN
+0,Concord University,st_salary_promotion_freeze, no merit increases ,https://www.concord.edu/Student-Life/Student-Health-Wellness/tobaccofree.aspx,0,NaN
+0,Concord University,st_salary_promotion_freeze, pay freeze ,https://www.uhhospitals.org/myuhcare/pay-my-bill,0,NaN
+0,Concord University,st_salary_promotion_freeze, pay freeze ,https://www.purdueglobal.edu/tuition-financial-aid/tuition-reduction/,0,NaN
+0,Concord University,st_salary_promotion_freeze, no raises ,https://techcrunch.com/2018/10/30/concord-raises-25-million-for-its-contract-management-platform/,0,NaN
+0,Concord University,st_salary_promotion_freeze, no raises ,https://www.musicbusinessworldwide.com/concord-raises-another-600m-via-j-p-morgan-placed-debt-offering/,0,NaN
+0,Concord University,st_salary_promotion_freeze, no merit raises ,https://newsinteractive.post-gazette.com/small-private-colleges-struggling-to-succeed/,0,NaN
+0,Concord University,st_salary_promotion_freeze, no pay raises ,https://www.concord.edu/Student-Life/Student-Health-Wellness/tobaccofree.aspx,0,NaN
+0,Fairmont State University,st_salary_promotion_freeze, freeze salary increases ,https://www.fairmontstate.edu/adminfiscalaffairs/payroll,0,NaN
+0,Fairmont State University,st_salary_promotion_freeze, freeze salary increases ,https://www.glassdoor.com/Salary/Fairmont-State-University-Salaries-E261596.htm,0,NaN
+0,Fairmont State University,st_salary_promotion_freeze, no salary changes ,https://www.glassdoor.com/Salary/Fairmont-State-University-Salaries-E261596.htm,0,NaN
+0,Fairmont State University,st_salary_promotion_freeze, pay freeze ,https://www.insidehighered.com/news/2020/04/13/public-colleges-face-looming-financial-blow-state-budget-cuts,0,NaN
+0,Fairmont State University,st_salary_promotion_freeze, pay freeze ,https://www.wboy.com/news/health/coronavirus/amid-pandemic-wvu-medicine-announces-executive-pay-cuts-salary-guarantees-hiring-freeze-retirement-match-suspensions/,0,NaN
+0,Fairmont State University,st_salary_promotion_freeze, no pay raises ,https://www.fairmontstate.edu/adminfiscalaffairs/payroll,0,NaN
+0,Glenville State College,st_salary_promotion_freeze, freeze salary increases ,https://www.sacbee.com/news/politics-government/the-state-worker/article236422798.html,0,NaN
+0,Glenville State College,st_salary_promotion_freeze, pay freeze ,https://www.tax.ny.gov/pit/property/exemption/index.htm,0,NaN
+0,Glenville State College,st_salary_promotion_freeze, no raises ,https://therecorddelta.com/article/buckhannon-no-hit-by-elkins-in-7-0-setback,0,NaN
+0,Glenville State College,st_salary_promotion_freeze, no pay raises ,https://www.tallahassee.com/story/news/2020/02/07/sign-election-year-gop-pushing-pay-raises-teachers-and-state-workers/4693189002/,0,NaN
+0,Marshall University,st_salary_promotion_freeze, freeze salary increases ,https://money.cnn.com/2015/02/25/news/companies/tj-maxx-minimum-wage/,0,NaN
+0,Marshall University,st_salary_promotion_freeze, freeze salary increases ,https://www.indeed.com/cmp/Marshalls/reviews?ftopic=paybenefits,0,NaN
+0,Marshall University,st_salary_promotion_freeze, no salary changes ,https://herdzone.com/news/2020/8/25/need-to-know-details-for-marshall-home-football-games-this-season.aspx,0,NaN
+0,Marshall University,st_salary_promotion_freeze, no merit increases ,https://www.washingtonpost.com/local/education/colleges-often-give-discounts-to-the-rich-but-heres-one-that-gave-up-on-merit-aid/2014/12/29/a15a0f22-6f3c-11e4-893f-86bd390a3340_story.html,0,NaN
+0,Marshall University,st_salary_promotion_freeze, pay freeze ,https://www.marshall.edu/human-resources/job-opportunities/,0,NaN
+0,Marshall University,st_salary_promotion_freeze, pay freeze ,https://www.wsaz.com/content/news/Temporary-pay-cuts-possible-for-some-Marshall-University-staff-571020921.html,0,NaN
+0,Marshall University,st_salary_promotion_freeze, no raises ,http://www.pjstar.com/news/20180510/marshall-county-employees-to-get-raises?rssfeed=true,0,NaN
+0,Marshall University,st_salary_promotion_freeze, no merit raises ,https://www.washingtonpost.com/local/education/colleges-often-give-discounts-to-the-rich-but-heres-one-that-gave-up-on-merit-aid/2014/12/29/a15a0f22-6f3c-11e4-893f-86bd390a3340_story.html,0,NaN
+0,Marshall University,st_salary_promotion_freeze, no pay raises ,https://money.cnn.com/2015/02/25/news/companies/tj-maxx-minimum-wage/,0,NaN
+0,Shepherd University,st_salary_promotion_freeze, freeze salary increases ,https://www.liberty.edu/index.cfm?PID=18495&mid=339614,0,NaN
+0,Shepherd University,st_salary_promotion_freeze, freeze salary increases ,https://www.seattletimes.com/education-lab/is-a-college-tuition-freeze-likely/,0,NaN
+0,Shepherd University,st_salary_promotion_freeze, no salary changes ,https://www.shepherd.edu/for-employees/,0,NaN
+0,Shepherd University,st_salary_promotion_freeze, no merit increases ,https://www.aaup.org/issues/appointments-promotions-discipline/faculty-misconduct-and-discipline-2005,0,NaN
+0,Shepherd University,st_salary_promotion_freeze, pay freeze ,https://www.shepherd.edu/hr,0,NaN
+0,Shepherd University,st_salary_promotion_freeze, pay freeze ,https://www.indeed.com/cmp/Shepherd-University/reviews?fcountry=US&floc=Shepherdstown%2C+WV,0,NaN
+0,Shepherd University,st_salary_promotion_freeze, no raises ,https://www.youtube.com/watch?v=DEkPPpHMJbw,0,NaN
+0,Shepherd University,st_salary_promotion_freeze, no raises ,https://www.quora.com/How-do-I-raise-my-German-Shepherd-to-be-a-gentle-giant,0,NaN
+0,Shepherd University,st_salary_promotion_freeze, no merit raises ,https://www.aaup.org/issues/appointments-promotions-discipline/faculty-misconduct-and-discipline-2005,0,NaN
+0,Shepherd University,st_salary_promotion_freeze, no pay raises ,https://www.trulia.com/c/wv/shepherdstown/2-bed-1-5-bath-850-56-old-martinsburg-rd-shepherdstown-wv-25443--2353258223,0,NaN
+0,West Liberty University,st_salary_promotion_freeze, freeze salary increases ,https://www.theatlantic.com/magazine/archive/2020/04/mitch-daniels-purdue/606772/,0,NaN
+0,West Liberty University,st_salary_promotion_freeze, freeze salary increases ,https://www.the-scientist.com/news-opinion/universities-issue-hiring-freezes-in-response-to-covid-19-67334,0,NaN
+0,West Liberty University,st_salary_promotion_freeze, no salary changes ,https://www.liberty.edu/champion/2018/02/response-student-government-senate/,0,NaN
+0,West Liberty University,st_salary_promotion_freeze, pay freeze ,https://westliberty.edu/business-office/payroll/payroll-calendar/,0,NaN
+0,West Liberty University,st_salary_promotion_freeze, pay freeze ,https://newsadvance.com/sports/college/liberty_university/freeze-liberty-agree-on-contract-extension/article_a2637844-e39a-5a25-b733-4dbd95a913d1.html,0,NaN
+0,West Liberty University,st_salary_promotion_freeze, no raises ,https://westliberty.edu/thetrumpet/2016/04/02/dry-campus-rule-important-student-safety/,0,NaN
+0,West Liberty University,st_salary_promotion_freeze, no pay raises ,https://westliberty.edu/thetrumpet/2016/04/02/dry-campus-rule-important-student-safety/,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, freeze salary increases ,https://faculty.wvu.edu/faculty-handbook/faculty-salary-and-benefits,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, freeze salary increases ,https://www.thedaonline.com/news/top-base-salaries-for-wvu-employees/article_33aaea9e-229f-11e9-9654-cf53f1a4c1ed.html,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, no salary changes ,https://faculty.wvu.edu/faculty-handbook/faculty-salary-and-benefits,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, no salary changes ,https://www.indeed.com/cmp/West-Virginia-University/salaries/Assistant-Professor/Morgantown-WV,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, no merit increases ,https://financialaid.wvu.edu/home/scholarships/freshmen/non-residents,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, no merit increases ,https://admissions.wvu.edu/cost-and-aid/scholarship-chart,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, pay freeze ,https://www.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, pay freeze ,https://admissions.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, no raises ,https://admissions.wvu.edu/raise-me,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, no raises ,https://www.wvu.edu/,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, no merit raises ,https://financialaid.wvu.edu/home/scholarships,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, no merit raises ,https://policies.wvu.edu/finalized-bog-rules/bog-talent-and-culture-3-7-annual-increment,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, no pay raises ,https://studentaccounts.wvu.edu/payment,0,NaN
+0,West Virginia University at Parkersburg,st_salary_promotion_freeze, no pay raises ,https://faculty.wvu.edu/faculty-handbook/faculty-salary-and-benefits,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, freeze salary increases ,https://faculty.wvu.edu/faculty-handbook/faculty-salary-and-benefits,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, freeze salary increases ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, no salary changes ,https://financialaid.wvu.edu/home/scholarships/freshmen/non-residents,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, no salary changes ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, no merit increases ,https://financialaid.wvu.edu/home/scholarships/freshmen/non-residents,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, no merit increases ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, pay freeze ,https://www.wvu.edu/,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, pay freeze ,https://medicine.hsc.wvu.edu/eye/,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, no raises ,https://financialaid.wvu.edu/home/scholarships/freshmen/non-residents,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, no raises ,https://pt-br.facebook.com/WVUInstituteofTechnology/posts/wvu-tech-womens-volleyball-team-raised-34260-for-the-camc-breast-center-during-t/2099301713416892/,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, no merit raises ,https://financialaid.wvu.edu/home/scholarships/freshmen/non-residents,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, no merit raises ,https://admissions.wvu.edu/cost-and-aid/scholarship-chart,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, no pay raises ,https://financialaid.wvu.edu/home/scholarships/freshmen/non-residents,0,NaN
+0,West Virginia University Institute of Technology,st_salary_promotion_freeze, no pay raises ,https://www.wvu.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, freeze salary increases ,https://www.potomacstatecollege.edu/about/job-opportunities,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, freeze salary increases ,https://wvutoday.wvu.edu/stories/2019/04/12/west-virginia-university-approves-minimal-tuition-and-fee-increase-for-2019-20,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, no salary changes ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, no salary changes ,https://admissions.potomacstatecollege.edu/apply,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, no merit increases ,https://www.potomacstatecollege.edu/about/job-opportunities,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, no merit increases ,https://admissions.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, pay freeze ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, pay freeze ,https://admissions.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, no raises ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, no raises ,https://admissions.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, no merit raises ,https://www.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, no merit raises ,https://admissions.potomacstatecollege.edu/,0,NaN
+0,Potomac State College of West Virginia University,st_salary_promotion_freeze, no pay raises ,https://www.potomacstatecollege.edu/about/job-opportunities,0,NaN
+0,West Virginia State University,st_salary_promotion_freeze, freeze salary increases ,https://wvutoday.wvu.edu/stories/2019/04/12/west-virginia-university-approves-minimal-tuition-and-fee-increase-for-2019-20,0,NaN
+0,West Virginia State University,st_salary_promotion_freeze, freeze salary increases ,https://votespotter.com/community/post/2018/03/23/State-Employee-Pay-Raise-Hits-West-Virginia-Budget,0,NaN
+0,West Virginia State University,st_salary_promotion_freeze, no salary changes ,https://financialaid.wvu.edu/home/scholarships/freshmen/non-residents,0,NaN
+0,West Virginia State University,st_salary_promotion_freeze, no merit increases ,https://financialaid.wvu.edu/home/scholarships/freshmen/non-residents,0,NaN
+0,West Virginia State University,st_salary_promotion_freeze, pay freeze ,https://www.wvstateu.edu/about/administration/human-resources.aspx,0,NaN
+0,West Virginia State University,st_salary_promotion_freeze, pay freeze ,https://www.wv.gov/,0,NaN
+0,West Virginia State University,st_salary_promotion_freeze, no raises ,https://www.wsaz.com/content/news/Pay-raise-bill-passes-WVa-Senate-472366623.html,0,NaN
+0,West Virginia State University,st_salary_promotion_freeze, no merit raises ,https://financialaid.wvu.edu/home/scholarships/freshmen/non-residents,0,NaN
+0,West Virginia State University,st_salary_promotion_freeze, no pay raises ,https://www.wvgazettemail.com/news/legislative_session/flat-state-budget-plan-includes-no-pay-raises-or-major-new-initiatives/article_739c5e3e-0fad-5138-8bf0-b3c49affe1f8.html,1,"                                                                   'flat' state budget plan includes no pay raises or major new initiatives      by phil kabler
+staff writer              phil kabler  s"
+0,Central Washington University,st_salary_promotion_freeze, freeze salary increases ,https://www.cwu.edu/resources-reports/cwup-6-50-compensation,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, freeze salary increases ,https://www.bostonglobe.com/metro/2014/06/10/suffolk-university-freeze-pay-amid-decline-budgeted-revenue/2L8LUMhtsRV519mPfzZ8nK/story.html,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, no salary changes ,https://www.cwu.edu/dining/residential-meal-plans,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, no salary changes ,https://www.spokesman.com/stories/2020/mar/26/7000-sign-petition-asking-wsu-to-partially-refund-/,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, no merit increases ,https://www.seattletimes.com/seattle-news/gop-lawmaker-attacks-central-washington-university-ahead-of-investigation-into-his-conduct/,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, no merit increases ,https://www.insidehighered.com/news/2020/05/18/coronavirus-live-updates-archive-may-18-may-24,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, pay freeze ,https://www.cwu.edu/exempt-employees-salary-freeze,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, pay freeze ,https://careers.cwu.edu/,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, no raises ,https://law.justia.com/cases/federal/appellate-courts/ca9/18-36020/18-36020-2019-09-26.html,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, no raises ,https://www.seattletimes.com/seattle-news/gop-lawmaker-attacks-central-washington-university-ahead-of-investigation-into-his-conduct/,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, no merit raises ,https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2017cv01262/249102/22/,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, no merit raises ,https://www.insidehighered.com/news/2020/05/18/coronavirus-live-updates-archive-may-18-may-24,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, no pay raises ,https://law.justia.com/cases/federal/appellate-courts/ca9/18-36020/18-36020-2019-09-26.html,0,NaN
+0,Central Washington University,st_salary_promotion_freeze, no pay raises ,https://www.seattletimes.com/seattle-news/gop-lawmaker-attacks-central-washington-university-ahead-of-investigation-into-his-conduct/,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, freeze salary increases ,https://squareup.com/us/en/townsquare/guide-to-washington-minimum-wage,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, freeze salary increases ,https://ofm.wa.gov/state-human-resources/workforce-data-planning/workforce-data-trends/compensation/wage-adjustments-and-salary-increases,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, no salary changes ,https://www.spokesman.com/tags/eastern-washington-university/,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, no salary changes ,https://www.ewu.edu/coronavirus/,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, no merit increases ,https://www.ewu.edu/coronavirus/,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, no merit increases ,https://www.seattletimes.com/education-lab/could-you-go-to-college-tuition-free-in-washington-heres-how-to-find-out/,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, pay freeze ,https://inside.ewu.edu/financialservices/payment-plans/,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, pay freeze ,https://www.cwu.edu/exempt-employees-salary-freeze,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, no raises ,https://law.justia.com/cases/federal/appellate-courts/ca9/11-35038/11-35038-2012-06-12.html,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, no raises ,https://www.spokesman.com/stories/2020/mar/05/no-mans-land-film-festival-returns-to-spokane-for-/,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, no merit raises ,https://www.insidehighered.com/news/2020/05/18/coronavirus-live-updates-archive-may-18-may-24,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, no merit raises ,https://www.spokesman.com/stories/2020/feb/17/eastern-washington-university-faculty-members-prop/,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, no pay raises ,https://www.spokesman.com/stories/2020/mar/05/no-mans-land-film-festival-returns-to-spokane-for-/,0,NaN
+0,Eastern Washington University,st_salary_promotion_freeze, no pay raises ,https://law.justia.com/cases/federal/appellate-courts/ca9/11-35038/11-35038-2012-06-12.html,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, pay cuts ,http://www.uwyo.edu/uw/news/uw-in-the-news/2020/04/uw-in-the-news.html,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, pay cuts ,https://www.emich.edu/budget-impact/other-universities-budget-cut-announcements/index.php,1,"g coronavirus  5/4:  ohio university cuts 140 positions  5/2: university of missouri making layoffs, pay cuts due to budget shortfall  5/1:  ou lays off 140 union employees; more cuts to come  5/1: po"
+0,University of Wyoming,st_reduce_staff_and_faculty_support, pay cuts ,https://www.emich.edu/budget-impact/other-universities-budget-cut-announcements/index.php,1,"most of miami's contingent teachers told contracts won't be renewed, group says  4/17: furloughs and pay cuts set for staff, faculty at university of arizona  4/16: valparaiso university furloughs 200"
+0,University of Wyoming,st_reduce_staff_and_faculty_support, salary reductions ,https://www.insidehighered.com/news/2016/09/09/university-wyoming-faces-more-budget-crunch,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, salary reductions ,https://trib.com/sports/college/wyoming/wyoming-ad-tom-burman-is-taking-a-pay-cut-will-coaches-be-required-to-follow/article_4826d880-db33-5890-8fee-9384f8f52803.html,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.ibo.org/benefits/benefits-for-universities/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.oecd.org/newsroom/benefits-of-university-education-remain-high-but-vary-widely-across-fields-of-study.htm,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, reduce perks ,https://liv.corporateperks.com/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, reduce perks ,https://www.gla.ac.uk/myglasgow/staff/benefits/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, eliminate staff support programs ,https://www.urmc.rochester.edu/eap.aspx,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, eliminate staff support programs ,https://www.northwestern.edu/hr/benefits/well-being/programs/employee-assistance-program/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, reduce bonuses ,https://www.ukfcurewards.org/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, reduce bonuses ,https://www.tuitionrewards.com/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, decreases pay ,https://www.epcor.org/wcm/Education/epu.aspx,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, decreases pay ,https://controller.richmond.edu/tuition/pay/index.html,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, wage decrease ,https://trib.com/business/energy/wyoming-wage-gap-narrows-slightly/article_857d1b25-e020-5eb4-b7c7-a87465155f08.html,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, wage decrease ,https://www.colorado.edu/registrar/students/registration/register/drop,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, reduced wages ,https://ucannualwage.ucop.edu/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, reduced wages ,http://www.uwyo.edu/admissions/scholarships/non-residents/wue.html,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, reduction of benefits ,https://www.insidehighered.com/news/2016/09/09/university-wyoming-faces-more-budget-crunch,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, reduction of benefits ,https://www.ibo.org/benefits/benefits-for-universities/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, eliminate health benefits ,https://health.uni.edu/insurance,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, eliminate health benefits ,https://www.ummedicareadvantage.org/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, suspend retirement contributions ,https://ucnet.universityofcalifornia.edu/compensation-and-benefits/retirement-benefits/ucrs/index.html,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, suspend retirement contributions ,http://www.rochester.edu/working/hr/benefits/retirement/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, suspend 401k ,http://www.rochester.edu/working/hr/benefits/retirement/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, suspend 401k ,https://www.irs.gov/retirement-plans/one-participant-401k-plans,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, cut benefits ,https://www.ibo.org/benefits/benefits-for-universities/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, cut benefits ,https://www.oecd.org/newsroom/benefits-of-university-education-remain-high-but-vary-widely-across-fields-of-study.htm,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, cut staff support ,https://www.insidehighered.com/news/2019/03/28/university-wyoming-again-looking-leader-after-surprise-firing,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, cut staff support ,https://www.uwyo.edu/uw/news/2015/01/uw-cuts-ribbon-on-newly-renovated-harry-c.-vaughan-uw-planetarium.html,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, cut faculty support ,https://utulsa.edu/information-technology/support/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, cut faculty support ,https://www.uwyo.edu/uw/news/2017/08/uw-cuts-ribbon-on-one-of-a-kind-high-bay-research-facility.html,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, reduce professional development ,https://www.hacc.edu/FacultyandStaffDevelopment/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, reduce professional development ,http://www.uwyo.edu/sfa/cost-of-attendance/,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, decrease professional ,https://en.wikipedia.org/wiki/Vocational_university,0,NaN
+0,University of Wyoming,st_reduce_staff_and_faculty_support, decrease professional ,https://trib.com/news/state-and-regional/university-of-wyoming-expects-20-enrollment-drop/article_82dd1e94-9185-564f-adc7-0c159644c31b.html,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, pay cuts ,https://www.realcleareducation.com/articles/2020/05/15/colleges_that_receive_bailout_money_should_be_forced_to_cut_administrative_bloat_110420.html,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, salary reductions ,https://www.wvgazettemail.com/news/education/bluefield-state-college-board-picks-capehart-for-president/article_fafccb51-74dc-5f05-8013-10641af67b53.html,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, salary reductions ,https://www.realcleareducation.com/articles/2020/05/15/colleges_that_receive_bailout_money_should_be_forced_to_cut_administrative_bloat_110420.html,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, reduce benefits ,http://www.thehundred-seven.org/waive_out-of-state_fees.html,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.edvisors.com/plan-for-college/money-saving-tips/tuition-cuts/,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, reduce perks ,http://www.thehundred-seven.org/waive_out-of-state_fees.html,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, reduce perks ,https://www.edvisors.com/plan-for-college/money-saving-tips/tuition-cuts/,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, eliminate staff support programs ,https://www.colorado.gov/cseap,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, eliminate staff support programs ,https://www2.illinois.gov/cms/benefits/StateEmployee/Pages/EmployeeAssistanceProgram.aspx,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, wage decrease ,https://www.newspapers.com/newspage/221140694/,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, reduced wages ,http://www.bluefield.edu/search-results/?page=1&keywords=tuition&show_results=N;,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, reduced wages ,https://www.savingforcollege.com/article/surge-in-number-of-colleges-cutting-tuition,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, reduction of benefits ,https://www.naicu.edu/research-resources/research-projects/enhancing-affordability/tuition-reset-reduction,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, reduction of benefits ,https://www.wdbj7.com/content/news/Wytheville-Community-College-announces-reorganization-plan-resulting-in-layoffs-561876591.html,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, eliminate health benefits ,https://www.hca.wa.gov/employee-retiree-benefits,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, eliminate health benefits ,https://www.shpnc.org/,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, suspend retirement contributions ,https://www.nasra.org/adcbrief,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, suspend retirement contributions ,https://www.gov.uk/state-pension/eligibility,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, suspend 401k ,E failed,NaN,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, suspend 401k ,R failed,NaN,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, suspend 401k ,R failed,NaN,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, suspend 401k ,O failed,NaN,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, suspend 401k ,R failed,NaN,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, cut benefits ,https://www.realcleareducation.com/articles/2020/05/15/colleges_that_receive_bailout_money_should_be_forced_to_cut_administrative_bloat_110420.html,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, cut benefits ,https://www.edvisors.com/plan-for-college/money-saving-tips/tuition-cuts/,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, cut staff support ,https://bluefieldstate.edu/resources/human-resources,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, cut staff support ,https://go-bstate.com/information/directory/index,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, cut faculty support ,https://www.wvgazettemail.com/news/education/amid-plummeting-enrollment-bluefield-state-weighs-possible-faculty-moves/article_f063e24a-196f-5d77-a494-1952ed8fd9b7.html,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, cut faculty support ,https://bluefieldstate.edu/community/directory,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, reduce professional development ,https://bluefieldstate.edu/academics/schools/education,0,NaN
+0,Bluefield State College,st_reduce_staff_and_faculty_support, reduce professional development ,https://go-bstate.com/information/directory/index,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, pay cuts ,https://www.concord.edu/http/www-concord-edu/About/Important-Offices-Centers/Human-Resources-Jobs-aspx.aspx,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, salary reductions ,https://www.concord.edu/About/Administration/Board-of-Governors/BOG-Policies.aspx,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, salary reductions ,https://concordcoachlines.com/deals-and-discounts/,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.onedigital.com/blog/onedigital-health-and-benefits-acquires-concord-benefits-planning-agency/,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.concordgroupinsurance.com/about/why-work-at-concord/benefits,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, reduce perks ,https://edsource.org/2020/give-us-a-tuition-break-say-california-students-forced-into-online-university-classes/626022,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, eliminate staff support programs ,https://www.dhhs.nh.gov/hr/eap/contact.htm,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, eliminate staff support programs ,https://www.concordhospital.org/careers-training/employee-benefits/,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, reduce bonuses ,http://capitolsupplies.com/concord-rewards-earn-great-merchandise-with-your-purchases/,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, reduce bonuses ,https://www.concordairrewards.com/registration,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, decreases pay ,http://www.concordnh.gov/1111/Online-Bill-Pay,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, decreases pay ,https://www.concordnc.gov/Resident/Pay-Your-Utility-Bill,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, wage decrease ,https://www.popsci.com/concorde-anniversary-future-of-supersonic-flight/,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, reduced wages ,http://www.concordnh.gov/1111/Online-Bill-Pay,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, reduced wages ,https://www.concordnc.gov/Resident/Pay-Your-Utility-Bill,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, reduction of benefits ,https://www.concord.edu/About/Administration/Board-of-Governors/BOG-Policies.aspx,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, reduction of benefits ,https://www.onedigital.com/blog/onedigital-health-and-benefits-acquires-concord-benefits-planning-agency/,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, eliminate health benefits ,https://www.welchs.com/health-and-nutrition/benefits-concord-grapes,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, eliminate health benefits ,https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/food-and-nutrition/faq-20058529,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, suspend retirement contributions ,https://www.sru.edu/news,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, suspend retirement contributions ,https://en.wikipedia.org/wiki/Wheeling_University,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, suspend 401k ,https://www.glassdoor.com/Benefits/Concord-401K-Plan-US-BNFT13_E1045502_N1.htm,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, suspend 401k ,https://www.concordgroupinsurance.com/about/why-work-at-concord/benefits,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, cut benefits ,https://www.onedigital.com/blog/onedigital-health-and-benefits-acquires-concord-benefits-planning-agency/,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, cut benefits ,https://www.concordgroupinsurance.com/about/why-work-at-concord/benefits,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, cut staff support ,https://www.insidehighered.com/news/2020/03/13/future-unclear-support-staff-empty-college-campuses,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, cut staff support ,https://www.unionleader.com/news/health/coronavirus/snhu-to-cut-tuition-from-31-000-to-10-000-revamp-on-campus-learning/article_03612259-97b8-5ff6-9e1c-134b8e8d375d.html,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, cut faculty support ,https://www.insidehighered.com/news/2020/03/13/future-unclear-support-staff-empty-college-campuses,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, cut faculty support ,https://www.unionleader.com/news/health/coronavirus/snhu-to-cut-tuition-from-31-000-to-10-000-revamp-on-campus-learning/article_03612259-97b8-5ff6-9e1c-134b8e8d375d.html,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, reduce professional development ,https://www.holganix.com/blog/holganix-case-study-how-did-furman-university-reduce-fertilizer-and-fungicide-rates,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, reduce professional development ,https://edsource.org/2020/give-us-a-tuition-break-say-california-students-forced-into-online-university-classes/626022,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, decrease professional ,https://www.altium.com/concord,0,NaN
+0,Concord University,st_reduce_staff_and_faculty_support, decrease professional ,https://concordps.com/,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, pay cuts ,https://www.insidehighered.com/news/2020/04/13/public-colleges-face-looming-financial-blow-state-budget-cuts,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, pay cuts ,https://wvmetronews.com/2020/06/04/marshall-prepping-to-give-employees-temporary-pay-cuts-due-to-covid-19/,1,"the game within the game almost heaven channel    news marshall prepping to give employees temporary pay cuts due to covid-19     by metronews staff  june 4, 2020 - 4:29 pm huntington, w.va. — marshal"
+0,Fairmont State University,st_reduce_staff_and_faculty_support, salary reductions ,https://www.collegefactual.com/colleges/fairmont-state-university/student-life/sports/,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.insidehighered.com/news/2020/04/13/public-colleges-face-looming-financial-blow-state-budget-cuts,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, reduce perks ,E failed,NaN,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, reduce perks ,R failed,NaN,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, reduce perks ,R failed,NaN,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, reduce perks ,O failed,NaN,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, reduce perks ,R failed,NaN,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, eliminate staff support programs ,http://www.collegemediamatters.com/2015/06/24/toxic-mold-alleged-student-press-censorship-at-fairmont-state-university/,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, eliminate staff support programs ,https://www.colorado.gov/cseap,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, decreases pay ,https://www.jstor.org/stable/40251233,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, wage decrease ,https://openpayrolls.com/university-college/marshall-university/page-118,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, wage decrease ,https://www.salary.com/research/salary/benchmark/chief-financial-officer-salary/nj,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, reduced wages ,https://www.fairmontstate.edu/adminfiscalaffairs/payroll,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, reduced wages ,https://www.indeed.com/cmp/Fairmont-State-University/reviews?ftopic=paybenefits,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, eliminate health benefits ,https://www.fairmontstate.edu/adminfiscalaffairs/benefits-office/health-insurance-plan,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, eliminate health benefits ,https://www.state.nj.us/treasury/pensions/hb-info-active.shtml,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, suspend retirement contributions ,https://www.nasra.org/adcbrief,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, suspend retirement contributions ,https://en.wikipedia.org/wiki/Wheeling_University,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, suspend 401k ,https://issuu.com/i-75newspapergroup/docs/tdn_03172012,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, cut benefits ,https://www.newsbreak.com/indiana/west-lafayette/news/0NqAuNKb/public-greens-restaurant-to-open-on-purdues-west-lafayette-campus-in-spring,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, cut benefits ,https://www.insidehighered.com/news/2020/04/13/public-colleges-face-looming-financial-blow-state-budget-cuts,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, cut staff support ,https://www.fairmontstate.edu/it/,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, cut staff support ,https://fairmontstate.edu/studentservices/career-services,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, cut faculty support ,https://www.fairmontstate.edu/it/,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, cut faculty support ,https://www.wvnews.com/theet/news/fairmont-wv-state-university-faculty-pleads-to-board-of-governors-for-continued-program-support/article_24e7fcd4-7605-50b2-8fe6-223e087bfb89.html,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, reduce professional development ,https://www.fairmontstate.edu/studentservices/career-services,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, reduce professional development ,https://www.pierpont.edu/ac/continuinged/teacher-professional-development-courses,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, decrease professional ,https://www.manta.com/c/mmjsx6s/professional-appraisal-corporation,0,NaN
+0,Fairmont State University,st_reduce_staff_and_faculty_support, decrease professional ,https://professionalappraisalcorporation.appraiserxsites.com/ContactUs?ChosenLanguage=French,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, pay cuts ,https://www.glenville.edu/student-life/public-safety,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, pay cuts ,https://www.wdtv.com/content/news/Glenville-State-College-reducing-food-fees-433863563.html,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.policygenius.com/blog/7-negotiation-strategies-to-reduce-your-college-tuition/,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.harford.edu/~/media/PDF/Capital%20Projects/2008%20Initial%20Plan.ashx failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduce perks ,E failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduce perks ,R failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduce perks ,R failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduce perks ,O failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduce perks ,R failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, eliminate staff support programs ,https://www.colorado.gov/cseap,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, eliminate staff support programs ,https://www2.illinois.gov/cms/benefits/StateEmployee/Pages/EmployeeAssistanceProgram.aspx,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduce bonuses ,http://www.bethlehempubliclibrary.org/webapps/spotlight/years/2006/2006-03-15.PDF,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduce bonuses ,https://www.veteranownedbusiness.com/advanced_search.php?search&catsearch=yes&business_name&type=VOB&service_branch&city&county&state&postal_code&miles_of_postal_code&s=1%5B,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, wage decrease ,https://www.newsbreak.com/west-virginia/cedarville/daily-news/2020/01/27,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, wage decrease ,https://digitalrepository.trincoll.edu/cgi/viewcontent.cgi?article=1730&context=theses,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduced wages ,https://www.wdtv.com/content/news/Glenville-State-College-reducing-food-fees-433863563.html,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduced wages ,http://gnv.stparchive.com/Archive/GNV/GNV02021978P01.php,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduction of benefits ,E failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduction of benefits ,R failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduction of benefits ,R failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduction of benefits ,O failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduction of benefits ,R failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, eliminate health benefits ,https://www.hca.wa.gov/employee-retiree-benefits,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, eliminate health benefits ,https://www.state.nj.us/treasury/pensions/hb-info-active.shtml,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, suspend retirement contributions ,https://www.nasra.org/adcbrief,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, suspend retirement contributions ,https://www.gov.uk/state-pension/eligibility,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, suspend 401k ,E failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, suspend 401k ,R failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, suspend 401k ,R failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, suspend 401k ,O failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, suspend 401k ,R failed,NaN,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, cut benefits ,http://www.nwcaonline.com/growing-wrestling/dropped-collegiate-programs/,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, cut staff support ,https://www.glenville.edu/faculty-and-staff,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, cut staff support ,https://www.indeed.com/q-Glenville-State-jobs.html,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, cut faculty support ,https://www.glenville.edu/faculty-and-staff,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, cut faculty support ,https://issuu.com/easternctstateuniversity/docs/eastern1-09,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduce professional development ,https://www.glenville.edu/faculty-and-staff,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, reduce professional development ,https://semiscoalition.org/professional-development/,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, decrease professional ,https://www.policygenius.com/blog/7-negotiation-strategies-to-reduce-your-college-tuition/,0,NaN
+0,Glenville State College,st_reduce_staff_and_faculty_support, decrease professional ,https://www.harford.edu/~/media/PDF/Capital%20Projects/2008%20Initial%20Plan.ashx failed,NaN,NaN
+0,Marshall University,st_reduce_staff_and_faculty_support, pay cuts ,https://www.wsaz.com/content/news/Temporary-pay-cuts-possible-for-some-Marshall-University-staff-571020921.html,1," circle - country music & lifestyle gray dc bureau covid 19 powernation investigate tv advertisement pay cuts possible for some marshall university staff (wsaz) by wsaz news staff published: jun. 4, 2"
+0,Marshall University,st_reduce_staff_and_faculty_support, pay cuts ,https://www.wsaz.com/content/news/Temporary-pay-cuts-possible-for-some-Marshall-University-staff-571020921.html,1," for some marshall university staff (wsaz) by wsaz news staff published: jun. 4, 2020 at 3:21 pm edt pay cuts are possible for some marshall university staff, president jerome a. gilbert announced thu"
+0,Marshall University,st_reduce_staff_and_faculty_support, pay cuts ,https://www.wsaz.com/content/news/Temporary-pay-cuts-possible-for-some-Marshall-University-staff-571020921.html,1,"those making $100,000 or more a year and become effective with the pay period starting july 4. those pay cuts are contingent on the university’s board of governors' approval, according to a university"
+0,Marshall University,st_reduce_staff_and_faculty_support, pay cuts ,https://www.marshall.edu/wamnewsletter/2020/06/university-plans-temporary-pay-reductions-for-some-employees-to-help-meet-budget-challenges-no-layoffs-or-terminations-proposed/,0,NaN
+0,Marshall University,st_reduce_staff_and_faculty_support, salary reductions ,https://www.marshall.edu/wamnewsletter/2020/06/university-plans-temporary-pay-reductions-for-some-employees-to-help-meet-budget-challenges-no-layoffs-or-terminations-proposed/,1,"nistrators will know what to expect from tuition revenue and can determine whether or not additional salary reductions are necessary. if so, the university will implement part 2 of the temporary salar"
+0,Marshall University,st_reduce_staff_and_faculty_support, salary reductions ,https://www.marshall.edu/wamnewsletter/2020/06/university-plans-temporary-pay-reductions-for-some-employees-to-help-meet-budget-challenges-no-layoffs-or-terminations-proposed/,1,"tional salary reductions are necessary. if so, the university will implement part 2 of the temporary salary reductions on aug. 29 for employees whose annual salaries are in the range of $50,000 to $10"
+0,Marshall University,st_reduce_staff_and_faculty_support, salary reductions ,https://www.marshall.edu/wamnewsletter/2020/06/university-plans-temporary-pay-reductions-for-some-employees-to-help-meet-budget-challenges-no-layoffs-or-terminations-proposed/,1,"00 will not experience any salary reductions.  “let me assure you it is our intent for the temporary salary reductions … to last no longer than one year,” he continued. “it is possible salaries could "
+0,Marshall University,st_reduce_staff_and_faculty_support, salary reductions ,https://www.wvgazettemail.com/sports/marshall_university/marshall-coaches-ad-take-pay-cuts-during-pandemic/article_968afe8e-4149-5ddf-9aa7-67ee03ec5de6.html,1,"otal compensation was $550,000; and hamrick’s total compensation was $310,979.96. information on the salary reductions was not available as of press time, but examples of salary reductions, according "
+0,Marshall University,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.marshall.edu/human-resources/benefits/,0,NaN
+0,Marshall University,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.marshall.usc.edu/programs/phd-program/marshall-advantage,0,NaN

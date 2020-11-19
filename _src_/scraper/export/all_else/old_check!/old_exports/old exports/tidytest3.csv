@@ -1,0 +1,162 @@
+,school,grouping_var,term,url,present_absent,context
+0,test,test,test,test,test,test
+0,University of Wyoming,st_change_tuition_(>), increase tuition ,E failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(>), increase tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(>), increase tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(>), increase tuition ,O failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(>), increase tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(>), raise tuition ,E failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(>), raise tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(>), raise tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(>), raise tuition ,O failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(>), raise tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(>), increase tuition ,E failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(>), increase tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(>), increase tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(>), increase tuition ,O failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(>), increase tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(>), raise tuition ,E failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(>), raise tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(>), raise tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(>), raise tuition ,O failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(>), raise tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(>), increase tuition ,E failed,NaN,NaN
+0,Concord University,st_change_tuition_(>), increase tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(>), increase tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(>), increase tuition ,O failed,NaN,NaN
+0,Concord University,st_change_tuition_(>), increase tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(>), raise tuition ,E failed,NaN,NaN
+0,Concord University,st_change_tuition_(>), raise tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(>), raise tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(>), raise tuition ,O failed,NaN,NaN
+0,Concord University,st_change_tuition_(>), raise tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), reduce tuition ,E failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), reduce tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), reduce tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), reduce tuition ,O failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), reduce tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), freeze tuition ,E failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), freeze tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), freeze tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), freeze tuition ,O failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), freeze tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), differ tuition ,E failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), differ tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), differ tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), differ tuition ,O failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), differ tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), decrease tuition ,E failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), decrease tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), decrease tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), decrease tuition ,O failed,NaN,NaN
+0,University of Wyoming,st_change_tuition_(<=), decrease tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), reduce tuition ,E failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), reduce tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), reduce tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), reduce tuition ,O failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), reduce tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), freeze tuition ,E failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), freeze tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), freeze tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), freeze tuition ,O failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), freeze tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), differ tuition ,E failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), differ tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), differ tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), differ tuition ,O failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), differ tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), decrease tuition ,E failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), decrease tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), decrease tuition ,R failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), decrease tuition ,O failed,NaN,NaN
+0,Bluefield State College,st_change_tuition_(<=), decrease tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), reduce tuition ,E failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), reduce tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), reduce tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), reduce tuition ,O failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), reduce tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), freeze tuition ,E failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), freeze tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), freeze tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), freeze tuition ,O failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), freeze tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), differ tuition ,E failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), differ tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), differ tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), differ tuition ,O failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), differ tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), decrease tuition ,E failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), decrease tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), decrease tuition ,R failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), decrease tuition ,O failed,NaN,NaN
+0,Concord University,st_change_tuition_(<=), decrease tuition ,R failed,NaN,NaN
+0,University of Wyoming,st_reduce_hiring, deferred hiring ,E failed,NaN,NaN
+0,University of Wyoming,st_reduce_hiring, deferred hiring ,R failed,NaN,NaN
+0,University of Wyoming,st_reduce_hiring, deferred hiring ,R failed,NaN,NaN
+0,University of Wyoming,st_reduce_hiring, deferred hiring ,O failed,NaN,NaN
+0,University of Wyoming,st_reduce_hiring, deferred hiring ,R failed,NaN,NaN
+0,University of Wyoming,st_reduce_hiring, deferred hiring of vacant positions ,E failed,NaN,NaN
+0,University of Wyoming,st_reduce_hiring, deferred hiring of vacant positions ,R failed,NaN,NaN
+0,University of Wyoming,st_reduce_hiring, deferred hiring of vacant positions ,R failed,NaN,NaN
+0,University of Wyoming,st_reduce_hiring, deferred hiring of vacant positions ,O failed,NaN,NaN
+0,University of Wyoming,st_reduce_hiring, deferred hiring of vacant positions ,R failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, deferred hiring ,E failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, deferred hiring ,R failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, deferred hiring ,R failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, deferred hiring ,O failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, deferred hiring ,R failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, deferred hiring of vacant positions ,E failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, deferred hiring of vacant positions ,R failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, deferred hiring of vacant positions ,R failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, deferred hiring of vacant positions ,O failed,NaN,NaN
+0,Bluefield State College,st_reduce_hiring, deferred hiring of vacant positions ,R failed,NaN,NaN
+0,Concord University,st_reduce_hiring, deferred hiring ,E failed,NaN,NaN
+0,Concord University,st_reduce_hiring, deferred hiring ,R failed,NaN,NaN
+0,Concord University,st_reduce_hiring, deferred hiring ,R failed,NaN,NaN
+0,Concord University,st_reduce_hiring, deferred hiring ,O failed,NaN,NaN
+0,Concord University,st_reduce_hiring, deferred hiring ,R failed,NaN,NaN
+0,Concord University,st_reduce_hiring, deferred hiring of vacant positions ,E failed,NaN,NaN
+0,Concord University,st_reduce_hiring, deferred hiring of vacant positions ,R failed,NaN,NaN
+0,Concord University,st_reduce_hiring, deferred hiring of vacant positions ,R failed,NaN,NaN
+0,Concord University,st_reduce_hiring, deferred hiring of vacant positions ,O failed,NaN,NaN
+0,Concord University,st_reduce_hiring, deferred hiring of vacant positions ,R failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, freeze salary increases ,E failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, freeze salary increases ,R failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, freeze salary increases ,R failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, freeze salary increases ,O failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, freeze salary increases ,R failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no salary changes ,E failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no salary changes ,R failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no salary changes ,R failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no salary changes ,O failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no salary changes ,R failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no merit increases ,E failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no merit increases ,R failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no merit increases ,R failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no merit increases ,O failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, no merit increases ,R failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, pay freeze ,E failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, pay freeze ,R failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, pay freeze ,R failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, pay freeze ,O failed,NaN,NaN
+0,University of Wyoming,st_salary_promotion_freeze, pay freeze ,R failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, freeze salary increases ,E failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, freeze salary increases ,R failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, freeze salary increases ,R failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, freeze salary increases ,O failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, freeze salary increases ,R failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no salary changes ,E failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no salary changes ,R failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no salary changes ,R failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no salary changes ,O failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no salary changes ,R failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no merit increases ,E failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no merit increases ,R failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no merit increases ,R failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no merit increases ,O failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, no merit increases ,R failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, pay freeze ,E failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, pay freeze ,R failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, pay freeze ,R failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, pay freeze ,O failed,NaN,NaN
+0,Bluefield State College,st_salary_promotion_freeze, pay freeze ,R failed,NaN,NaN

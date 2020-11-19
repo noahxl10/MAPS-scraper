@@ -1,0 +1,3 @@
+﻿name,varname,type,timeline,terms
+Change tuition (>),st_change_tuition_(>),REDUCTION,SHORT ,"""Increase tuition”, ""raise tuition”"
+Change tuition (<=),st_change_tuition_(<=),REDUCTION,SHORT ,"""Reduce tuition”"

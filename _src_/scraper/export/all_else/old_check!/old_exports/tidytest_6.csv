@@ -1,0 +1,90 @@
+,unitID,school,grouping_var,term,url,present_absent,context
+0,240727,University of Wyoming,st_change_tuition_(>), increase tuition ,https://www.collegefactual.com/colleges/university-of-wyoming/paying-for-college/tuition-and-fees/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(>), increase tuition ,https://admissions.uni.edu/costs failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(>), raise tuition ,https://www.uwyo.edu/uw/news/2019/07/uw-trustees-approve-new-financial-aid-for-wyoming-students.html failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(>), raise tuition ,https://oilcity.news/community/2019/07/22/with-tuition-hikes-uw-to-provide-new-financial-aid/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(>), percent increase in tuition ,https://www.clickondetroit.com/all-about-ann-arbor/2020/08/17/sunrise-movement-ann-arbor-protests-tuition-increase-at-university-of-michigan/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(>), percent increase in tuition ,https://www.mlive.com/news/ann-arbor/2020/06/university-of-michigan-tuition-increase-proposal-fails-with-4-4-board-of-regents-vote.html failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), reduce tuition ,http://www.uwyo.edu/sfa/cost-of-attendance/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), reduce tuition ,https://admissions.uni.edu/costs failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_hiring, deferred hiring ,https://retirement.state.wy.us/en/DC failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_hiring, deferred hiring ,http://www.uwyo.edu/admissions/enrollment/defer.html failed,NaN,NaN
+0,240727,University of Wyoming,st_salary_promotion_freeze, freeze salary increases ,https://www.cachevalleydaily.com/news/archive/2020/03/25/compensation-increases-in-store-for-university-employees/ failed,NaN,NaN
+0,240727,University of Wyoming,st_salary_promotion_freeze, freeze salary increases ,https://hr.osu.edu/services/compensation/amcp/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_staff_and_faculty_support, pay cuts ,http://www.uwyo.edu/uw/news/uw-in-the-news/2020/04/uw-in-the-news.html failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_staff_and_faculty_support, pay cuts ,https://www.emich.edu/budget-impact/other-universities-budget-cut-announcements/index.php,1,"g coronavirus  5/4:  ohio university cuts 140 positions  5/2: university of missouri making layoffs, pay cuts due to budget shortfall  5/1:  ou lays off 140 union employees; more cuts to come  5/1: po"
+0,240727,University of Wyoming,st_reduce_staff_and_faculty_support, pay cuts ,https://www.emich.edu/budget-impact/other-universities-budget-cut-announcements/index.php,1,"most of miami's contingent teachers told contracts won't be renewed, group says  4/17: furloughs and pay cuts set for staff, faculty at university of arizona  4/16: valparaiso university furloughs 200"
+0,240727,University of Wyoming,st_reduce_staff_and_faculty_support, salary reductions ,https://www.insidehighered.com/news/2016/09/09/university-wyoming-faces-more-budget-crunch failed,NaN,NaN
+0,240727,University of Wyoming,st_voluntary_incentivized_staff_faculty_reduction, offer retirement incentives voluntary leave ,https://ap.washington.edu/ahr/working/leaving-the-uw/vri/ failed,NaN,NaN
+0,240727,University of Wyoming,st_voluntary_incentivized_staff_faculty_reduction, offer retirement incentives voluntary leave ,https://retirement.state.wy.us/-/media/Files/Misc/Report----Task-Force-on-Retirement-Income-Security.ashx?la=en&hash=3FDA9BCFA74DDF31B536A65A0AC02FE34B621C49 failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, forced furlough ,https://www.uidaho.edu/human-resources/employees/mandatory-furlough failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, forced furlough ,https://www.azcentral.com/story/news/local/arizona-education/2020/07/01/university-arizona-furlough-plans-delayed-aug-10/5360218002/ failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, staff furlough ,https://www.uidaho.edu/human-resources/employees/mandatory-furlough failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, staff furlough ,https://www.azcentral.com/story/news/local/arizona-education/2020/07/01/university-arizona-furlough-plans-delayed-aug-10/5360218002/ failed,NaN,NaN
+0,240727,University of Wyoming,st_deferred_infrastructure_improvement, deferred maintenance ,https://retirement.state.wy.us/en/DC failed,NaN,NaN
+0,240727,University of Wyoming,st_deferred_infrastructure_improvement, deferred maintenance ,https://www.tiaa.org/public/tcm/wyoming/investment-options/plan3 failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_operational_spending, reduce travel spending reductions ,http://www.uwyo.edu/sfa/cost-of-attendance/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_operational_spending, reduce travel spending reductions ,https://edsource.org/2020/newsoms-proposed-budget-cuts-to-higher-education-force-difficult-choices-ahead/631681 failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, stop scholarships ,http://www.uwyo.edu/stop/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, stop scholarships ,https://www.youtube.com/watch?v=HiMV08lnvUg&list=PLbfm_kskCrZC_IUliG4wmocZLM-g6IWhG&index=16&t=0s failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, cut scholarships ,http://www.uwyo.edu/sfa/cost-of-attendance/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, cut scholarships ,https://www.si.com/college/wyoming/around-the-mwc/athletic-departments-cut-sports-but-wyoming-athletics-makes-adjustments-to-avoid-eliminating-teams failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_student_support_programs, sell buildings ,https://www.bdcnetwork.com/building-types/university-buildings failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_student_support_programs, sell buildings ,https://www.kent.edu/policyreg/university-policy-regarding-establishment-or-revision-academic-administrative-structures failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_student_support_programs, sell land ,https://landinstitute.org/ failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_student_support_programs, sell land ,https://en.wikipedia.org/wiki/Land-grant_university failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_student_support_programs, sell equipment ,https://trib.com/opinion/editorial/this-weeks-open-air-question-should-the-university-of-wyoming-sell-beer-at-sports-venues/article_54a9b292-ae75-5034-b674-b614ffc7202f.html failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_student_support_programs, sell equipment ,https://www.uwyostore.com/sell_main.asp failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_academic_departments_programs, program cuts ,http://www.uwyo.edu/pie/ failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_academic_departments_programs, program cuts ,https://www.uwyo.edu/uw/news/2020/06/uw-responds-to-governors-requests-to-prepare-for-budget-reductions.html failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_academic_departments_programs, courses dropped ,https://www.uwyo.edu/registrar/class_schedules/summer2020/ failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_academic_departments_programs, courses dropped ,http://www.uwyo.edu/summer/j-term-winter-session-courses/ failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_academic_departments_programs, degrees dropped ,http://www.uwyo.edu/as/majors-and-minors/ failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_academic_departments_programs, degrees dropped ,https://www.colorado.edu/registrar/students/registration/register/drop failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_of_athletic_spending_programs, cut men’s sports ,https://trib.com/sports/college/wyoming/wyoming-still-has-no-plans-to-cut-sports-amid-revenue-loss/article_216ea746-8752-5787-a9c3-538862be1582.html failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_of_athletic_spending_programs, cut men’s sports ,https://www.si.com/college/wyoming/around-the-mwc/athletic-departments-cut-sports-but-wyoming-athletics-makes-adjustments-to-avoid-eliminating-teams failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_of_athletic_spending_programs, cut women’s sports ,https://www.si.com/college/wyoming/around-the-mwc/athletic-departments-cut-sports-but-wyoming-athletics-makes-adjustments-to-avoid-eliminating-teams failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_of_athletic_spending_programs, cut women’s sports ,https://trib.com/sports/college/wyoming/wyoming-still-has-no-plans-to-cut-sports-amid-revenue-loss/article_216ea746-8752-5787-a9c3-538862be1582.html failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_of_institution_staff, staff layoffs ,"https://apnews.com/c542b6fb135546788098fa4c2e6303df/37-employees,-5-programs-get-axed-at-University-of-Wyoming failed",NaN,NaN
+0,240727,University of Wyoming,lt_reduction_of_institution_staff, staff layoffs ,https://www.wyomingpublicmedia.org/post/uw-braces-layoffs failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_of_institution_staff, staff reductions ,https://trib.com/news/state-and-regional/university-of-wyoming-begins-preparations-for-possible-35-million-cut-in-coming-years/article_476068d0-6390-5498-869a-d3aa0edc6994.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), increase tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), increase tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), raise tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), raise tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), percent increase in tuition ,https://bluefieldstate.edu/tuition/tuition-and-fees failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), percent increase in tuition ,https://www.usnews.com/best-colleges/bluefield-state-college-3809 failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), reduce tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), reduce tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_hiring, deferred hiring ,https://bluefieldstate.edu/resources/human-resources failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_hiring, deferred hiring ,https://www.higheredjobs.com/institution/search.cfm?University=Bluefield%20State%20College failed,NaN,NaN
+0,237215,Bluefield State College,st_salary_promotion_freeze, freeze salary increases ,https://www.sacbee.com/news/politics-government/the-state-worker/article236422798.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_staff_and_faculty_support, pay cuts ,https://www.realcleareducation.com/articles/2020/05/15/colleges_that_receive_bailout_money_should_be_forced_to_cut_administrative_bloat_110420.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_staff_and_faculty_support, salary reductions ,https://www.wvgazettemail.com/news/education/bluefield-state-college-board-picks-capehart-for-president/article_fafccb51-74dc-5f05-8013-10641af67b53.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_staff_and_faculty_support, salary reductions ,https://www.realcleareducation.com/articles/2020/05/15/colleges_that_receive_bailout_money_should_be_forced_to_cut_administrative_bloat_110420.html failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, forced furlough ,https://adventistdigitallibrary.org/islandora/search?page=1950 failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, forced furlough ,https://careersdocbox.com/College/86230917-Annual-meeting-of-the-american-comparative-literature-association.html failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, staff furlough ,https://bluefieldstate.edu/ failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, staff furlough ,https://go-bstate.com/landing/index failed,NaN,NaN
+0,237215,Bluefield State College,st_deferred_infrastructure_improvement, deferred maintenance ,https://www.indeed.com/m/jobs?q=Director+of+Mechanical+Maintenance failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_operational_spending, reduce travel spending reductions ,https://www.newspapers.com/newspage/13062623 failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, stop scholarships ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, stop scholarships ,http://www.free-4u.com/Colleges/Bluefield-State-College.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, cut scholarships ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, cut scholarships ,http://www.free-4u.com/Colleges/Bluefield-State-College.html failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_student_support_programs, sell buildings ,https://en.wikipedia.org/wiki/Nyack_College failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_student_support_programs, sell buildings ,https://www.publicsurplus.com/sms/browse/cataucs?catid=1 failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_student_support_programs, sell land ,http://www.campusbooks4less.com/collegebookstores/ failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_student_support_programs, sell land ,https://en.wikipedia.org/wiki/Nyack_College failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_student_support_programs, sell equipment ,https://www.publicsurplus.com/sms/browse/cataucs?catid=1 failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_student_support_programs, sell equipment ,https://www.walmart.com/cp/fish/202074 failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_academic_departments_programs, program cuts ,https://www.newsbreak.com/west-virginia/elbert/education?page=2 failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_academic_departments_programs, courses dropped ,https://bluefieldstate.edu/academics/academic-catalogs failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_academic_departments_programs, degrees dropped ,https://bluefieldstate.edu/academics/degrees failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_academic_departments_programs, degrees dropped ,https://www.niche.com/colleges/bluefield-state-college/majors/ failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_of_athletic_spending_programs, cut men’s sports ,https://go-bstate.com/landing/index failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_of_athletic_spending_programs, cut men’s sports ,https://bluefieldstate.edu/community/news-and-events/bluefield-state-returns-football-and-11-additional-sports-2021-2022 failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_of_athletic_spending_programs, cut women’s sports ,https://go-bstate.com/landing/index failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_of_athletic_spending_programs, cut women’s sports ,https://bluefieldstate.edu/community/news-and-events/bluefield-state-returns-football-and-11-additional-sports-2021-2022 failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_of_institution_staff, staff layoffs ,https://www.wvgazettemail.com/news/education/amid-plummeting-enrollment-bluefield-state-weighs-possible-faculty-moves/article_f063e24a-196f-5d77-a494-1952ed8fd9b7.html failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_of_institution_staff, staff reductions ,https://bluefieldstate.edu/resources/technical-assistance/discountsoftware failed,NaN,NaN

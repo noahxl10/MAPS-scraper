@@ -1,0 +1,235 @@
+,unitID,school,grouping_var,term,url,present_absent,context
+0,240727,University of Wyoming,st_change_tuition_(>), increase tuition ,https://www.collegefactual.com/colleges/university-of-wyoming/paying-for-college/tuition-and-fees/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(>), increase tuition ,https://admissions.uni.edu/costs failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(>), raise tuition ,https://www.uwyo.edu/uw/news/2019/07/uw-trustees-approve-new-financial-aid-for-wyoming-students.html failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(>), raise tuition ,https://oilcity.news/community/2019/07/22/with-tuition-hikes-uw-to-provide-new-financial-aid/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), reduce tuition ,http://www.uwyo.edu/sfa/cost-of-attendance/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), reduce tuition ,https://admissions.uni.edu/costs failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), freeze tuition ,https://admissions.uni.edu/costs failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), freeze tuition ,https://tuition.uni.edu/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), differ tuition ,https://admissions.uni.edu/costs failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), differ tuition ,https://tuition.uni.edu/ failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), decrease tuition ,https://www.uwyo.edu/uw/news/2019/07/uw-trustees-approve-new-financial-aid-for-wyoming-students.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Wyoming_Guide+%28Wyoming_Guide%29 failed,NaN,NaN
+0,240727,University of Wyoming,st_change_tuition_(<=), decrease tuition ,https://trib.com/news/state-and-regional/university-of-wyoming-expects-20-enrollment-drop/article_82dd1e94-9185-564f-adc7-0c159644c31b.html failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_hiring, deferred hiring ,https://retirement.state.wy.us/en/DC failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_hiring, deferred hiring ,http://www.uwyo.edu/admissions/enrollment/defer.html failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_hiring, deferred hiring of vacant positions ,https://post.edu/associate-experience/career-opportunities/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_hiring, deferred hiring of vacant positions ,"https://www.indeed.com/q-Post-University-l-Waterbury,-CT-jobs.html failed",NaN,NaN
+0,240727,University of Wyoming,st_salary_promotion_freeze, freeze salary increases ,https://www.cachevalleydaily.com/news/archive/2020/03/25/compensation-increases-in-store-for-university-employees/ failed,NaN,NaN
+0,240727,University of Wyoming,st_salary_promotion_freeze, freeze salary increases ,https://hr.osu.edu/services/compensation/amcp/ failed,NaN,NaN
+0,240727,University of Wyoming,st_salary_promotion_freeze, no salary changes ,https://www.uwyo.edu/shser/corona-virus.html failed,NaN,NaN
+0,240727,University of Wyoming,st_salary_promotion_freeze, no salary changes ,http://www.uwyo.edu/reslife-dining/housing/residence_halls/admitted-students.html failed,NaN,NaN
+0,240727,University of Wyoming,st_salary_promotion_freeze, no merit increases ,https://www.usmd.edu/usm/adminfinance/hr/cola failed,NaN,NaN
+0,240727,University of Wyoming,st_salary_promotion_freeze, no merit increases ,http://provost.umich.edu/faculty/handbook/14/14.E.html failed,NaN,NaN
+0,240727,University of Wyoming,st_salary_promotion_freeze, pay freeze ,https://www.indeed.com/cmp/University-of-Wyoming/salaries failed,NaN,NaN
+0,240727,University of Wyoming,st_salary_promotion_freeze, pay freeze ,https://www.uwyo.edu/hr/classification-compensation/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_staff_and_faculty_support, pay cuts ,http://www.uwyo.edu/uw/news/uw-in-the-news/2020/04/uw-in-the-news.html failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_staff_and_faculty_support, pay cuts ,https://www.emich.edu/budget-impact/other-universities-budget-cut-announcements/index.php,1,"g coronavirus  5/4:  ohio university cuts 140 positions  5/2: university of missouri making layoffs, pay cuts due to budget shortfall  5/1:  ou lays off 140 union employees; more cuts to come  5/1: po"
+0,240727,University of Wyoming,st_reduce_staff_and_faculty_support, pay cuts ,https://www.emich.edu/budget-impact/other-universities-budget-cut-announcements/index.php,1,"most of miami's contingent teachers told contracts won't be renewed, group says  4/17: furloughs and pay cuts set for staff, faculty at university of arizona  4/16: valparaiso university furloughs 200"
+0,240727,University of Wyoming,st_reduce_staff_and_faculty_support, salary reductions ,https://www.insidehighered.com/news/2016/09/09/university-wyoming-faces-more-budget-crunch failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.ibo.org/benefits/benefits-for-universities/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.oecd.org/newsroom/benefits-of-university-education-remain-high-but-vary-widely-across-fields-of-study.htm failed,NaN,NaN
+0,240727,University of Wyoming,st_voluntary_incentivized_staff_faculty_reduction, offer retirement incentives ,https://www.una.edu/humanresources/special-voluntary-retirement-incentive.html failed,NaN,NaN
+0,240727,University of Wyoming,st_voluntary_incentivized_staff_faculty_reduction, offer retirement incentives ,https://hr.cornell.edu/covid-19-workplace-guidance/2020-voluntary-retirement-incentive failed,NaN,NaN
+0,240727,University of Wyoming,st_voluntary_incentivized_staff_faculty_reduction, voluntary pay cuts ,https://www.cleveland.com/education/2020/06/university-of-akrons-plan-to-cut-costs-includes-substantial-job-cuts-president-says.html failed,NaN,NaN
+0,240727,University of Wyoming,st_voluntary_incentivized_staff_faculty_reduction, voluntary pay cuts ,https://www.insidehighered.com/news/2020/07/16/budget-bloodbath-university-akron failed,NaN,NaN
+0,240727,University of Wyoming,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,https://trib.com/news/state-and-regional/health/state-furloughs-will-impact-lab-staff-processing-coronavirus-samples-employee-says/article_3d964e22-8a03-5825-9559-090441e005d9.html failed,NaN,NaN
+0,240727,University of Wyoming,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,https://www.uidaho.edu/human-resources/employees/mandatory-furlough,1,"program begins with the start of the fy21 fiscal year, june 28, 2020.         11. i’ve already taken voluntary furlough this year.  can i apply this to my furlough obligation?         no. the voluntar"
+0,240727,University of Wyoming,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,https://www.uidaho.edu/human-resources/employees/mandatory-furlough,1,"ady taken voluntary furlough this year.  can i apply this to my furlough obligation?         no. the voluntary furlough program was designated for fy20. the mandatory furlough program impacts fy21, be"
+0,240727,University of Wyoming,st_voluntary_incentivized_staff_faculty_reduction, buyouts ,https://trib.com/sports/college/wyoming/football/clemson-will-pay-wyoming-1-1-million-to-buy-out-of-2021-game/article_c1eedc7c-a3bd-591d-be92-d76b7451bba9.html failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, forced furlough ,https://www.uidaho.edu/human-resources/employees/mandatory-furlough failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, forced furlough ,https://www.azcentral.com/story/news/local/arizona-education/2020/07/01/university-arizona-furlough-plans-delayed-aug-10/5360218002/ failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, staff furlough ,https://www.uidaho.edu/human-resources/employees/mandatory-furlough failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, staff furlough ,https://www.azcentral.com/story/news/local/arizona-education/2020/07/01/university-arizona-furlough-plans-delayed-aug-10/5360218002/ failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, faculty furlough ,https://www.uidaho.edu/human-resources/employees/mandatory-furlough failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, faculty furlough ,https://www.azcentral.com/story/news/local/arizona-education/2020/07/01/university-arizona-furlough-plans-delayed-aug-10/5360218002/ failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, involuntary furlough ,https://www.uidaho.edu/human-resources/employees/mandatory-furlough failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, involuntary furlough ,https://www.azcentral.com/story/news/local/arizona-education/2020/07/01/university-arizona-furlough-plans-delayed-aug-10/5360218002/ failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, furlough ,https://www.gillettenewsrecord.com/news/wyoming/article_7686640a-0f6f-5c58-bd0e-c809ace5662b.html failed,NaN,NaN
+0,240727,University of Wyoming,st_furlough_staff_faculty, furlough ,https://www.wyomingnews.com/coronavirus/state-employees-to-see-furloughs-reductions-in-force-due-to-budget-shortfalls/article_77342391-f238-56a3-91e9-c133f7606fb9.html failed,NaN,NaN
+0,240727,University of Wyoming,st_deferred_infrastructure_improvement, deferred maintenance ,https://retirement.state.wy.us/en/DC failed,NaN,NaN
+0,240727,University of Wyoming,st_deferred_infrastructure_improvement, deferred maintenance ,https://www.tiaa.org/public/tcm/wyoming/investment-options/plan3 failed,NaN,NaN
+0,240727,University of Wyoming,st_deferred_infrastructure_improvement, deferred capital projects ,https://www.clemson.edu/facilities/capital/ failed,NaN,NaN
+0,240727,University of Wyoming,st_deferred_infrastructure_improvement, deferred capital projects ,https://cufacilities.sites.clemson.edu/capital/projects failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_operational_spending, reduce travel spending ,https://www.umsystem.edu/oei/sharedservices/apss/travel_and_expense failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_operational_spending, reduce travel spending ,http://www.uwyo.edu/sfa/cost-of-attendance/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_operational_spending, reduce unnecessary spending ,https://hechingerreport.org/increasingly-skeptical-students-employees-want-colleges-to-show-them-the-money/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_operational_spending, reduce unnecessary spending ,https://www.epa.gov/sustainable-management-food/wasted-food-programs-and-resources-across-united-states failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_operational_spending, streamline budget ,https://www.tampabay.com/news/education/2020/08/31/coronavirus-forces-usf-state-universities-to-cut-budgets/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduce_operational_spending, streamline budget ,https://www.american.edu/finance/budget/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, stop scholarships ,http://www.uwyo.edu/stop/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, stop scholarships ,https://www.youtube.com/watch?v=HiMV08lnvUg&list=PLbfm_kskCrZC_IUliG4wmocZLM-g6IWhG&index=16&t=0s failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, cut scholarships ,http://www.uwyo.edu/sfa/cost-of-attendance/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, cut scholarships ,https://www.si.com/college/wyoming/around-the-mwc/athletic-departments-cut-sports-but-wyoming-athletics-makes-adjustments-to-avoid-eliminating-teams failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, scale back financial aid ,https://studentaid.gov/understand-aid/types failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, scale back financial aid ,https://catalog.uni.edu/generalinformation/feesandfinancialaid/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, cut financial aid ,https://studentaid.gov/understand-aid/types failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, cut financial aid ,http://www.uwyo.edu/sfa/cost-of-attendance/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, no longer offer scholarships ,http://www.uwyo.edu/ failed,NaN,NaN
+0,240727,University of Wyoming,st_reduction_of_financial_aid, no longer offer scholarships ,https://www.sofi.com/wyoming-student-loan-and-scholarships/ failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_student_support_programs, sell buildings ,https://www.bdcnetwork.com/building-types/university-buildings failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_student_support_programs, sell buildings ,https://www.kent.edu/policyreg/university-policy-regarding-establishment-or-revision-academic-administrative-structures failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_student_support_programs, sell land ,https://landinstitute.org/ failed,NaN,NaN
+0,240727,University of Wyoming,lt_reduction_or_elimination_of_student_support_programs, sell land ,https://en.wikipedia.org/wiki/Land-grant_university failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), increase tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), increase tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), raise tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(>), raise tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), reduce tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), reduce tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), freeze tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), freeze tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), differ tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), differ tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), decrease tuition ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_change_tuition_(<=), decrease tuition ,https://www.bdtonline.com/news/bluefield-state-college-announces-free-tuition-program-for-qualified-students/article_e4c18cbe-91dc-11e9-9d23-dbc3ff8e9c44.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_hiring, deferred hiring ,https://bluefieldstate.edu/resources/human-resources failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_hiring, deferred hiring ,https://www.higheredjobs.com/institution/search.cfm?University=Bluefield%20State%20College failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_hiring, deferred hiring of vacant positions ,https://bluefieldstate.edu/resources/human-resources failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_hiring, deferred hiring of vacant positions ,https://www.higheredjobs.com/institution/search.cfm?University=Bluefield%20State%20College failed,NaN,NaN
+0,237215,Bluefield State College,st_salary_promotion_freeze, freeze salary increases ,https://www.sacbee.com/news/politics-government/the-state-worker/article236422798.html failed,NaN,NaN
+0,237215,Bluefield State College,st_salary_promotion_freeze, no salary changes ,https://bluefieldstate.edu/tuition/tuition-and-fees failed,NaN,NaN
+0,237215,Bluefield State College,st_salary_promotion_freeze, no salary changes ,https://www.npr.org/sections/codeswitch/2013/10/18/236345546/the-whitest-historically-black-college-in-america failed,NaN,NaN
+0,237215,Bluefield State College,st_salary_promotion_freeze, pay freeze ,https://www.realcleareducation.com/articles/2020/05/15/colleges_that_receive_bailout_money_should_be_forced_to_cut_administrative_bloat_110420.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_staff_and_faculty_support, pay cuts ,https://www.realcleareducation.com/articles/2020/05/15/colleges_that_receive_bailout_money_should_be_forced_to_cut_administrative_bloat_110420.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_staff_and_faculty_support, salary reductions ,https://www.wvgazettemail.com/news/education/bluefield-state-college-board-picks-capehart-for-president/article_fafccb51-74dc-5f05-8013-10641af67b53.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_staff_and_faculty_support, salary reductions ,https://www.realcleareducation.com/articles/2020/05/15/colleges_that_receive_bailout_money_should_be_forced_to_cut_administrative_bloat_110420.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_staff_and_faculty_support, reduce benefits ,http://www.thehundred-seven.org/waive_out-of-state_fees.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.edvisors.com/plan-for-college/money-saving-tips/tuition-cuts/ failed,NaN,NaN
+0,237215,Bluefield State College,st_voluntary_incentivized_staff_faculty_reduction, offer retirement incentives ,https://bluefieldstate.edu/academics/schools/nursing-allied-health failed,NaN,NaN
+0,237215,Bluefield State College,st_voluntary_incentivized_staff_faculty_reduction, voluntary pay cuts ,https://silo.tips/download/2013-directory-of-african-american-ceos-and-leaders failed,NaN,NaN
+0,237215,Bluefield State College,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,E failed,NaN,NaN
+0,237215,Bluefield State College,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,R failed,NaN,NaN
+0,237215,Bluefield State College,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,R failed,NaN,NaN
+0,237215,Bluefield State College,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,O failed,NaN,NaN
+0,237215,Bluefield State College,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,R failed,NaN,NaN
+0,237215,Bluefield State College,st_voluntary_incentivized_staff_faculty_reduction, buyouts ,https://bluefieldstate.edu/ failed,NaN,NaN
+0,237215,Bluefield State College,st_voluntary_incentivized_staff_faculty_reduction, buyouts ,https://go-bstate.com/landing/index failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, forced furlough ,https://adventistdigitallibrary.org/islandora/search?page=1950 failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, forced furlough ,https://careersdocbox.com/College/86230917-Annual-meeting-of-the-american-comparative-literature-association.html failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, staff furlough ,https://bluefieldstate.edu/ failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, staff furlough ,https://go-bstate.com/landing/index failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, faculty furlough ,https://bluefieldstate.edu/resources/faculty-senate failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, faculty furlough ,http://www.bluefield.edu/employee-directory/ failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, involuntary furlough ,E failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, involuntary furlough ,R failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, involuntary furlough ,R failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, involuntary furlough ,O failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, involuntary furlough ,R failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, furlough ,https://bluefieldstate.edu/ failed,NaN,NaN
+0,237215,Bluefield State College,st_furlough_staff_faculty, furlough ,https://go-bstate.com/landing/index failed,NaN,NaN
+0,237215,Bluefield State College,st_deferred_infrastructure_improvement, deferred maintenance ,https://www.indeed.com/m/jobs?q=Director+of+Mechanical+Maintenance failed,NaN,NaN
+0,237215,Bluefield State College,st_deferred_infrastructure_improvement, deferred capital projects ,https://ncadmin.nc.gov/businesses/construction failed,NaN,NaN
+0,237215,Bluefield State College,st_deferred_infrastructure_improvement, deferred capital projects ,https://doa.wi.gov/Pages/DoingBusiness/StateConstProjs.aspx failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_operational_spending, reduce travel spending ,https://longwoods-intl.com/colorado-bursts-into-top-10-tourist-attracting-states-with-record-year failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_operational_spending, reduce unnecessary spending ,https://mainepolicy.org/unnecessary-spending-leaves-maine-unprepared-for-economic-fallout-from-coronavirus/ failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_operational_spending, reduce unnecessary spending ,https://www.heritage.org/budget-and-spending/report/50-examples-government-waste failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_operational_spending, streamline budget ,E failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_operational_spending, streamline budget ,R failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_operational_spending, streamline budget ,R failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_operational_spending, streamline budget ,O failed,NaN,NaN
+0,237215,Bluefield State College,st_reduce_operational_spending, streamline budget ,R failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, stop scholarships ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, stop scholarships ,http://www.free-4u.com/Colleges/Bluefield-State-College.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, cut scholarships ,https://bluefieldstate.edu/tuition/scholarships failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, cut scholarships ,http://www.free-4u.com/Colleges/Bluefield-State-College.html failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, scale back financial aid ,https://bluefieldstate.edu/tuition/financial-aid failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, scale back financial aid ,https://www.collegefactual.com/colleges/bluefield-state-college/paying-for-college/financial-aid/ failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, cut financial aid ,https://bluefieldstate.edu/tuition/financial-aid failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, cut financial aid ,https://www.collegefactual.com/colleges/bluefield-state-college/paying-for-college/financial-aid/ failed,NaN,NaN
+0,237215,Bluefield State College,st_reduction_of_financial_aid, no longer offer scholarships ,https://bluefieldstate.edu/ failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_student_support_programs, sell buildings ,https://en.wikipedia.org/wiki/Nyack_College failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_student_support_programs, sell buildings ,https://www.publicsurplus.com/sms/browse/cataucs?catid=1 failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_student_support_programs, sell land ,http://www.campusbooks4less.com/collegebookstores/ failed,NaN,NaN
+0,237215,Bluefield State College,lt_reduction_or_elimination_of_student_support_programs, sell land ,https://en.wikipedia.org/wiki/Nyack_College failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(>), increase tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(>), increase tuition ,https://concordacademy.org/admissions/financial-aid/ failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(>), raise tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(>), raise tuition ,https://concordacademy.org/admissions/financial-aid/ failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), reduce tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), reduce tuition ,https://concordacademy.org/admissions/financial-aid/ failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), freeze tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), freeze tuition ,https://concordacademy.org/admissions/financial-aid/ failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), differ tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), differ tuition ,https://concordacademy.org/admissions/financial-aid/ failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), decrease tuition ,https://www.concord.edu/Financial-Aid/Tuition-Reduction-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_change_tuition_(<=), decrease tuition ,https://concordacademy.org/admissions/financial-aid/ failed,NaN,NaN
+0,237330,Concord University,st_reduce_hiring, deferred hiring ,https://agency.governmentjobs.com/concord/default.cfm failed,NaN,NaN
+0,237330,Concord University,st_reduce_hiring, deferred hiring ,https://concordusa.com/careers failed,NaN,NaN
+0,237330,Concord University,st_reduce_hiring, deferred hiring of vacant positions ,"https://www.indeed.com/l-Concord,-NC-jobs.html failed",NaN,NaN
+0,237330,Concord University,st_reduce_hiring, deferred hiring of vacant positions ,"https://www.glassdoor.com/Job/concord-jobs-SRCH_IL.0,7_IC1138646.htm failed",NaN,NaN
+0,237330,Concord University,st_salary_promotion_freeze, freeze salary increases ,https://www.concordmonitor.com/After-state-budget-increase-University-System-of-New-Hampshire-votes-to-freeze-in-state-tuition-29828169 failed,NaN,NaN
+0,237330,Concord University,st_salary_promotion_freeze, freeze salary increases ,https://vtdigger.org/2020/04/29/faculty-cuts-pay-reductions-considered-as-uvm-tightens-budget/ failed,NaN,NaN
+0,237330,Concord University,st_salary_promotion_freeze, no salary changes ,https://www.concord.edu/Student-Life/Student-Health-Wellness/tobaccofree.aspx failed,NaN,NaN
+0,237330,Concord University,st_salary_promotion_freeze, no salary changes ,http://www.concordianonline.com/news/view.php/1026105/Dr-Boggess-Discusses-Changes failed,NaN,NaN
+0,237330,Concord University,st_salary_promotion_freeze, no merit increases ,https://www.concord.edu/Student-Life/Student-Health-Wellness/tobaccofree.aspx failed,NaN,NaN
+0,237330,Concord University,st_salary_promotion_freeze, pay freeze ,https://www.uhhospitals.org/myuhcare/pay-my-bill failed,NaN,NaN
+0,237330,Concord University,st_salary_promotion_freeze, pay freeze ,https://www.purdueglobal.edu/tuition-financial-aid/tuition-reduction/ failed,NaN,NaN
+0,237330,Concord University,st_reduce_staff_and_faculty_support, pay cuts ,https://www.concord.edu/http/www-concord-edu/About/Important-Offices-Centers/Human-Resources-Jobs-aspx.aspx failed,NaN,NaN
+0,237330,Concord University,st_reduce_staff_and_faculty_support, salary reductions ,https://www.concord.edu/About/Administration/Board-of-Governors/BOG-Policies.aspx failed,NaN,NaN
+0,237330,Concord University,st_reduce_staff_and_faculty_support, salary reductions ,https://concordcoachlines.com/deals-and-discounts/ failed,NaN,NaN
+0,237330,Concord University,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.onedigital.com/blog/onedigital-health-and-benefits-acquires-concord-benefits-planning-agency/ failed,NaN,NaN
+0,237330,Concord University,st_reduce_staff_and_faculty_support, reduce benefits ,https://www.concordgroupinsurance.com/about/why-work-at-concord/benefits failed,NaN,NaN
+0,237330,Concord University,st_voluntary_incentivized_staff_faculty_reduction, offer retirement incentives ,https://www.usnh.edu/policy/usy/v-personnel-policies/employee-benefits failed,NaN,NaN
+0,237330,Concord University,st_voluntary_incentivized_staff_faculty_reduction, offer retirement incentives ,https://www.wisconsin.edu/ohrwd/benefits/ret/tsa/faq/ failed,NaN,NaN
+0,237330,Concord University,st_voluntary_incentivized_staff_faculty_reduction, voluntary pay cuts ,https://www.gazettenet.com/UMass-announces-furloughs-hour-reductions-for-57-athletic-staffers-36310905 failed,NaN,NaN
+0,237330,Concord University,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,https://www.uidaho.edu/human-resources/employees/mandatory-furlough,1,"program begins with the start of the fy21 fiscal year, june 28, 2020.         11. i’ve already taken voluntary furlough this year.  can i apply this to my furlough obligation?         no. the voluntar"
+0,237330,Concord University,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,https://www.uidaho.edu/human-resources/employees/mandatory-furlough,1,"ady taken voluntary furlough this year.  can i apply this to my furlough obligation?         no. the voluntary furlough program was designated for fy20. the mandatory furlough program impacts fy21, be"
+0,237330,Concord University,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,https://sites.rowan.edu/hr/benefits/furlough.html,1,         furlough       rowan university » human resources » benefits » furlough    furlough         voluntary furlough  voluntary furlough request form (pdf)  faq:   how long can a voluntary furlough
+0,237330,Concord University,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,https://sites.rowan.edu/hr/benefits/furlough.html,1,    rowan university » human resources » benefits » furlough    furlough         voluntary furlough  voluntary furlough request form (pdf)  faq:   how long can a voluntary furlough last?  will my titl
+0,237330,Concord University,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,https://sites.rowan.edu/hr/benefits/furlough.html,1,"   furlough         voluntary furlough  voluntary furlough request form (pdf)  faq:   how long can a voluntary furlough last?  will my title, seniority, or anniversary date be affected?  how will the "
+0,237330,Concord University,st_voluntary_incentivized_staff_faculty_reduction, voluntary furlough ,https://sites.rowan.edu/hr/benefits/furlough.html,1,"ase the pension credit back when i return to the payroll form an extended furlough?   how long can a voluntary furlough last?  if approved by rowan university, you may be permitted to take up to 30 in"
+0,237330,Concord University,st_voluntary_incentivized_staff_faculty_reduction, buyouts ,https://www.vnews.com/Dartmouth-offers-early-buyout-to-qualified-employees-35094786,1, more at the links below.    subscribe donate             news > education  dartmouth college offers buyouts to longtime staff       staff report    published: 7/6/2020 9:21:53 pm  modified: 7/6/2020 
+0,237330,Concord University,st_voluntary_incentivized_staff_faculty_reduction, buyouts ,https://www.ktlo.com/author/wirereadyktlo/page/42/ failed,NaN,NaN
+0,237330,Concord University,st_furlough_staff_faculty, forced furlough ,https://edsource.org/2020/give-us-a-tuition-break-say-california-students-forced-into-online-university-classes/626022 failed,NaN,NaN
+0,237330,Concord University,st_furlough_staff_faculty, staff furlough ,https://www.concord.edu/TopMenu/Faculty-Staff.aspx failed,NaN,NaN
+0,237330,Concord University,st_furlough_staff_faculty, staff furlough ,https://www.insidehighered.com/news/2020/03/13/future-unclear-support-staff-empty-college-campuses failed,NaN,NaN
+0,237330,Concord University,st_furlough_staff_faculty, faculty furlough ,https://www.concord.edu/Financial-Aid/CARES-Act.aspx failed,NaN,NaN
+0,237330,Concord University,st_furlough_staff_faculty, faculty furlough ,https://cumountainlions.com/ failed,NaN,NaN
+0,237330,Concord University,st_furlough_staff_faculty, involuntary furlough ,E failed,NaN,NaN
+0,237330,Concord University,st_furlough_staff_faculty, involuntary furlough ,R failed,NaN,NaN
+0,237330,Concord University,st_furlough_staff_faculty, involuntary furlough ,R failed,NaN,NaN
+0,237330,Concord University,st_furlough_staff_faculty, involuntary furlough ,O failed,NaN,NaN
+0,237330,Concord University,st_furlough_staff_faculty, involuntary furlough ,R failed,NaN,NaN
+0,237330,Concord University,st_furlough_staff_faculty, furlough ,https://www.concord.edu/Financial-Aid/CARES-Act.aspx failed,NaN,NaN
+0,237330,Concord University,st_furlough_staff_faculty, furlough ,https://www.insidehighered.com/news/2020/03/13/future-unclear-support-staff-empty-college-campuses failed,NaN,NaN
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://www.concordservicing.com/ failed,NaN,NaN
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,ader search form   search for:      search      search eab10                     eab    tackling the deferred maintenance crisis        share    share                    subscribe                  hom
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,   share    share                    subscribe                  home       research     tackling the deferred maintenance crisis       tackling the deferred maintenance crisis  five things every insti
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,                 home       research     tackling the deferred maintenance crisis       tackling the deferred maintenance crisis  five things every institutional leader should know about the campus th
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,"mprove        share    share                                 colleges and universities face daunting deferred maintenance backlogs. budget shortfalls are only amplifying the issue, and maintenance nee"
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,tegic goals.  our briefing outlines five insights campus leaders should keep in mind when navigating deferred maintenance decisions.    more on this topic   this resource is part of the address critic
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,eferred maintenance decisions.    more on this topic   this resource is part of the address critical deferred maintenance backlogs roadmap. access the roadmap for stepwise guidance with additional too
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,dmap. access the roadmap for stepwise guidance with additional tools and research.   explore      1. deferred maintenance is not just a facilities problem—it affects everyone  deferred maintenance has
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,search.   explore      1. deferred maintenance is not just a facilities problem—it affects everyone  deferred maintenance has been a top priority for facilities leaders for decades. as institutions fa
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,"leaders for decades. as institutions face aging buildings and growing maintenance backlogs, tackling deferred maintenance has increasingly become a primary concern for boards, presidents, academic lea"
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,"e a primary concern for boards, presidents, academic leaders, and students. the growing attention on deferred maintenance is unsurprising given that maintenance issues affect all areas of campus. unad"
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,d than a single backlog number  most institutions can point to a single number that represents their deferred maintenance backlog. this figure roughly approximates all projects a campus must complete 
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,"ear, the slowest pace compared to the other categories.   read more       1.5x     average growth of deferred maintenance backlog compared to inflation     4. while daunting, the backlog is surmountab"
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,"cklog compared to inflation     4. while daunting, the backlog is surmountable  addressing a growing deferred maintenance backlog represents one of the single greatest challenges facing most campuses."
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,"tions offer a number of lessons on how higher education can begin to turn the tanker and address the deferred maintenance backlog. to equip institutions with the information they need, the facilities "
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1," they need, the facilities forum offers multiple resources.          addressing increasingly complex deferred maintenance decisions    six lessons to improve planning, prioritization, and executive co"
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1,", and executive communication         capital renewal funding playbook    access 100 tactics to fund deferred maintenance projects         shifting the balance from reactive to preventive maintenance "
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred maintenance ,https://eab.com/research/facilities/resource/tackling-the-deferred-maintenance-crisis/,1, other institutions.     access the infographic                tags    budget models    budgeting    deferred maintenance            by ann forman lippens         linkedin        ann forman lippens is
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred capital projects ,https://www.cityofconcord.org/491/Public-Projects-Construction-Engineering failed,NaN,NaN
+0,237330,Concord University,st_deferred_infrastructure_improvement, deferred capital projects ,https://www.concordnc.gov/newcityhall failed,NaN,NaN
+0,237330,Concord University,st_reduce_operational_spending, reduce travel spending ,https://edsource.org/2020/give-us-a-tuition-break-say-california-students-forced-into-online-university-classes/626022 failed,NaN,NaN
+0,237330,Concord University,st_reduce_operational_spending, reduce travel spending ,https://www.theguardian.com/education/2020/apr/22/students-should-get-a-years-refund-due-to-covid-19-crisis failed,NaN,NaN
+0,237330,Concord University,st_reduce_operational_spending, reduce unnecessary spending ,https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1081&context=etd failed,NaN,NaN
+0,237330,Concord University,st_reduce_operational_spending, reduce unnecessary spending ,https://www.newspapers.com/newspage/87339567/ failed,NaN,NaN
+0,237330,Concord University,st_reduce_operational_spending, streamline budget ,https://www.budget.com/en/locations/us/nc/concord/usa failed,NaN,NaN
+0,237330,Concord University,st_reduce_operational_spending, streamline budget ,https://www.budgettruck.com/locations/nc/concord/280230 failed,NaN,NaN
+0,237330,Concord University,st_reduction_of_financial_aid, stop scholarships ,https://www.concord.edu/Financial-Aid/Scholarships.aspx failed,NaN,NaN
+0,237330,Concord University,st_reduction_of_financial_aid, stop scholarships ,https://www.thescholarshipfundofcc.org/ failed,NaN,NaN
+0,237330,Concord University,st_reduction_of_financial_aid, cut scholarships ,https://www.concord.edu/Financial-Aid/Scholarships.aspx failed,NaN,NaN
+0,237330,Concord University,st_reduction_of_financial_aid, cut scholarships ,https://www.thescholarshipfundofcc.org/ failed,NaN,NaN
+0,237330,Concord University,st_reduction_of_financial_aid, scale back financial aid ,https://www.concord.edu/Financial-Aid/Financial-Aid-FAQ.aspx failed,NaN,NaN
+0,237330,Concord University,st_reduction_of_financial_aid, scale back financial aid ,https://www.concordhospital.org/patients-visitors/billing-insurance-financial-assistance/financial-assistance/ failed,NaN,NaN
+0,237330,Concord University,st_reduction_of_financial_aid, cut financial aid ,https://www.nhti.edu/tuition/financial-aid/ failed,NaN,NaN
+0,237330,Concord University,st_reduction_of_financial_aid, cut financial aid ,https://www.concord.edu/Financial-Aid.aspx failed,NaN,NaN
+0,237330,Concord University,st_reduction_of_financial_aid, no longer offer scholarships ,https://www.concord.edu/Financial-Aid/Free-Degree-(1).aspx failed,NaN,NaN
+0,237330,Concord University,st_reduction_of_financial_aid, no longer offer scholarships ,https://newsinteractive.post-gazette.com/small-private-colleges-struggling-to-succeed/ failed,NaN,NaN
+0,237330,Concord University,lt_reduction_or_elimination_of_student_support_programs, sell buildings ,https://www.concord.edu/About/Campus-Map.aspx failed,NaN,NaN
+0,237330,Concord University,lt_reduction_or_elimination_of_student_support_programs, sell buildings ,https://www.buncebuildings.com/locations/concord-nc/ failed,NaN,NaN
+0,237330,Concord University,lt_reduction_or_elimination_of_student_support_programs, sell land ,http://www.concordland.org/ failed,NaN,NaN
+0,237330,Concord University,lt_reduction_or_elimination_of_student_support_programs, sell land ,https://www.clemson.edu/giving/cufoundations/structure/curef/properties.html failed,NaN,NaN

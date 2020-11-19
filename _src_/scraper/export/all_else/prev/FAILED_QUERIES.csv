@@ -1,0 +1,65 @@
+,unit_ID,school,variable,term,url,metadata_date
+6,102553,Arizona State University-Tempe,st_reduce_hiring,hiring freeze,S,S
+36,102553,Arizona State University-Tempe,st_reduce_hiring,open positions,S,S
+40,102553,Arizona State University-Tempe,st_furlough_staff_faculty,furlough,S,S
+41,102553,Arizona State University-Tempe,st_furlough_staff_faculty,staff furlough,S,S
+52,102553,Arizona State University-Tempe,st_reduce_hiring,vacancies open,S,S
+63,102553,Arizona State University-Tempe,st_reduce_hiring,deferred hiring deferred hiring of vacant positions,S,S
+64,102553,Arizona State University-Tempe,st_voluntary_incentivized_staff_faculty_reduction,retirement incentives,S,S
+78,102553,Arizona State University-Tempe,st_reduce_staff_and_faculty_support,suspend retirement contributions,S,S
+82,102553,Arizona State University-Tempe,st_voluntary_incentivized_staff_faculty_reduction,early retirement,S,S
+101,102553,Arizona State University-Tempe,st_furlough_staff_faculty,faculty furlough,S,S
+111,102553,Arizona State University-Tempe,st_reduce_operational_spending,operational spending reductions,S,S
+136,102553,Arizona State University-Tempe,st_reduce_operational_spending,reduce purchases,S,S
+149,102553,Arizona State University-Tempe,st_reduce_operational_spending,reduce travel spending,S,S
+153,102553,Arizona State University-Tempe,lt_reduction_or_elimination_of_academic_departments_programs,program cuts,S,S
+165,102553,Arizona State University-Tempe,lt_reduction_or_elimination_of_academic_departments_programs,cut programs,S,S
+174,102553,Arizona State University-Tempe,lt_reduction_of_institution_staff,layoff staff,S,S
+180,102553,Arizona State University-Tempe,lt_reduction_of_athletic_spending_programs,cut athletics budget,S,S
+181,102553,Arizona State University-Tempe,lt_reduction_of_institution_staff,staff cuts,S,S
+182,102553,Arizona State University-Tempe,lt_reduction_of_institution_faculty,faculty cuts,S,S
+186,102553,Arizona State University-Tempe,lt_reduction_of_institution_staff,cut staff,S,S
+191,102553,Arizona State University-Tempe,lt_reduction_of_institution_staff,staff layoffs,S,S
+192,102553,Arizona State University-Tempe,lt_reduction_of_athletic_spending_programs,athletics spending cuts,S,S
+206,102553,Arizona State University-Tempe,lt_reduction_of_institution_faculty,faculty laid off,S,S
+207,102553,Arizona State University-Tempe,lt_reduction_of_institution_faculty,layoff faculty,S,S
+232,102553,Arizona State University-Tempe,lt_reduction_or_elimination_of_administrative_departments,administrative budget cuts,S,S
+270,102553,Arizona State University-Tempe,lt_improve_student_experience_gr,offer amenities,S,S
+307,102553,Arizona State University-Tempe,lt_improve_staff_faculty_support_gr,tenure,S,S
+321,102553,Arizona State University-Tempe,lt_improve_staff_faculty_support_gr,promotions,S,S
+369,102614,Christopher Newport University,st_reduce_staff_and_faculty_support,reduction of benefits,S,S
+389,102614,Christopher Newport University,st_reduce_staff_and_faculty_support,reduce benefits,S,S
+445,102614,Christopher Newport University,st_reduce_hiring,leave positions unfilled,S,S
+459,102614,Christopher Newport University,st_furlough_staff_faculty,furlough days,S,S
+467,102614,Christopher Newport University,st_furlough_staff_faculty,furlough,S,S
+471,102614,Christopher Newport University,st_furlough_staff_faculty,faculty furlough,S,S
+474,102614,Christopher Newport University,st_deferred_infrastructure_improvement,deferred maintenance,S,S
+499,102614,Christopher Newport University,st_reduce_operational_spending,operational spending reductions,S,S
+721,102614,Christopher Newport University,lt_improve_infrastructure_gr,building improvement,S,S
+799,102614,Christopher Newport University,lt_improve_staff_faculty_support_gr,increase benefits,S,S
+862,102632,Taylor University,st_reduce_hiring,hiring chill,S,S
+863,102632,Taylor University,st_reduce_hiring,vacancies open,S,S
+873,102632,Taylor University,st_salary_promotion_freeze,freeze salary increases,S,S
+874,102632,Taylor University,lt_reduction_of_institution_staff,cut staff,S,S
+955,102632,Taylor University,lt_reduction_or_elimination_of_student_support_programs,reduce student assistance,S,S
+969,102632,Taylor University,lt_reduction_or_elimination_of_academic_departments_programs,courses dropped,S,S
+1387,102298,University of Wisconsin-Eau Claire,st_reduction_of_financial_aid,cut scholarships,S,S
+1388,102298,University of Wisconsin-Eau Claire,lt_reduction_or_elimination_of_student_support_programs,cut student programs,S,S
+1416,102298,University of Wisconsin-Eau Claire,lt_reduction_or_elimination_of_academic_departments_programs,cut programs,S,S
+1536,102298,University of Wisconsin-Eau Claire,st_expand_unconventional_programs_gr,expand to adults,S,S
+1573,102298,University of Wisconsin-Eau Claire,lt_improve_infrastructure_gr,building improvement,S,S
+1665,100663,Cheyney University of Pennsylvania,st_change_tuition_(>),add fees,S,S
+1738,100663,Cheyney University of Pennsylvania,st_furlough_staff_faculty,staff furlough,S,S
+1755,100663,Cheyney University of Pennsylvania,st_deferred_infrastructure_improvement,deferred maintenance,S,S
+1758,100663,Cheyney University of Pennsylvania,st_deferred_infrastructure_improvement,deferred capital projects,S,S
+1762,100663,Cheyney University of Pennsylvania,st_deferred_infrastructure_improvement,postpone maintenance,S,S
+1835,100663,Cheyney University of Pennsylvania,lt_reduction_of_institution_staff,cut staff,S,S
+1839,100663,Cheyney University of Pennsylvania,lt_reduction_of_athletic_spending_programs,cut athletics budget,S,S
+1840,100663,Cheyney University of Pennsylvania,lt_reduction_of_institution_staff,staff layoffs,S,S
+1845,100663,Cheyney University of Pennsylvania,lt_reduction_of_athletic_spending_programs,cut athletics,S,S
+1857,100663,Cheyney University of Pennsylvania,lt_reduction_of_athletic_spending_programs,cut sports,S,S
+1871,100663,Cheyney University of Pennsylvania,lt_reduction_of_athletic_spending_programs,athletics spending cuts,S,S
+1934,100663,Cheyney University of Pennsylvania,st_expand_athletic_spending_programs_gr,add sport,S,S
+1939,100663,Cheyney University of Pennsylvania,st_expand_athletic_spending_programs_gr,increase athletics spending,S,S
+1945,100663,Cheyney University of Pennsylvania,st_expand_athletic_spending_programs_gr,add new athletic programs,S,S
+2027,100663,Cheyney University of Pennsylvania,lt_improve_staff_faculty_support_gr,faculty advancements,S,S
